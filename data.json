@@ -1,4 +1,10 @@
 [
+  {"name": "CHI 97", "path": "data/chi97.json"}, 
+  {"name": "CHI 98", "path": "data/chi98.json"}, 
+  {"name": "CHI 99", "path": "data/chi99.json"}, 
+  {"name": "CHI 00", "path": "data/chi00.json"}, 
+  {"name": "CHI 01", "path": "data/chi01.json"}, 
+  {"name": "CHI 02", "path": "data/chi02.json"}, 
   {"name": "CHI 03", "path": "data/chi03.json"}, 
   {"name": "CHI 04", "path": "data/chi04.json"}, 
   {"name": "CHI 05", "path": "data/chi05.json"}, 
