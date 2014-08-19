@@ -1,6 +1,5 @@
-<!-- saved from url=(0014)about:internet -->
 <!DOCTYPE html>
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" ng-app="paperListApp">
 <head>
   <meta charset="utf-8" />
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
@@ -8,10 +7,20 @@
   <title></title>
 </head>
 <body>
-  <div>
-      
+  <div id="paperList" ng-controller="PaperListCtrl">
+    <div>
+      Total {{ app.count }} paper(s).
+    </div>
+    <div ng-repeat="conf in app.confList">
+      <ul>
+        <li ng-repeat="paper in conf.papers">
+          <h4>{{ paper.title }} <small><span class="label label-primary">{{ conf.name}}</span> {{ paper.session }}</small></h4>
+          <p>{{ paper.abstract }}</p>
+        </li>
+      </ul>
+    </div>
   </div>
-  <script src="jquery-2.1.1.min.js"></script>
+  <script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.22/angular.min.js"></script>
   <script src="index.js"></script>
 </body>

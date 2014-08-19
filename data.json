@@ -1,0 +1,19 @@
+[
+  {"name": "CHI 03", "path": "data/chi03.json"}, 
+  {"name": "CHI 04", "path": "data/chi04.json"}, 
+  {"name": "CHI 05", "path": "data/chi05.json"}, 
+  {"name": "CHI 06", "path": "data/chi06.json"}, 
+  {"name": "CHI 07", "path": "data/chi07.json"}, 
+  {"name": "CHI 08", "path": "data/chi08.json"}, 
+  {"name": "CHI 09", "path": "data/chi09.json"}, 
+  {"name": "CHI 10", "path": "data/chi10.json"}, 
+  {"name": "CHI 11", "path": "data/chi11.json"}, 
+  {"name": "CHI 12", "path": "data/chi12.json"}, 
+  {"name": "CHI 13", "path": "data/chi13.json"}, 
+  {"name": "CHI 14", "path": "data/chi14.json"}, 
+  {"name": "ETRA 06", "path": "data/etra06.json"},
+  {"name": "ETRA 08", "path": "data/etra08.json"},
+  {"name": "ETRA 10", "path": "data/etra10.json"},
+  {"name": "ETRA 12", "path": "data/etra12.json"},
+  {"name": "ETRA 14", "path": "data/etra14.json"}
+]
