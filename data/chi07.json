@@ -1,0 +1,1190 @@
+[
+    {
+        "title": "A meta-analysis of the impact of the inclusion and realism of human-like faces on user experiences in interfaces",
+        "authors": "Nick Yee, Jeremy N Bailenson, Kathryn Rickertsen",
+        "abstract": "",
+        "session": "SESSION: Faces & bodies in interaction"
+    },
+    {
+        "title": "Improving recognition and characterization in groupware with rich embodiments",
+        "authors": "Tadeusz Stach, Carl Gutwin, David Pinelle, Pourang Irani",
+        "abstract": "",
+        "session": "SESSION: Faces & bodies in interaction"
+    },
+    {
+        "title": "Coordinating joint activity in avatar-mediated interaction",
+        "authors": "Robert J. Moore, E. Cabell Hankinson Gathman, Nicolas Ducheneaut, Eric Nickell",
+        "abstract": "",
+        "session": "SESSION: Faces & bodies in interaction"
+    },
+    {
+        "title": "Web 2.0 and the Enterprise: The Business Impact of Modern Technological Approaches to Web Application Design",
+        "authors": "John Kolko, Jeff Veen, Jonathan Grubb",
+        "abstract": "",
+        "session": "SESSION: Faces & bodies in interaction"
+    },
+    {
+        "title": "Industrial Design: Challenges and Successes Towards an integrated Product Development Process",
+        "authors": "David Gilmore, Jeremy Ashley, Tucker Viemeister, Tim Wood",
+        "abstract": "",
+        "session": "SESSION: Faces & bodies in interaction"
+    },
+    {
+        "title": "Monday CHI Madness",
+        "authors": "Partick Baudish",
+        "abstract": "",
+        "session": "SESSION: Faces & bodies in interaction"
+    },
+    {
+        "title": "From Mice to Men - 24 Years of Evaluation in CHI",
+        "authors": "Louise Barkhuus, Jennifer A. Rode",
+        "abstract": "",
+        "session": "SESSION: Faces & bodies in interaction"
+    },
+    {
+        "title": "Introduction",
+        "authors": "Steven Wall, Ilona Posner",
+        "abstract": "",
+        "session": "SESSION: Faces & bodies in interaction"
+    },
+    {
+        "title": "Past, Present, and Future of HCC Education: What We Teach, How We Teach",
+        "authors": "Jim Foley",
+        "abstract": "",
+        "session": "SESSION: Faces & bodies in interaction"
+    },
+    {
+        "title": "ACM welcome",
+        "authors": "Stu Feldman",
+        "abstract": "",
+        "session": "SESSION: Faces & bodies in interaction"
+    },
+    {
+        "title": "CHI 2008 Preview",
+        "authors": "Mary Czerwinski, Desney Tan, Arnie Lund, Ben Shneiderman",
+        "abstract": "",
+        "session": "SESSION: Faces & bodies in interaction"
+    },
+    {
+        "title": "Introduction to HCI - 1",
+        "authors": "Keith Butler, Rob Jacobs, David Kieras",
+        "abstract": "",
+        "session": "SESSION: Faces & bodies in interaction"
+    },
+    {
+        "title": "Introduction to CSCW - 2",
+        "authors": "Jim Herbsleb, Gary Olson",
+        "abstract": "",
+        "session": "SESSION: Faces & bodies in interaction"
+    },
+    {
+        "title": "Avoiding We Can't Change That Either!: Usability Supporting Architectural Patterns",
+        "authors": "Bonnie E. John, Elspeth Golden",
+        "abstract": "",
+        "session": "SESSION: Faces & bodies in interaction"
+    },
+    {
+        "title": "Using Computing Technologies to Face the Challenges of Autism",
+        "authors": "Gregory D. Abowd",
+        "abstract": "",
+        "session": "SESSION: Faces & bodies in interaction"
+    },
+    {
+        "title": "CHI 2007 Welcome",
+        "authors": "Dennis Wixon, Mary Beth Rosson, David Gilmore",
+        "abstract": "",
+        "session": "SESSION: Faces & bodies in interaction"
+    },
+    {
+        "title": "The mobile as a post Industrial platform for socio-economic development",
+        "authors": "Niti Bhan",
+        "abstract": "",
+        "session": "SESSION: Faces & bodies in interaction"
+    },
+    {
+        "title": "Make Evaluation Poverty History",
+        "authors": "Gilbert Cockton",
+        "abstract": "",
+        "session": "SESSION: Faces & bodies in interaction"
+    },
+    {
+        "title": "Along the Path of Pervasive Computing: Selected Works in GUI and TUI Design",
+        "authors": "Bill Lucas, Hiroshi Ishii, Jake Kolojejchick, Peter Lucas, David Rose",
+        "abstract": "",
+        "session": "SESSION: Faces & bodies in interaction"
+    },
+    {
+        "title": "How it works: a field study of non-technical users interacting with an intelligent system",
+        "authors": "Joe Tullio, Anind K. Dey, Jason Chalecki, James Fogarty",
+        "abstract": "In order to develop intelligent systems that attain the trust of their users, it is important to understand how users perceive such systems and develop those perceptions over time. We present an investigation into how users come to understand an intelligent system as they use it in their daily work. During a six-week field study, we interviewed eight office workers regarding the operation of a system that predicted their managers' interruptibility, comparing their mental models to the actual system model. Our results show that by the end of the study, participants were able to discount some of their initial misconceptions about what information the system used for reasoning about interruptibility. However, the overarching structures of their mental models stayed relatively stable over the course of the study. Lastly, we found that participants were able to give lay descriptions attributing simple machine learning concepts to the system despite their lack of technical knowledge. Our findings suggest an appropriate level of feedback for user interfaces of intelligent systems, provide a baseline level of complexity for user understanding, and highlight the challenges of making users aware of sensed inputs for such systems.",
+        "session": "SESSION: Faces & bodies in interaction"
+    },
+    {
+        "title": "Matching attentional draw with utility in interruption",
+        "authors": "Jennifer Gluck, Andrea Bunt, Joanna McGrenere",
+        "abstract": "This research examines a design guideline that aims to increase the positive perception of interruptions. The guideline advocates matching the amount of attention attracted by an interruption's notification method (attentional draw) to the utility of the interruption content. Our first experiment examined a set of 10 visual notification signals in terms of their detection times and established a set of three significantly different signals along the spectrum of attentional draw. Our second experiment investigated matching these different signals to interruption content with different levels of utility. Results indicate that the matching strategy decreases annoyance and increases perception of benefit compared to a strategy that uses the same signal regardless of interruption utility, with no significant impact on workload or performance. Design implications arising from the second experiment as well as recommendations for future work are discussed.",
+        "session": "SESSION: Faces & bodies in interaction"
+    },
+    {
+        "title": "Biases in human estimation of interruptibility: effects and implications for practice",
+        "authors": "Daniel Avrahami, James Fogarty, Scott E. Hudson",
+        "abstract": "People have developed a variety of conventions for negotiating face to face interruptions. The physical distribution of teams, however, together with the use of computer mediated communication and awareness systems, fundamentally alters what information is available to a person considering an interruption of a remote collaborator. This paper presents a detailed comparison between self-reports of interruptibility, collected from participants over extended periods in their actual work environment, and estimates of this interruptibility, provided by a second set of participants based on audio and video recordings. Our results identify activities and environmental cues that affect participants' ability to correctly estimate interruptibility. We show, for example, that a closed office door had a significant effect on observers' estimation of interruptibility, but did not have an effect on participants' reports of their own interruptibility. We discuss our findings and their importance for successful design of computer-mediated communication and awareness systems.",
+        "session": "SESSION: Faces & bodies in interaction"
+    },
+    {
+        "title": "Understanding videowork",
+        "authors": "David Kirk, Abigail Sellen, Richard Harper, Ken Wood",
+        "abstract": "In this paper we elucidate the patterns of behavior of home movie makers through a study of 12 families and a separate focus group of 7 teenagers. Analogous to a similar study of photowork [13], the goal is to provide a deeper understanding of what people currently do with video technologies, balancing the preponderence of techno-centric work in the area with appropriate user-centric insight. From our analysis, we derive a videowork lifecycle to frame the practices users engage in when working with video technologies in the home, and uncover two broad types of video usage therein. This has implications for how we conceive of and devise tools to support these practices, as we discuss.",
+        "session": "SESSION: Capturing life experiences"
+    },
+    {
+        "title": "Software or wetware?: discovering when and why people use digital prosthetic memory",
+        "authors": "Vaiva Kalnikaité, Steve Whittaker",
+        "abstract": "Our lives are full of memorable and important moments, as well as important items of information. The last few years have seen the proliferation of digital devices intended to support prosthetic memory (PM), to help users recall experiences, conversations and retrieve personal information. We nevertheless have little systematic understanding of when and why people might use such devices, in preference to their own organic memory (OM). Although OM is fallible, it may be more efficient than accessing information from a complex PM device. We report a controlled lab study which investigates when and why people use PM and OM. We found that PM use depended on users' evaluation of the quality of their OM, as well as PM device properties. In particular, we found that users trade-off Accuracy and Efficiency, preferring rapid access to potentially inaccurate information over laborious access to accurate information. We discuss the implications of these results for future PM design and theory. Rather than replacing OM, future PM designs need to focus on allowing OM and PM to work in synergy.",
+        "session": "SESSION: Capturing life experiences"
+    },
+    {
+        "title": "Do life-logging technologies support memory for the past?: an experimental study using sensecam",
+        "authors": "Abigail J. Sellen, Andrew Fogg, Mike Aitken, Steve Hodges, Carsten Rother, Ken Wood",
+        "abstract": "We report on the results of a study using SenseCam, a \"life-logging\" technology in the form of a wearable camera, which aims to capture data about everyday life in order to support people's memory for past, personal events. We find evidence that SenseCam images do facilitate people's ability to connect to their past, but that images do this in different ways. We make a distinction between \"remembering\" the past, and \"knowing\" about it, and provide evidence that SenseCam images work differently over time in these capacities. We also compare the efficacy of user-captured images with automatically captured images and discuss the implications of these findings and others for how we conceive of and make claims about life-logging technologies.",
+        "session": "SESSION: Capturing life experiences"
+    },
+    {
+        "title": "An exploratory study of input configuration and group process in a negotiation task using a large display",
+        "authors": "Jeremy P. Birnholtz, Tovi Grossman, Clarissa Mak, Ravin Balakrishnan",
+        "abstract": "This paper reports on an exploratory study of the effects of input configuration on group behavior and performance in a collaborative task performed by a collocated group using a large display. Twelve groups completed a mixed-motive negotiation task under two conditions: a single, shared mouse and one mouse per person. Results suggest that the multiple mouse condition allowed for more parallel work, but the quality of discussion was higher in the single mouse condition. Moreover, participants were more likely to act in their own best interest in the multiple mouse condition.",
+        "session": "SESSION: Large displays"
+    },
+    {
+        "title": "Beyond visual acuity: the perceptual scalability of information visualizations for large displays",
+        "authors": "Beth Yost, Yonca Haciahmetoglu, Chris North",
+        "abstract": "The scalability of information visualizations has typically been limited by the number of available display pixels. As displays become larger, the scalability limit may shift away from the number of pixels and toward human perceptual abilities. This work explores the effect of using large, high resolution displays to scale up information visualizations beyond potential visual acuity limitations. Displays that are beyond visual acuity require physical navigation to see all of the pixels. Participants performed various information visualization tasks using display sizes with a sufficient number of pixels to be within, equal to, or beyond visual acuity. Results showed that performance on most tasks was more efficient and sometimes more accurate because of the additional data that could be displayed, despite the physical navigation that was required. Visualization design issues on large displays are also discussed.",
+        "session": "SESSION: Large displays"
+    },
+    {
+        "title": "White rooms and morphing don't mix: setting and the evaluation of visualization techniques",
+        "authors": "Derek F. Reilly, Kori M. Inkpen",
+        "abstract": "The results presented in this paper illustrate how a specific map visualization technique is sensitive to setting: a comparative evaluation of the technique gives conflicting results depending on where it takes place. While prior research has explored the impact of factors other than basic visual perception on visualization techniques, relatively little attention has been directed toward the physical setting in which the technique is used. We present results from a study involving 120 participants, comparing the effectiveness of two different geovisualization techniques in promoting recall of map layout. Recall was shown to be sensitive to setting, such that one technique in particular was more effective in a noisy public space than in a controlled, 'white-room' environment. The results have implications for the validation and measurement of information visualization techniques as a whole, and in particular for those employing motion as a communicative attribute.",
+        "session": "SESSION: Large displays"
+    },
+    {
+        "title": "Shoogle: excitatory multimodal interaction on mobile devices",
+        "authors": "John Williamson, Roderick Murray-Smith, Stephen Hughes",
+        "abstract": "",
+        "session": "SESSION: Shake, rattle and roll: new forms of input and output"
+    },
+    {
+        "title": "Momento: support for situated ubicomp experimentation",
+        "authors": "Scott Carter, Jennifer Mankoff, Jeffrey Heer",
+        "abstract": "We present the iterative design of Momento, a tool that providesintegrated support for situated evaluation of ubiquitouscomputing applications. We derived requirements for Momento from a user-centered design process that includedinterviews, observations and field studies of early versionsof the tool. Motivated by our findings, Momento supportsremote testing of ubicomp applications, helps with participantadoption and retention by minimizing the need for newhardware, and supports mid-to-long term studies to addressinfrequently occurring data. Also, Momento can gather logdata, experience sampling, diary, and other qualitative data.",
+        "session": "SESSION: Ubicomp tools"
+    },
+    {
+        "title": "Toolkit support for developing and deploying sensor-based statistical models of human situations",
+        "authors": "James Fogarty, Scott E. Hudson",
+        "abstract": "Sensor based statistical models promise to support a variety of advances in human computer interaction, but building applications that use them is currently difficult and potential advances go unexplored. We present Subtle, a toolkit that removes some of the obstacles to developing and deploying applications using sensor based statistical models of human situations. Subtle provides an appropriate and extensible sensing library, continuous learning of personalized models, fully automated high level feature generation, and support for using learned models in deployed applications. By removing obstacles to developing and deploying sensor based statistical models, Subtle makes it easier to explore the design space surrounding sensor based statistical models of human situations. Subtle thus helps to move the focus of human computer interaction research onto applications and datasets, instead of the difficulties of developing and deploying sensor based statistical models.",
+        "session": "SESSION: Ubicomp tools"
+    },
+    {
+        "title": "Authoring sensor-based interactions by demonstration with direct manipulation and pattern recognition",
+        "authors": "Björn Hartmann, Leith Abdulla, Manas Mittal, Scott R. Klemmer",
+        "abstract": "Sensors are becoming increasingly important in interaction design. Authoring a sensor-based interaction comprises three steps: choosing and connecting the appropriate hardware, creating application logic, and specifying the relationship between sensor values and application logic. Recent research has successfully addressed the first two issues. However, linking sensor input data to application logic remains an exercise in patience and trial-and-error testing for most designers. This paper introduces techniques for authoring sensor-based interactions by demonstration. A combination of direct manipulation and pattern recognition techniques enables designers to control how demonstrated examples are generalized to interaction rules. This approach emphasizes design exploration by enabling very rapid iterative demonstrate-edit-review cycles. This paper describes the manifestation of these techniques in a design tool, Exemplar, and presents evaluations through a first-use lab study and a theoretical analysis using the Cognitive Dimensions of Notation framework.",
+        "session": "SESSION: Ubicomp tools"
+    },
+    {
+        "title": "Questions not answers: a novel mobile search technique",
+        "authors": "Matt Jones, George Buchanan, Richard Harper, Pierre-Louis Xech",
+        "abstract": "",
+        "session": "SESSION: Mobile interaction"
+    },
+    {
+        "title": "Tactile feedback for mobile interactions",
+        "authors": "Stephen Brewster, Faraz Chohan, Lorna Brown",
+        "abstract": "",
+        "session": "SESSION: Mobile interaction"
+    },
+    {
+        "title": "Revisiting and validating a model of two-thumb text entry",
+        "authors": "Edward Clarkson, Kent Lyons, James Clawson, Thad Starner",
+        "abstract": "",
+        "session": "SESSION: Mobile interaction"
+    },
+    {
+        "title": "\"Jump and refine\" for rapid pointing on mobile phones",
+        "authors": "Martin Hachet, Joachim Pouderoux, Florence Tyndiuk, Pascal Guitton",
+        "abstract": "",
+        "session": "SESSION: Mobile interaction"
+    },
+    {
+        "title": "Usability of voting systems: baseline data for paper, punch cards, and lever machines",
+        "authors": "Michael D. Byrne, Kristen K. Greene, Sarah P. Everett",
+        "abstract": "In the United States, computer-based voting machines are rapidly replacing other older technologies. While there is potential for this to be a usability improvement, particularly in terms of accessibility, the only way it is possible to know if usability has improved is to have baseline data on the usability of traditional technologies. We report an experiment assessing the usability of punch cards, lever machines, and two forms of paper ballot. There were no differences in ballot completion time between the four methods, but there were substantial effects on error rate, with the paper ballots superior to the other methods as well as an interaction with age of voters. Subjective usability was assessed with the System Usability Scale and showed a slight advantage for bubble-style paper ballots. Overall, paper ballots were found to be particularly usable, which raises important technological and policy issues.",
+        "session": "SESSION: Politics & activism"
+    },
+    {
+        "title": "A game design methodology to incorporate social activist themes",
+        "authors": "Mary Flanagan, Helen Nissenbaum",
+        "abstract": "Can a set of articulated and tested methodologies be created whose endpoint is the reliable capacity for taking activist social themes into account? In this paper we explore a variety of educational and activist game approaches, and look specifically at the themes emerging from recent projects involving game design for young women. We articulate here design practices in a methodology, Values at Play (VAP), that could be used in the creation of games as well as the teaching of game design.",
+        "session": "SESSION: Politics & activism"
+    },
+    {
+        "title": "Move to improve: promoting physical navigation to increase user performance with large displays",
+        "authors": "Robert Ball, Chris North, Doug A. Bowman",
+        "abstract": "In navigating large information spaces, previous work indicates potential advantages of physical navigation (moving eyes, head, body) over virtual navigation (zooming, panning, flying). However, there is also indication of users preferring or settling into the less efficient virtual navigation. We present a study that examines these issues in the context of large, high resolution displays. The study identifies specific relationships between display size, amount of physical and virtual navigation, and user task performance. Increased physical navigation on larger displays correlates with reduced virtual navigation and improved user performance. Analyzing the differences between this study and previous results helps to identify design factors that afford and promote the use of physical navigation in the user interface.",
+        "session": "SESSION: Navigation & interaction"
+    },
+    {
+        "title": "Copy-and-paste between overlapping windows",
+        "authors": "Olivier Chapuis, Nicolas Roussel",
+        "abstract": "Copy-and-paste, one of the fundamental operations of modern userinterfaces, can be performed through various means (e.g. using the keyboard, mouse-based direct manipulation or menus). When users copy-and-paste between two different windows, the process is complicated by window management tasks. In this paper, we propose two new window management techniques to facilitate these tasks in the particular case of partially overlapping windows. We describe an experiment comparing four commonly-used copy-and-paste techniques under four window management conditions -- non-overlapping windows, partially overlapping windows, and partially overlapping ones with one of our two window management techniques. Results show that our new window management techniques significantly reduce task completion time for all copy-and-paste techniques. They also show that X Window copy-and-paste is faster than the other three techniques under all four window management conditions.",
+        "session": "SESSION: Navigation & interaction"
+    },
+    {
+        "title": "Consistency, multiple monitors, and multiple windows",
+        "authors": "Dugald Ralph Hutchings, John Stasko",
+        "abstract": "We present an evaluation of mudibo, a prototype system for determining the position of dialog boxes in a multiple-monitor system. The analysis shows that, when compared to a standard approach, mudibo offered a 24% decrease in time needed to begin interaction in a dialog box. Analysis of participant behavior in the evaluation provides insight into the way users perceive and act in multiple-monitor environments. Specifically, the notion of consistency changes for multiple-monitor systems and the prospect of adaptive algorithms becomes further complicated and intricate, especially for window management.",
+        "session": "SESSION: Navigation & interaction"
+    },
+    {
+        "title": "How pairs interact over a multimodal digital table",
+        "authors": "Edward Tse, Chia Shen, Saul Greenberg, Clifton Forlines",
+        "abstract": "Co-located collaborators often work over physical tabletops using combinations of expressive hand gestures and verbal utterances. This paper provides the first observations of how pairs of people communicated and interacted in a multimodal digital table environment built atop existing single user applications. We contribute to the understanding of these environments in two ways. First, we saw that speech and gesture commands served double duty as both commands to the computer, and as implicit communication to others. Second, in spite of limitations imposed by the underlying single-user application, people were able to work together simultaneously, and they performed interleaving acts: the graceful mixing of inter-person speech and gesture actions as commands to the system. This work contributes to the intricate understanding of multi-user multimodal digital table interaction.",
+        "session": "SESSION: Navigation & interaction"
+    },
+    {
+        "title": "An observational study on information flow during nurses' shift change",
+        "authors": "Charlotte Tang, Sheelagh Carpendale",
+        "abstract": "We present an observational study that was conducted to guide the design and development of technologies to support information flow during nurses' shift change in a hospital ward. Our goal is to find out how the complex information sharing processes during nurses' brief shift change unfold in a hospital setting. Our study shows the multitude of information media that nurses access during the parallel processes of information assembly and disassembly: digital, paper-based, displayed and verbal media. An initial analysis reveals how the common information spaces, where information media are positioned and accessible by all participants, are actively used and how they interact with the personal information spaces ephemerally constructed by the participants. Several types of information are consistently transposed from the common information spaces to the personal information space including: demographics, historical data, reminders and to-dos, alerts, prompts, scheduling and reporting information. Information types are often enhanced with a variety of visual cues to help nurses carry out their tasks.",
+        "session": "SESSION: Medical"
+    },
+    {
+        "title": "Medical sensemaking with entity workspace",
+        "authors": "Dorrit Billman, Eric A. Bier",
+        "abstract": "Knowledge workers making sense of a topic divide their time among activities including searching for information, reading, and taking notes. We have built a software system that supports and integrates these activities. To test its effectiveness, we conducted a study where subjects used it to perform medical question-answering tasks. Initial results indicate that subjects could use the system, but that the nature of this use depended on the subject's overall question-answering strategy. Two dominant strategies emerged that we call the Reader and Searcher strategies.",
+        "session": "SESSION: Medical"
+    },
+    {
+        "title": "A cognitive constraint model of dual-task trade-offs in a highly dynamic driving task",
+        "authors": "Duncan P. Brumby, Andrew Howes, Dario D. Salvucci",
+        "abstract": "",
+        "session": "SESSION: Task & attention"
+    },
+    {
+        "title": "iPod distraction: effects of portable music-player use on driver performance",
+        "authors": "Dario D. Salvucci, Daniel Markley, Mark Zuber, Duncan P. Brumby",
+        "abstract": "",
+        "session": "SESSION: Task & attention"
+    },
+    {
+        "title": "InkSeine: In Situ search for active note taking",
+        "authors": "Ken Hinckley, Shengdong Zhao, Raman Sarin, Patrick Baudisch, Edward Cutrell, Michael Shilman, Desney Tan",
+        "abstract": "",
+        "session": "SESSION: Task & attention"
+    },
+    {
+        "title": "Sharing a single expert among multiple partners",
+        "authors": "Jeffrey Wong, Lui Min Oh, Jiazhi Ou, Carolyn P. Rosé, Jie Yang, Susan R. Fussell",
+        "abstract": "Expertise to assist people on complex tasks is often in short supply. One solution to this problem is to design systems that allow remote experts to help multiple people in simultaneously. As a first step towards building such a system, we studied experts' attention and communication as they assisted two novices at the same time in a co-located setting. We compared simultaneous instruction when the novices are being instructed to do the same task or different tasks. Using machine learning, we attempted to identify speech markers of upcoming attention shifts that could serve as input to a remote assistance system.",
+        "session": "SESSION: Expert/novice"
+    },
+    {
+        "title": "Dynamic detection of novice vs. skilled use without a task model",
+        "authors": "Amy Hurst, Scott E. Hudson, Jennifer Mankoff",
+        "abstract": "If applications were able to detect a user's expertise, then software could automatically adapt to better match exper-tise. Detecting expertise is difficult because a user's skill changes as the user interacts with an application and differs across applications. This means that expertise must be sensed dynamically, continuously, and unobtrusively so as not to burden the user. We present an approach to this prob-lem that can operate without a task model based on low-level mouse and menu data which can typically be sensed across applications at the operating systems level. We have implemented and trained a classifier that can detect \"nov-ice\" or \"skilled\" use of an image editing program, the GNU Image Manipulation Program (GIMP), at 91% accuracy, and tested it against real use. In particular, we developed and tested a prototype application that gives the user dy-namic application information that differs depending on her performance.",
+        "session": "SESSION: Expert/novice"
+    },
+    {
+        "title": "Approaches to web search and navigation for older computer novices",
+        "authors": "Anna Dickinson, Michael J. Smith, John L. Arnott, Alan F. Newell, Robin L. Hill",
+        "abstract": "A proof of concept web search and navigation system was developed for older people for whom the Internet is seen as an alien territory. A joint industry/academia team deployed User Sensitive Inclusive Design principles, focusing on the usability of the interface for this user group. The search and navigation system that was developed was significantly preferred by the user group to that provided by a standard commercial (Internet Service Provider) system; it scored highly for ease of use and the participants reported increased confidence in their ability to master the Internet. Recorded quantitative measures showed fewer task errors. The outcome of the development was a successful \"proof of concept\" search and navigation system for older novice computer users together with approaches to design and development for those who wish to design for this user group.",
+        "session": "SESSION: Expert/novice"
+    },
+    {
+        "title": "Designing a mobile user interface for automated species identification",
+        "authors": "Sean Michael White, Dominic Marino, Steven Feiner",
+        "abstract": "",
+        "session": "SESSION: Mobile applications"
+    },
+    {
+        "title": "BrickRoad: a light-weight tool for spontaneous design of location-enhanced applications",
+        "authors": "Alan L. Liu, Yang Li",
+        "abstract": "",
+        "session": "SESSION: Mobile applications"
+    },
+    {
+        "title": "Psychophysical elements of wearability",
+        "authors": "Lucy E. Dunne, Barry Smyth",
+        "abstract": "",
+        "session": "SESSION: Mobile applications"
+    },
+    {
+        "title": "The tilt cursor: enhancing stimulus-response compatibility by providing 3d orientation cue of pen",
+        "authors": "Feng Tian, Xiang Ao, Hongan Wang, Vidya Setlur, Guozhong Dai",
+        "abstract": "",
+        "session": "SESSION: Mobile applications"
+    },
+    {
+        "title": "How younger and older adults master the usage of hyperlinks in small screen devices",
+        "authors": "Martina Ziefle, Ulrik Schroeder, Judith Strenk, Thomas Michel",
+        "abstract": "",
+        "session": "SESSION: Mobile applications"
+    },
+    {
+        "title": "Modeling steering within above-the-surface interaction layers",
+        "authors": "Raghavendra S. Kattinakere, Tovi Grossman, Sriram Subramanian",
+        "abstract": "Interaction techniques that utilize the space above the display surface to extend the functionalities of digitized surfaces continue to emerge. In such techniques, movements are constrained by the bounds of a layer. In addition, constraints imposed on the direction of movement within the layer may be present. Despite the presence of such techniques, there is limited understanding of human capabilities for performing the required steering task. In this paper we study and model user performance when steering through constrained and unconstrained paths in above-the-surface layers. Through a series of experiments we validate the derivation and applicability of our proposed models.",
+        "session": "SESSION: Navigation"
+    },
+    {
+        "title": "Quantifying degree of goal directedness in document navigation: application to the evaluation of the perspective-drag technique",
+        "authors": "Yves Guiard, Yangzhou Du, Olivier Chapuis",
+        "abstract": "This article pursues a two-fold goal. First we introduce degree of goal directedness (DGD), a novel quantitative dimension for the taxonomy of navigation tasks in general. As an attempt to operationalize the DGD concept in the context of electronic documents navigation, we introduce the serial target-acquisition (STA) experimental paradigm. We suggest that DGD and the STA paradigm may usefully enrich the conceptual toolkit of HCI research for the evaluation of navigation techniques. Our second goal is to illustrate the utility of the DGD concept by showing with a concrete example, Perspective Drag, the refinement it allows in evaluating navigation techniques. We report data obtained from two experiments with the STA paradigm that cast light on what Perspective Drag is specifically good for: it is particularly suitable in realistic task contexts where navigation is less than 100% directed by its terminal goal, that is, where the user wants not only to reach a particular item but also to pick up information from the document during document traversal.",
+        "session": "SESSION: Navigation"
+    },
+    {
+        "title": "PageLinker: integrating contextual bookmarks within a browser",
+        "authors": "Aurélien Tabard, Wendy Mackay, Nicolas Roussel, Catherine Letondal",
+        "abstract": "PageLinker is a browser extension that allows to contextualise navigation by linking web pages together and to navigate through a network of related web pages without prior planning. The design is based on extensive interviews with biologists, which highlighted their difficulties finding previously visited web pages. They found current browser tools inadequate, resulting in poorly organised bookmarks and rarely used history lists. In a four-week controlled field experiment, PageLinker significantly reduced time, page loads and mouse clicks. By presenting links in context, PageLinker facilitates web page revisitation, is less prone to bookmark overload and is highly robust to change.",
+        "session": "SESSION: Navigation"
+    },
+    {
+        "title": "Give and take: a study of consumer photo-sharing culture and practice",
+        "authors": "Andrew D. Miller, W. Keith Edwards",
+        "abstract": "In this paper, we present initial findings from the study of a digital photo-sharing website: Flickr.com. In particular, we argue that Flickr.com appears to support-for some people-a different set of photography practices, socialization styles, and perspectives on privacy that are unlike those described in previous research on consumer and amateur photographers. Further, through our examination of digital photographers' photowork activities-organizing, finding, sharing and receiving-we suggest that privacy concerns and lack of integration with existing communication channels have the potential to prevent the 'Kodak Culture' from fully adopting current photo-sharing solutions.",
+        "session": "SESSION: Photo sharing"
+    },
+    {
+        "title": "Over-exposed?: privacy patterns and considerations in online and mobile photo sharing",
+        "authors": "Shane Ahern, Dean Eckles, Nathaniel S. Good, Simon King, Mor Naaman, Rahul Nair",
+        "abstract": "As sharing personal media online becomes easier and widely spread, new privacy concerns emerge - especially when the persistent nature of the media and associated context reveals details about the physical and social context in which the media items were created. In a first-of-its-kind study, we use context-aware camerephone devices to examine privacy decisions in mobile and online photo sharing. Through data analysis on a corpus of privacy decisions and associated context data from a real-world system, we identify relationships between location of photo capture and photo privacy settings. Our data analysis leads to further questions which we investigate through a set of interviews with 15 users. The interviews reveal common themes in privacy considerations: security, social disclosure, identity and convenience. Finally, we highlight several implications and opportunities for design of media sharing applications, including using past privacy patterns to prevent oversights and errors.",
+        "session": "SESSION: Photo sharing"
+    },
+    {
+        "title": "EasyAlbum: an interactive photo annotation system based on face clustering and re-ranking",
+        "authors": "Jingyu Cui, Fang Wen, Rong Xiao, Yuandong Tian, Xiaoou Tang",
+        "abstract": "Digital photo management is becoming indispensable for the explosively growing family photo albums due to the rapid popularization of digital cameras and mobile phone cameras. In an effective photo management system photo annotation is the most challenging task. In this paper, we develop several innovative interaction techniques for semi-automatic photo annotation. Compared with traditional annotation systems, our approach provides the following new features: \"cluster annotation\" puts similar faces or photos with similar scene together, and enables user label them in one operation; \"contextual re-ranking\" boosts the labeling productivity by guessing the user intention; \"ad hoc annotation\" allows user label photos while they are browsing or searching, and improves system performance progressively through learning propagation. Our results show that these technologies provide a more user friendly interface for the annotation of person name, location, and event, and thus substantially improve the annotation performance especially for a large photo album.",
+        "session": "SESSION: Photo sharing"
+    },
+    {
+        "title": "An exploration of web-based monitoring: implications for design",
+        "authors": "Melanie Kellar, Carolyn Watters, Kori M. Inkpen",
+        "abstract": "Monitoring occurs when users return to previously viewed web pages to view new or updated information. While tools exist to support web-based monitoring, we know little about the monitoring activities users engage in and the nature of the support needed. We have conducted 40 semi-structured interviews in order to better understand the types of information users monitor and the characteristics of different monitoring activities. Using the data collected during the interviews, we characterized monitoring as an activity within six web information tasks: Browsing, Communications, Fact Finding, Information Gathering, Maintenance, and Transactions. The results of our study have been used to provide general, as well as task specific, recommendations for the design of monitoring tools.",
+        "session": "SESSION: Empirical studies of web interaction"
+    },
+    {
+        "title": "Investigating attractiveness in web user interfaces",
+        "authors": "Jan Hartmann, Alistair Sutcliffe, Antonella De Angeli",
+        "abstract": "A theoretical framework for assessing the attractiveness of websites based on Adaptive Decision Making theory is introduced. The framework was developed into a questionnaire and used to evaluate three websites which shared the same brand and topic but differed in aesthetic design. The DSchool site was favoured overall and was best for aesthetics and usability. The subjective ratings of the sites were in conflict with the subject-reported comments on usability problems. Subjects were given two scenarios for their preference. They changed their preference from the DSchool to the HCI Group's site for the more serious (PhD study) scenario; however, design background students remained loyal to the DSchool. The implications of framing and halo effects on users' judgement of aesthetics are discussed.",
+        "session": "SESSION: Empirical studies of web interaction"
+    },
+    {
+        "title": "The relationship between accessibility and usability of websites",
+        "authors": "Helen Petrie, Omar Kheir",
+        "abstract": "Accessibility and usability are well established concepts for user interfaces and websites. Usability is precisely defined, but there are different approaches to accessibility. In addition, different possible relationships could exist between problems encountered by disabled and non-disabled users, yet little empirical data have been gathered on this question. Guidelines for accessibility and usability of websites provide ratings of the importance of problems for users, yet little empirical data have been gathered to validate these ratings. A study investigated the accessibility of two websites with 6 disabled (blind) and 6 non-disabled (sighted) people. Problems encountered by the two groups comprised two intersecting sets, with approximately 15% overlap. For one of the two websites, blind people rated problems significantly more severely than sighted people. There was high agreement between participants as to the severity of problems, and agreement between participants and researchers. However, there was no significant agreement between either participants or researchers and the importance/priority ratings provided by accessibility and usability guidelines. Practical and theoretical implications of these results are discussed.",
+        "session": "SESSION: Empirical studies of web interaction"
+    },
+    {
+        "title": "What are you looking for?: an eye-tracking study of information usage in web search",
+        "authors": "Edward Cutrell, Zhiwei Guan",
+        "abstract": "Web search services are among the most heavily used applications on the World Wide Web. Perhaps because search is used in such a huge variety of tasks and contexts, the user interface must strike a careful balance to meet all user needs. We describe a study that used eye tracking methodologies to explore the effects of changes in the presentation of search results. We found that adding information to the contextual snippet significantly improved performance for informational tasks but degraded performance for navigational tasks. We discuss possible reasons for this difference and the design implications for better presentation of search results.",
+        "session": "SESSION: Gaze & eye tracking"
+    },
+    {
+        "title": "An eye tracking study of the effect of target rank on web search",
+        "authors": "Zhiwei Guan, Edward Cutrell",
+        "abstract": "Web search engines present search results in a rank ordered list. This works when what a user wants is near the top, but sometimes the information that the user really wants is located at the bottom of the page. This study examined how users' search behaviors vary when target results were displayed at various positions for informational and navigational tasks. We found that when targets were placed relatively low in the first page of search results, people spent more time searching and were less successful in finding the target, especially for informational tasks. Further analysis of eye movements showed that the decrease in search performance was partially due to the fact that users rarely looked at lower ranking results. The large decrease in performance for informational search is probably because users have high confidence in the search engine's ranking; in contrast to navigational tasks, where the target is more obvious from information presented in the results, in informational tasks, users try out the top ranked results even if these results are perceived as less relevant for the task.",
+        "session": "SESSION: Gaze & eye tracking"
+    },
+    {
+        "title": "EyePoint: practical pointing and selection using gaze and keyboard",
+        "authors": "Manu Kumar, Andreas Paepcke, Terry Winograd",
+        "abstract": "We present a practical technique for pointing and selection using a combination of eye gaze and keyboard triggers. EyePoint uses a two-step progressive refinement process fluidly stitched together in a look-press-look-release action, which makes it possible to compensate for the accuracy limitations of the current state-of-the-art eye gaze trackers. While research in gaze-based pointing has traditionally focused on disabled users, EyePoint makes gaze-based pointing effective and simple enough for even able-bodied users to use for their everyday computing tasks. As the cost of eye gaze tracking devices decreases, it will become possible for such gaze-based techniques to be used as a viable alternative for users who choose not to use a mouse depending on their abilities, tasks and preferences.",
+        "session": "SESSION: Gaze & eye tracking"
+    },
+    {
+        "title": "A minimal model for predicting visual search in human-computer interaction",
+        "authors": "Tim Halverson, Anthony J. Hornof",
+        "abstract": "Visual search is an important part of human-computer interaction. It is critical that we build theory about how people visually search displays in order to better support the users' visual capabilities and limitations in everyday tasks. One way of building such theory is through computational cognitive modeling. The ultimate promise for cognitive modeling in HCI it to provide the science base needed for predictive interface analysis tools. This paper discusses computational cognitive modeling of the perceptual, strategic, and oculomotor processes people used in a visual search task. This work refines and rounds out previously reported cognitive modeling and eye tracking analysis. A revised \"minimal model\" of visual search is presented that explains a variety of eye movement data better than the original model. The revised model uses a parsimonious strategy that is not tied to a particular visual structure or feature beyond the location of objects. Three characteristics of the minimal strategy are discussed in detail.",
+        "session": "SESSION: Gaze & eye tracking"
+    },
+    {
+        "title": "A familiar face(book): profile elements as signals in an online social network",
+        "authors": "Cliff A.C. Lampe, Nicole Ellison, Charles Steinfield",
+        "abstract": "",
+        "session": "SESSION: Online representation of self"
+    },
+    {
+        "title": "Constructing my online self: avatars that increase self-focused attention",
+        "authors": "Asimina Vasalou, Adam N. Joinson, Jeremy Pitt",
+        "abstract": "",
+        "session": "SESSION: Online representation of self"
+    },
+    {
+        "title": "The truth about lying in online dating profiles",
+        "authors": "Jeffrey T. Hancock, Catalina Toma, Nicole Ellison",
+        "abstract": "",
+        "session": "SESSION: Online representation of self"
+    },
+    {
+        "title": "He says, she says: conflict and coordination in Wikipedia",
+        "authors": "Aniket Kittur, Bongwon Suh, Bryan A. Pendleton, Ed H. Chi",
+        "abstract": "Wikipedia, a wiki-based encyclopedia, has become one of the most successful experiments in collaborative knowledge building on the Internet. As Wikipedia continues to grow, the potential for conflict and the need for coordination increase as well. This article examines the growth of such non-direct work and describes the development of tools to characterize conflict and coordination costs in Wikipedia. The results may inform the design of new collaborative knowledge systems.",
+        "session": "SESSION: Online representation of self"
+    },
+    {
+        "title": "Modeling pointing at targets of arbitrary shapes",
+        "authors": "Tovi Grossman, Nicholas Kong, Ravin Balakrishnan",
+        "abstract": "We investigate pointing at graphical targets of arbitrary shapes. We first describe a previously proposed probabilistic Fitts' law model [7] which, unlike previous models that only account for rectangular targets, has the potential to handle arbitrary shapes. Three methods of defining the centers of arbitrarily shaped targets for use within the model are developed. We compare these methods of defining target centers, and validate the model using a pointing experiment in which the targets take on various shapes. Results show that the model can accurately account for the varying target shapes. We discuss the implications of our results to interface design.",
+        "session": "SESSION: Innovative interactions"
+    },
+    {
+        "title": "Perception of elementary graphical elements in tabletop and multi-surface environments",
+        "authors": "Daniel Wigdor, Chia Shen, Clifton Forlines, Ravin Balakrishnan",
+        "abstract": "Information shown on a tabletop display can appear distorted when viewed by a seated user. Even worse, the impact of this distortion is different depending on the location of the information on the display. In this paper, we examine how this distortion affects the perception of the basic graphical elements of information visualization shown on displays at various angles. We first examine perception of these elements on a single display, and then compare this to perception across displays, in order to evaluate the effectiveness of various elements for use in a tabletop and multi-display environment. We found that the perception of some graphical elements is more robust to distortion than others. We then develop recommendations for building data visualizations for these environments.",
+        "session": "SESSION: Innovative interactions"
+    },
+    {
+        "title": "Exploring and reducing the effects of orientation on text readability in volumetric displays",
+        "authors": "Tovi Grossman, Daniel Wigdor, Ravin Balakrishnan",
+        "abstract": "Volumetric displays, which provide a 360° view of imagery illuminated in true 3D space, are a promising platform for interactive 3D applications. However, presenting text in volumetric displays can be a challenge, as the text may not be oriented towards the user. This is especially problematic with multiple viewers, as the text could, for example, appear forwards to one user, and backwards to another. In a first experiment we determined the effects of 3D rotations on text readability. Based on the results, we developed and evaluated a new technique which optimizes text orientation for multiple viewers. This technique provided 33% faster group reading times in a collaborative experimental task.",
+        "session": "SESSION: Innovative interactions"
+    },
+    {
+        "title": "Research through design as a method for interaction design research in HCI",
+        "authors": "John Zimmerman, Jodi Forlizzi, Shelley Evenson",
+        "abstract": "",
+        "session": "SESSION: Design theory"
+    },
+    {
+        "title": "Sustainable interaction design: invention & disposal, renewal & reuse",
+        "authors": "Eli Blevis",
+        "abstract": "",
+        "session": "SESSION: Design theory"
+    },
+    {
+        "title": "Computational composites",
+        "authors": "Anna Vallgårda, Johan Redström",
+        "abstract": "",
+        "session": "SESSION: Design theory"
+    },
+    {
+        "title": "Jogging the distance",
+        "authors": "Shannon O'Brien, Florian \"Floyd\" Mueller",
+        "abstract": "People enjoy jogging with others for social and motivational reasons. However, as reported by forum participants, finding a compatible, local jogging partner who shares the ability to jog at the same pace for the same duration is not always easy. One possible way to overcome this challenge is to expand the range of potential jogging partners by allowing for interaction with remote joggers. We investigated whether a jogging experience supporting conversation between remote partners could be desirable and motivating. We conducted an experiment with 18 volunteers using conventional mobile phones with headsets to support conversations as participants jogged in disjoint, outdoor areas. Results show that a simple audio connection supports participants' need to socialize and allows partners to encourage each other.",
+        "session": "SESSION: Play & exercise"
+    },
+    {
+        "title": "Sabbath day home automation: \"it's like mixing technology and religion\"",
+        "authors": "Allison Woodruff, Sally Augustin, Brooke Foucault",
+        "abstract": "We present a qualitative study of 20 American Orthodox Jewish families' use of home automation for religious purposes. These lead users offer insight into real-life, long-term experience with home automation technologies. We discuss how automation was seen by participants to contribute to spiritual experience and how participants oriented to the use of automation as a religious custom. We also discuss the relationship of home automation to family life. We draw design implications for the broader population, including surrender of control as a design resource, home technologies that support long-term goals and lifestyle choices, and respite from technology.",
+        "session": "SESSION: Home spirituality"
+    },
+    {
+        "title": "Enhancing ubiquitous computing with user interpretation: field testing the home health horoscope",
+        "authors": "William Gaver, Phoebe Sengers, Tobie Kerridge, Joseph Kaye, John Bowers",
+        "abstract": "Domestic ubiquitous computing systems often rely on inferences about activities in the home, but the open-ended, dynamic and heterogeneous nature of the home poses serious problems for such systems. In this paper, we propose that by shifting the responsibility for interpretation from the system to the user, we can build systems that interact with people at humanly meaningful levels, preserve privacy, and encourage engagement with suggested topics. We describe a system that embodies this hypothesis, using sensors and inferencing software to assess 'domestic wellbeing' and presenting the results to inhabitants through an output chosen for its ambiguity. In a three-month field study of the system, customised for a particular volunteer household, users engaged extensively with the system, discussing and challenging its outputs and responding to the particular topics it raised.",
+        "session": "SESSION: Home spirituality"
+    },
+    {
+        "title": "Home networking and HCI: what hath god wrought?",
+        "authors": "Erika Shehan, W. Keith Edwards",
+        "abstract": "For much of the industrialized world, network connectivity in the home is commonplace. Despite the large number of networked homes, even the most technically savvy people can have difficulties with home network installation and maintenance. We contend that these problems will not disappear over time as the networking industry matures, but rather are due to structural usability flaws inherent in the design of existing network infrastructure, devices, and protocols. The HCI community can offer a unique perspective to overcoming the challenges associated with home networking. This paper discusses why home networking is difficult, based on analysis of historical, social, and technical factors. It explores how the designs of existing home networking technologies have implications for usability, and examines a range of models for addressing these usability challenges. The paper concludes with a discussion of how these models may impact future research efforts in both HCI and networking.",
+        "session": "SESSION: Home spirituality"
+    },
+    {
+        "title": "Let's go to the whiteboard: how and why software developers use drawings",
+        "authors": "Mauro Cherubini, Gina Venolia, Rob DeLine, Andrew J. Ko",
+        "abstract": "Software developers are rooted in the written form of their code, yet they often draw diagrams representing their code. Unfortunately, we still know little about how and why they create these diagrams, and so there is little research to inform the design of visual tools to support developers' work. This paper presents findings from semi-structured interviews that have been validated with a structured survey. Results show that most of the diagrams had a transient nature because of the high cost of changing whiteboard sketches to electronic renderings. Diagrams that documented design decisions were often externalized in these temporary drawings and then subsequently lost. Current visualization tools and the software development practices that we observed do not solve these issues, but these results suggest several directions for future research.",
+        "session": "SESSION: Programming by professionals"
+    },
+    {
+        "title": "Aligning development tools with the way programmers think about code changes",
+        "authors": "Marat Boshernitsan, Susan L. Graham, Marti A. Hearst",
+        "abstract": "Software developers must modify their programs to keepup with changing requirements and designs. Often, aconceptually simple change can require numerous editsthat are similar but not identical, leading to errors andomissions. Researchers have designed programming environmentsto address this problem, but most of thesesystems are counter-intuitive and difficult to use.By applying a task-centered design process, we developeda visual tool that allows programmers to makecomplex code transformations in an intuitive manner.This approach uses a representation that aligns wellwith programmers' mental models of programming structures.The visual language combines textual and graphicalelements and is expressive enough to support a broadrange of code-changing tasks. To simplify learning thesystem, its user interface scaffolds construction and executionof transformations. An evaluation with Java programmerssuggests that the interface is intuitive, easyto learn, and effective on a representative editing task.",
+        "session": "SESSION: Programming by professionals"
+    },
+    {
+        "title": "Task and social visualization in software development: evaluation of a prototype",
+        "authors": "Jason B. Ellis, Shahtab Wahid, Catalina Danis, Wendy A. Kellogg",
+        "abstract": "As open source development has evolved, differentiation of roles and increased sophistication of collaborative processes has occurred. Recently, we described coordination issues in software development and an interactive visualization tool called the Social Health Overview (SHO) developed to address them [12]. This paper presents an empirical evaluation of SHO intended to identify its strengths and weaknesses. Eleven informants in various open source roles were interviewed about their work practices. Eight of these participated in an evaluation comparing three change management tasks in SHO and Bugzilla. Results are discussed with respect to task strategy with each tool and participants' roles.",
+        "session": "SESSION: Programming by professionals"
+    },
+    {
+        "title": "IGroup: presenting web image search results in semantic clusters",
+        "authors": "Shuo Wang, Feng Jing, Jibo He, Qixing Du, Lei Zhang",
+        "abstract": "Current web image search engines still rely on user typing textual description: query word(s) for visual targets. As the queries are often short, general or even ambiguous, the images in resulting pages vary in content and style. Thus, browsing with these results is likely to be tedious, frustrating and unpredictable. IGroup, a proposed image search engine addresses these problems by presenting the result in semantic clusters. The original result set was clustered in semantic groups with a cluster name relevant to user typed queries. Instead of looking through the result pages or modifying queries, IGroup users can refine findings to the interested sub-result sets with a navigational panel, where each cluster (sub-result set) was listed with a cluster name and representative thumbnails of the cluster. We compared IGroup with a general web image search engine: MSN, in term of efficiency, coverage, and satisfaction with a substantial user study. Our tool shows significant improvement in such criteria.",
+        "session": "SESSION: Web usability"
+    },
+    {
+        "title": "Web page revisitation revisited: implications of a long-term click-stream study of browser usage",
+        "authors": "Hartmut Obendorf, Harald Weinreich, Eelco Herder, Matthias Mayer",
+        "abstract": "This paper presents results of an extensive long-term click-stream study of Web browser usage. Focusing on character and challenges of page revisitation, previous findings from seven to thirteen years ago are updated. The term page re-visit had to be differentiated, since the recurrence rate--the key measure for the share of page revisits--turns out to strongly depend on interpretation. We identify different types of revisitation that allow assessing the quality of current user support and developing concepts for new tools. Individual navigation strategies differ dramatically and are strongly influenced by personal habits and type of site visited. Based on user action logs and interviews, we distinguished short-term revisits (backtrack or undo) from medium-term (re-utilize or observe) and long-term revisits (rediscover). We analyze current problems and provide suggestions for improving support for different revisitation types.",
+        "session": "SESSION: Web usability"
+    },
+    {
+        "title": "Noticing notice: a large-scale experiment on the timing of software license agreements",
+        "authors": "Nathaniel S. Good, Jens Grossklags, Deirdre K. Mulligan, Joseph A. Konstan",
+        "abstract": "Spyware is an increasing problem. Interestingly, many programs carrying spyware honestly disclose the activities of the software, but users install the software anyway. We report on a study of software installation to assess the effectiveness of different notices for helping people make better decisions on which software to install. Our study of 222 users showed that providing a short summary notice, in addition to the End User License Agreement (EULA), before the installation reduced the number of software installations significantly. We also found that providing the short summary notice after installation led to a significant number of uninstalls. However, even with the short notices, many users installed the program and later expressed regret for doing so. These results, along with a detailed analysis of installation, regret, and survey data about user behaviors informs our recommendations to policymakers and designers for assessing the \"adequacy\" of consent in the context of software that exhibits behaviors associated with spyware.",
+        "session": "SESSION: Web usability"
+    },
+    {
+        "title": "Meta-analysis of correlations among usability measures",
+        "authors": "Kasper Hornbæk, Effie Lai-Chong Law",
+        "abstract": "Understanding the relation between usability measures seems crucial to deepen our conception of usability and to select the right measures for usability studies. We present a meta-analysis of correlations among usability measures calculated from the raw data of 73 studies. Correlations are generally low: effectiveness measures (e.g., errors) and efficiency measures (e.g., time) have a correlation of .247 ± .059 (Pearson's product-moment correlation with 95% confidence interval), efficiency and satisfaction (e.g., preference) one of .196 ± .064, and effectiveness and satisfaction one of .164 ± .062. Changes in task complexity do not influence these correlations, but use of more complex measures attenuates them. Standard questionnaires for measuring satisfaction appear more reliable than homegrown ones. Measures of users' perceptions of phenomena are generally not correlated with objective measures of the phenomena. Implications for how to measure usability are drawn and common models of usability are criticized.",
+        "session": "SESSION: Empirical models"
+    },
+    {
+        "title": "A predictive model of menu performance",
+        "authors": "Andy Cockburn, Carl Gutwin, Saul Greenberg",
+        "abstract": "Menus are a primary control in current interfaces, but there has been relatively little theoretical work to model their performance. We propose a model of menu performance that goes beyond previous work by incorporating components for Fitts' Law pointing time, visual search time when novice, Hick-Hyman Law decision time when expert, and for the transition from novice to expert behaviour. The model is able to predict performance for many different menu designs, including adaptive split menus, items with different frequencies and sizes, and multi-level menus. We tested the model by comparing predictions for four menu designs (traditional menus, recency and frequency based split menus, and an adaptive 'morphing' design) with empirical measures. The empirical data matched the predictions extremely well, suggesting that the model can be used to explore a wide range of menu possibilities before implementation.",
+        "session": "SESSION: Empirical models"
+    },
+    {
+        "title": "Endpoint prediction using motion kinematics",
+        "authors": "Edward Lank, Yi-Chun Nikko Cheng, Jaime Ruiz",
+        "abstract": "Recently proposed novel interaction techniques such as cursor jumping [1] and target expansion for tiled arrangements [13] are predicated on an ability to effectively estimate the endpoint of an input gesture prior to its completion. However, current endpoint estimation techniques lack the precision to make these interaction techniques possible. To address a recognized lack of effective endpoint prediction mechanisms, we propose a new technique for endpoint prediction that applies established laws of motion kinematics in a novel way to the identification of motion endpoint. The technique derives a model of speed over distance that permits extrapolation. We verify our model experimentally using stylus targeting tasks, and demonstrate that our endpoint prediction is almost twice as accurate as the previously tested technique [13] at points more than twice as distant from motion endpoint.",
+        "session": "SESSION: Empirical models"
+    },
+    {
+        "title": "Direct-touch vs. mouse input for tabletop displays",
+        "authors": "Clifton Forlines, Daniel Wigdor, Chia Shen, Ravin Balakrishnan",
+        "abstract": "We investigate the differences -- in terms of bothquantitative performance and subjective preference -- between direct-touch and mouse input for unimanual andbimanual tasks on tabletop displays. The results of twoexperiments show that for bimanual tasks performed ontabletops, users benefit from direct-touch input. However,our results also indicate that mouse input may be moreappropriate for a single user working on tabletop tasksrequiring only single-point interaction.",
+        "session": "SESSION: Mobile interaction techniques I"
+    },
+    {
+        "title": "Shift: a technique for operating pen-based interfaces using touch",
+        "authors": "Daniel Vogel, Patrick Baudisch",
+        "abstract": "Retrieving the stylus of a pen-based device takes time and requires a second hand. Especially for short intermittent interactions many users therefore choose to use their bare fingers. Although convenient, this increases targeting times and error rates. We argue that the main reasons are the occlusion of the target by the user's finger and ambiguity about which part of the finger defines the selection point. We propose a pointing technique we call Shift that is designed to address these issues. When the user touches the screen, Shift creates a callout showing a copy of the occluded screen area and places it in a non-occluded location. The callout also shows a pointer representing the selection point of the finger. Using this visual feedback, users guide the pointer into the target by moving their finger on the screen surface and commit the target acquisition by lifting the finger. Unlike existing techniques, Shift is only invoked when necessary--over large targets no callout is created and users enjoy the full performance of an unaltered touch screen. We report the results of a user study showing that with Shift participants can select small targets with much lower error rates than an unaided touch screen and that Shift is faster than Offset Cursor for larger targets.",
+        "session": "SESSION: Mobile interaction techniques I"
+    },
+    {
+        "title": "An alternative to push, press, and tap-tap-tap: gesturing on an isometric joystick for mobile phone text entry",
+        "authors": "Jacob O. Wobbrock, Duen Horng Chau, Brad A. Myers",
+        "abstract": "A gestural text entry method for mobile is presented. Unlike most mobile phone text entry methods, which rely on repeatedly pressing buttons, our gestural method uses an isometric joystick and the EdgeWrite alphabet to allow users to write by making letter-like \"pressure strokes.\" In a 15-session study comparing character-level EdgeWrite to Multitap, subjects' speeds were statistically indistinguishable, reaching about 10 WPM. In a second 15-session study comparing word-level EdgeWrite to T9, the same subjects were again statistically indistinguishable, reaching about 16 WPM. Uncorrected errors were low, around 1% or less for each method. In addition, subjective results favored EdgeWrite. Overall, results indicate that our isometric joystick-based method is highly competitive with two commercial keypad-based methods, opening the way for keypad-less designs and text entry on tiny devices. Additional results showed that a joystick on the back could be used at about 70% of the speed of the front, and the front joystick could be used eyes-free at about 80% of the speed of normal use.",
+        "session": "SESSION: Mobile interaction techniques I"
+    },
+    {
+        "title": "Disruption and recovery of computing tasks: field study, analysis, and directions",
+        "authors": "Shamsi T. Iqbal, Eric Horvitz",
+        "abstract": "",
+        "session": "SESSION: Tasks"
+    },
+    {
+        "title": "CAAD: an automatic task support system",
+        "authors": "Tye Rattenbury, John Canny",
+        "abstract": "",
+        "session": "SESSION: Tasks"
+    },
+    {
+        "title": "Understanding and developing models for detecting and differentiating breakpoints during interactive tasks",
+        "authors": "Shamsi T. Iqbal, Brian P. Bailey",
+        "abstract": "",
+        "session": "SESSION: Tasks"
+    },
+    {
+        "title": "Implicit coordination in firefighting practice: design implications for teaching fire emergency responders",
+        "authors": "Zachary O. Toups, Andruid Kerne",
+        "abstract": "Fire emergency response requires rapidly processing and communicating information to coordinate teams that protect lives and property. Students studying to become fire emergency responders must learn to communicate, process, and integrate information during dangerous, stressful, and time-sensitive work. We are performing an ethnographic investigation that includes interviews with experienced fire emergency responders and observations of team burn training exercises with students. We distill salient components of firefighting practice, which are relevant to the design of fire emergency response education systems. We derive design implications for systems that teach fire emergency responders to deal with issues surrounding the communication and integration of fireground information: the mixing of communication modalities, the distribution of information acquisition sources to create information differential and uncertainty, and audible clues.",
+        "session": "SESSION: Emergency action"
+    },
+    {
+        "title": "Back stage on the front lines: perspectives and performance in the combat information center",
+        "authors": "Paul M. Aoki",
+        "abstract": "While tactical command. control and communication environments might appear to be entirely instrumental in nature, they nevertheless provide a setting for social interaction. This paper describes how such interaction occurs in a particular naval tactical command and control system, focusing on the shared perspectives created by the organizational, administrative and professional aspects of the environment and on issues of self-presentation. It is argued that the complexity and multiplicity of interactional regions in this environment lead to problematic situations for key actors, and that these problems may have relevance to future computing environments.",
+        "session": "SESSION: Emergency action"
+    },
+    {
+        "title": "Citizen communications in crisis: anticipating a future of ICT-supported public participation",
+        "authors": "Leysia Palen, Sophia B. Liu",
+        "abstract": "Recent world-wide crisis events have drawn new attention to the role information communication technology (ICT) can play in warning and response activities. Drawing on disaster social science, we consider a critical aspect of post-impact disaster response that does not yet receive much information science research attention. Public participation is an emerging, large-scale arena for computer-mediated interaction that has implications for both informal and formal response. With a focus on persistent citizen communications as one form of interaction in this arena, we describe their spatial and temporal arrangements, and how the emerging information pathways that result serve different post-impact functions. However, command-and-control models do not easily adapt to the expanding data-generating and -seeking activities by the public. ICT in disaster contexts will give further rise to improvised activities and temporary organizations with which formal response organizations need to align.",
+        "session": "SESSION: Emergency action"
+    },
+    {
+        "title": "Transfer scenarios: grounding innovation with marginal practices",
+        "authors": "Sara Ljungblad, Lars Erik Holmquist",
+        "abstract": "",
+        "session": "SESSION: Design methods"
+    },
+    {
+        "title": "Work-centered design: a case study of a mixed-initiative scheduler",
+        "authors": "Keith A. Butler, Jiajie Zhang, Chris Esposito, Ali Bahrami, Ron Hebron, David Kieras",
+        "abstract": "",
+        "session": "SESSION: Design methods"
+    },
+    {
+        "title": "Pointing lenses: facilitating stylus input through visual-and motor-space magnification",
+        "authors": "Gonzalo Ramos, Andy Cockburn, Ravin Balakrishnan, Michel Beaudouin-Lafon",
+        "abstract": "Using a stylus on a tablet computer to acquire small targets can be challenging. In this paper we present pointing lenses -- interaction techniques that help users acquire and select targets by presenting them with an enlarged visual and interaction area. We present and study three pointing lenses for pen-based systems and find that our proposed Pressure-Activated Lens is the top overall performer in terms of speed, accuracy and user preference. In addition, our experimental results not only show that participants find all pointing lenses beneficial for targets smaller than 5 pixels, but they also suggest that this benefit may extend to larger targets as well.",
+        "session": "SESSION: Mobile interaction techniques II"
+    },
+    {
+        "title": "Comparing physical, automatic and manual map rotation for pedestrian navigation",
+        "authors": "Will Seager, Danae Stanton Fraser",
+        "abstract": "It is well-established finding that people find maps easier to use when they are aligned so that \"up\" on the map corresponds to the user's forward direction. With map-based applications on handheld mobile devices, this forward/up correspondence can be maintained in several ways: the device can be physically rotated within the user's hands or the user can manually operate buttons to digitally rotate the map; alternatively, the map can be rotated automatically using data from an electronic compass. This paper examines all three options. In a field experiment, each method is compared against a baseline north-up condition. The study provides strong evidence that physical rotation is the most effective with applications that present the user with a wider map. The paper concludes with some suggestions for design improvements.",
+        "session": "SESSION: Mobile interaction techniques II"
+    },
+    {
+        "title": "Senspectra: a computationally augmented physical modeling toolkit for sensing and visualization of structural strain",
+        "authors": "Vincent LeClerc, Amanda Parkes, Hiroshi Ishii",
+        "abstract": "We present Senspectra, a computationally augmented physical modeling toolkit designed for sensing and visualization of structural strain. Senspectra seeks to explore a new direction in computational materiality, incorporating the material quality of malleable elements of an interface into its digital control structure. The system functions as a decentralized sensor network consisting of nodes, embedded with computational capabilities and a full spectrum LED, and flexible joints. Each joint functions as an omnidirectional bend sensing mechanism to sense and communicate mechanical strain between neighboring nodes. Using Senspectra, a user incrementally assembles and refines a physical 3D model of discrete elements with a real-time visualization of structural strain. While the Senspectra infrastructure provides a flexible modular sensor network platform, its primary application derives from the need to couple physical modeling techniques utilized in architecture and design disciplines with systems for structural engineering analysis. This offers direct manipulation augmented with visual feedback for an intuitive approach to physical real-time finite element analysis, particularly for organic forms.",
+        "session": "SESSION: Tangibility"
+    },
+    {
+        "title": "Tangible user interface for chemistry education: comparative evaluation and re-design",
+        "authors": "Morten Fjeld, Jonas Fredriksson, Martin Ejdestig, Florin Duca, Kristina Bötschi, Benedikt Voegtli, Patrick Juchli",
+        "abstract": "Augmented Chemistry (AC) is an application that utilizes a tangible user interface (TUI) for organic chemistry education. The empirical evaluation described in this paper compares learning effectiveness and user acceptance of AC versus the more traditional ball-and-stick model (BSM). Learning effectiveness results were almost the same for both learning environments. User preference and rankings, using NASA-TLX and SUMI, showed more differences and it was therefore decided to focus mainly on improving these aspects in a re-design of the AC system. For enhanced interaction, keyboard-free system configuration, and internal/external database (DB) access, a graphical user interface (GUI) has been incorporated into the TUI. Three-dimensional (3D) rendering has also been improved using shadows and related effects, thereby enhancing depth perception. The re-designed AC system was then compared to the old system by means of a small qualitative user study. This user study showed an improvement in subjective opinions a out the system's ease of use and ease of learning.",
+        "session": "SESSION: Tangibility"
+    },
+    {
+        "title": "Mechanical constraints as computational constraints in tabletop tangible interfaces",
+        "authors": "James Patten, Hiroshi Ishii",
+        "abstract": "This paper presents a new type of human-computer interface called Pico (Physical Intervention in Computational Optimization) based on mechanical constraints that combines some of the tactile feedback and affordances of mechanical systems with the abstract computational power of modern computers. The interface is based on a tabletop interaction surface that can sense and move small objects on top of it. The positions of these physical objects represent and control parameters inside a software application, such as a system for optimizing the configuration of radio towers in a cellular telephone network. The computer autonomously attempts to optimize the network, moving the objects on the table as it changes their corresponding parameters in software. As these objects move, the user can constrain their motion with his or her hands, or many other kinds of physical objects. The interface provides ample opportunities for improvisation by allowing the user to employ a rich variety of everyday physical objects as mechanical constraints. This approach leverages the user's mechanical intuition for how objects respond to physical forces. As well, it allows the user to balance the numerical optimization performed by the computer with other goals that are difficult to quantify. Subjects in an evaluation were more effective at solving a complex spatial layout problem using this system than with either of two alternative interfaces that did not feature actuation.",
+        "session": "SESSION: Tangibility"
+    },
+    {
+        "title": "Intimate interfaces in action: assessing the usability and subtlety of emg-based motionless gestures",
+        "authors": "Enrico Costanza, Samuel A. Inverso, Rebecca Allen, Pattie Maes",
+        "abstract": "Mobile communication devices, such as mobile phones and networked personal digital assistants (PDAs), allow users to be constantly connected and communicate anywhere and at any time, often resulting in personal and private communication taking place in public spaces. This private -- public contrast can be problematic. As a remedy, we promote intimate interfaces: interfaces that allow subtle and minimal mobile interaction, without disruption of the surrounding environment. In particular, motionless gestures sensed through the electromyographic (EMG) signal have been proposed as a solution to allow subtle input in a mobile context. In this paper we present an expansion of the work on EMG-based motionless gestures including (1) a novel study of their usability in a mobile context for controlling a realistic, multimodal interface and (2) a formal assessment of how noticeable they are to informed observers. Experimental results confirm that subtle gestures can be profitably used within a multimodal interface and that it is difficult for observers to guess when someone is performing a gesture, confirming the hypothesis of subtlety.",
+        "session": "SESSION: Tangibility"
+    },
+    {
+        "title": "Project massive: self-regulation and problematic use of online gaming",
+        "authors": "A. Fleming Seay, Robert E. Kraut",
+        "abstract": "A longitudinal design was employed to collect three waves of survey data over a 14 month period from 2790 online gamers. Respondents were asked questions about their gaming activity, motivations, personality, social and emotional environment, and the effect gaming has had on their lives. Prospective analysis was used to establish causal and temporal linkages among the repeatedly measured factors. While the data provide some indication that a player's reasons for playing do influence the development of problematic usage, these effects are overshadowed by the central importance of self-regulation in managing both the timing and amount of play. An individual's level of self-regulatory activity is shown to be very important in allowing them to avoid negative outcomes like problematic use. The role of depression is also discussed. With responsible use, online gaming appears to be a healthy recreational activity that provides millions of people with hours of social entertainment and adaptive diversion. However, failure to manage play behavior can lead to feelings of dependency.",
+        "session": "SESSION: Games"
+    },
+    {
+        "title": "The life and death of online gaming communities: a look at guilds in world of warcraft",
+        "authors": "Nicolas Ducheneaut, Nicholas Yee, Eric Nickell, Robert J. Moore",
+        "abstract": "Massively multiplayer online games (MMOGs) can be fascinating laboratories to observe group dynamics online. In particular, players must form persistent associations or \"guilds\" to coordinate their actions and accomplish the games' toughest objectives. Managing a guild, however, is notoriously difficult and many do not survive very long. In this paper, we examine some of the factors that could explain the success or failure of a game guild based on more than a year of data collected from five World of Warcraft servers. Our focus is on structural properties of these groups, as represented by their social networks and other variables. We use this data to discuss what games can teach us about group dynamics online and, in particular, what tools and techniques could be used to better support gaming communities.",
+        "session": "SESSION: Games"
+    },
+    {
+        "title": "Testing the technology: playing games with video conferencing",
+        "authors": "Archer L. Batcheller, Brian Hilligoss, Kevin Nam, Emilee Rader, Marta Rey-Babarro, Xiaomu Zhou",
+        "abstract": "Video connections can establish a media space in which games may be played, just as people play games while collocated. Experiments with participants playing the game 'Mafia' indicate that people in a video condition have similar levels of satisfaction, fun, and frustration, to those that play while collocated. This finding holds for both those with prior experience using video systems and those without, suggesting it is not merely a \"novelty effect.\" Results differ about whether there exist differences in focus of attention, suspicion/trust, and pointing for people playing the game while using a video system. Implications for both fun and work uses of video are suggested.",
+        "session": "SESSION: Games"
+    },
+    {
+        "title": "Using heart rate to control an interactive game",
+        "authors": "Ville Nenonen, Aleksi Lindblad, Ville Häkkinen, Toni Laitinen, Mikko Jouhtio, Perttu Hämäläinen",
+        "abstract": "This paper presents a novel way of using real-time heart rate information to control a physically interactive biathlon (skiing and shooting) computer game. Instead of interfacing the game to an exercise bike or other equipment with speed output, the skiing speed is directly proportional to heart rate. You can freely choose the form of physical exercise, which makes it easier for people with different skill levels and backgrounds to play together. The system can be used with any exercise machine or form. To make playing meaningful instead of simply exercising as hard as you can, a high heart rate impedes the shooting part of the game by making the sight less steady. This balancing mechanism lets the player try out different tactics, varying from very slow skiing and sharp shooting to fast skiing and random shooting. The game has been evaluated in a user study with eight participants. The results show that heart rate interaction is fun and usable interaction method.",
+        "session": "SESSION: Games"
+    },
+    {
+        "title": "Consuming video on mobile devices",
+        "authors": "Kenton O'Hara, April Slayden Mitchell, Alex Vorbau",
+        "abstract": "Mobile video is now an everyday possibility with a wide array of commercially available devices, services and content. These technologies promise to transform the way that people can consume video media in their lives beyond the familiar behaviours associated with fixed TV and video technologies. Building upon earlier studies of mobile video, this paper reports on a study using diary techniques and ethnographic interviews to better understand how people are using commercially available mobile video technologies in their everyday lives. Drawing on reported episodes of mobile video behaviour, the study identifies the social motivations and values underpinning these behaviours that help characterise mobile video consumption beyond the simplistic notion of viewing TV to kill time wherever you may be. Implications for adoption and design of mobile video technologies and services are discussed.",
+        "session": "SESSION: Video"
+    },
+    {
+        "title": "Effects of audio and visual surrogates for making sense of digital video",
+        "authors": "Yaxiao Song, Gary Marchionini",
+        "abstract": "Video surrogates are meant to help people quickly make sense of the content of a video before downloading or seeking more detailed information. In this paper we present the results of a study comparing the effectiveness of three different surrogates for objects in digital video libraries. Thirty-six people participated in a within subjects user study in which they did five tasks for each of three surrogate alternatives: visual alone (a storyboard), audio alone (spoken description), and combined visual and audio (a storyboard augmented with spoken description). The results show that combined surrogates are more effective, strongly preferred, and do not penalize efficiency. The results also demonstrate that spoken descriptions alone lead to better understanding of the video segments than do visual storyboards alone, although people like to have visual surrogates and use them to confirm interpretations and add context. Participants were able to easily use the combined surrogates even though they were not synchronized, suggesting that synchronization of different media channels may not be necessary in surrogates as it is in full video. The results suggest that multimodal surrogates should be incorporated into video retrieval user interfaces and audio surrogates should be used in small display interfaces. The study also raises questions about the need to synchronize different information channels in multimedia surrogates.",
+        "session": "SESSION: Video"
+    },
+    {
+        "title": "Watching together: integrating text chat with video",
+        "authors": "Justin D. Weisz, Sara Kiesler, Hui Zhang, Yuqing Ren, Robert E. Kraut, Joseph A. Konstan",
+        "abstract": "Watching video online is becoming increasingly popular, and new video streaming technologies have the potential to transform video watching from a passive, isolating experience into an active, socially engaging experience. However, the viability of an active social experience is unclear: both chatting and watching video require attention, and may interfere with one another and detract from the experience. In this paper, we empirically examine the activity of chatting while watching video online. We examine how groups of friends and strangers interact, and find that chat has a positive influence on social relationships, and people chat despite being distracted. We discuss the benefits and opportunities provided by mixing chat and video, uncover some of the attentional and social challenges inherent in this combination of media, and provide guidance for structuring the viewing experience.",
+        "session": "SESSION: Video"
+    },
+    {
+        "title": "Pictures at the ATM: exploring the usability of multiple graphical passwords",
+        "authors": "Wendy Moncur, Grégory Leplâtre",
+        "abstract": "Users gain access to cash, confidential information and services at Automated Teller Machines (ATMs) via an authentication process involving a Personal Identification Number (PIN). These users frequently have many different PINs, and fail to remember them without recourse to insecure behaviours. This is not a failing of users. It is a usability failing in the ATM authentication mechanism. This paper describes research executed to evaluate whether users find multiple graphical passwords more memorable than multiple PINs. The research also investigates the success of two memory augmentation strategies in increasing memorability of graphical passwords. The results demonstrate that multiple graphical passwords are substantially more effective than multiple PIN numbers. Memorability is further improved by the use of mnemonics to aid their recall.This study will be of interest to HCI practitioners and information security researchers exploring approaches to usable security.",
+        "session": "SESSION: Security"
+    },
+    {
+        "title": "Password sharing: implications for security design based on social practice",
+        "authors": "Supriya Singh, Anuja Cabraal, Catherine Demosthenous, Gunela Astbrink, Michele Furlong",
+        "abstract": "Current systems for banking authentication require that customers not reveal their access codes, even to members of the family. A study of banking and security in Australia shows that the practice of sharing passwords does not conform to this requirement. For married and de facto couples, password sharing is seen as a practical way of managing money and a demonstration of trust. Sharing Personal Identification Numbers (PINs) is a common practice among remote indigenous communities in Australia. In areas with poor banking access, this is the only way to access cash. People with certain disabilities have to share passwords with carers, and PIN numbers with retail clerks. In this paper we present the findings of a qualitative user study of banking and money management. We suggest design criteria for banking security systems, based on observed social and cultural practices of password and PIN number sharing.",
+        "session": "SESSION: Security"
+    },
+    {
+        "title": "Protecting people from phishing: the design and evaluation of an embedded training email system",
+        "authors": "Ponnurangam Kumaraguru, Yong Rhee, Alessandro Acquisti, Lorrie Faith Cranor, Jason Hong, Elizabeth Nunge",
+        "abstract": "Phishing attacks, in which criminals lure Internet users to websites that impersonate legitimate sites, are occurring with increasing frequency and are causing considerable harm to victims. In this paper we describe the design and evaluation of an embedded training email system that teaches people about phishing during their normal use of email. We conducted lab experiments contrasting the effectiveness of standard security notices about phishing with two embedded training designs we developed. We found that embedded training works better than the current practice of sending security notices. We also derived sound design principles for embedded training systems.",
+        "session": "SESSION: Security"
+    },
+    {
+        "title": "Studying antecedents of emotional experiences in interactive contexts",
+        "authors": "Sascha Mahlke, Manfred Thüring",
+        "abstract": "This paper describes a research approach to the experimental study of emotional experiences and their connections to other components of user experience in human-technology interaction. We present a model of user experience that integrates interaction characteristics, instrumental and non-instrumental quality perceptions, emotional user reactions and overall judgments of system quality. An experiment is reported to illustrate the application of our approach. System properties of an interactive prototype were varied to produce versions of different usability and aesthetics which in turn led to different perceptions of instrumental and non-instrumental qualities. The results indicate that both quality aspects significantly influence emotional reactions with respect to subjective feelings, facial expressions and physiological responses. These findings are consistent with the users' overall judgments of the systems and show that the perception of both, instrumental and non-instrumental qualities influences the appraisal of interactive systems.",
+        "session": "SESSION: Emotion & empathy"
+    },
+    {
+        "title": "Patterns of empathy in online communication",
+        "authors": "Ulrike Pfeil, Panayiotis Zaphiris",
+        "abstract": "This article presents an investigation of empathy within an online community for older people (SeniorNet). Qualitative content analysis of 400 messages from a discussion board about depression was used to determine how empathy is expressed and facilitated in online communication. Special emphasis was placed on determining the components of online empathy. A code scheme that we developed to analyse online empathy is also presented. The findings were compared to offline studies about empathy in order to investigate the influence that the mediating technology has on the phenomenon.",
+        "session": "SESSION: Emotion & empathy"
+    },
+    {
+        "title": "Expressing emotion in text-based communication",
+        "authors": "Jeffrey T. Hancock, Christopher Landrigan, Courtney Silver",
+        "abstract": "Our ability to express and accurately assess emotional states is central to human life. The present study examines how people express and detect emotions during text-based communication, an environment that eliminates the nonverbal cues typically associated with emotion. The results from 40 dyadic interactions suggest that users relied on four strategies to express happiness versus sadness, including disagreement, negative affect terms, punctuation, and verbosity. Contrary to conventional wisdom, communication partners readily distinguished between positive and negative valence emotional communicators in this text-based context. The results are discussed with respect to the Social Information Processing model of strategic relational adaptation in mediated communication.",
+        "session": "SESSION: Emotion & empathy"
+    },
+    {
+        "title": "Exploring affective design for physical controls",
+        "authors": "Colin Swindells, Karon E. MacLean, Kellogg S. Booth, Michael J. Meitner",
+        "abstract": "Physical controls such as knobs, sliders, and buttons are experiencing a revival as many computing systems progress from personal computing architectures towards ubiquitous computing architectures. We demonstrate a process for measuring and comparing visceral emotional responses of a physical control to performance results of a target acquisition task. In our user study, participants experienced mechanical and rendered friction, inertia, and detent dynamics as they turned a haptic knob towards graphical targets of two different widths and amplitudes. Together, this process and user study provide novel affect- and performance-based design guidance to developers of physical controls for emerging ubiquitous computing environments. Our work bridges extensive human factors work in mechanical systems that peaked in the 1960's, to contemporary trends, with a goal of integrating mechatronic controls into emerging ubiquitous computing systems.",
+        "session": "SESSION: Emotion & empathy"
+    },
+    {
+        "title": "Koala: capture, share, automate, personalize business processes on the web",
+        "authors": "Greg Little, Tessa A. Lau, Allen Cypher, James Lin, Eben M. Haber, Eser Kandogan",
+        "abstract": "We present Koala, a system that enables users to capture, share, automate, and personalize business processes on the web. Koala is a collaborative programming-by-demonstration system that records, edits, and plays back user interactions as pseudo-natural language scripts that are both human- and machine-interpretable. Unlike previous programming by demonstration systems, Koala leverages sloppy programming that interprets pseudo-natural language instructions (as opposed to formal syntactic statements) in the context of a given web page's elements and actions. Koala scripts are automatically stored in the Koalescence wiki, where a community of users can share, run, and collaboratively develop their \"how-to\" knowledge. Koala also takes advantage of corporate and personal data stores to automatically generalize and instantiate user-specific data, so that scripts created by one user are automatically personalized for others. Our initial experiences suggest that Koala is surprisingly effective at interpreting instructions originally written for people.",
+        "session": "SESSION: Collaboration at work"
+    },
+    {
+        "title": "Understanding memory triggers for task tracking",
+        "authors": "A.J. Bernheim Brush, Brian R. Meyers, Desney S. Tan, Mary Czerwinski",
+        "abstract": "Software can now track which computer applications and documents you use. This provides us with the potential to help end-users recall past activities for tasks such as status reporting. We describe findings from field observations of eight participants writing their status reports. We observed interesting trends, including the reliance on memory triggers, which were either retrieved from explicit self-reminders, from implicit breadcrumbs left while performing their tasks or directly from memory. Participants perceived spending relatively short amounts of time composing their status reports, suggesting that any technology solution must offer dramatic improvements over current practice.",
+        "session": "SESSION: Collaboration at work"
+    },
+    {
+        "title": "Exploring patterns of social commonality among file directories at work",
+        "authors": "John C. Tang, Clemens Drews, Mark Smith, Fei Wu, Alison Sue, Tessa Lau",
+        "abstract": "We studied files stored by members of a work organization for patterns of social commonality. Discovering identical or similar documents, applications, developer libraries, or other files may suggest shared interests or experience among users. Examining actual file data revealed a number of individual and aggregate practices around file storage. For example, pairs of users typically have many (over 13,000) files in common. A prototype called LiveWire exploits this commonality to make file backup and restore more efficient for a work organization. We removed commonly shared files and focused on specific filetypes that represent user activity to find more meaningful files in common. The Consolidarity project explores how patterns of file commonality could encourage social networking in an organizational context. Mechanisms for addressing the privacy concerns raised by this approach are discussed.",
+        "session": "SESSION: Collaboration at work"
+    },
+    {
+        "title": "A study of out-of-turn interaction in menu-based, IVR, voicemail systems",
+        "authors": "Saverio Perugini, Taylor J. Anderson, William F. Moroney",
+        "abstract": "We present the first user study of out-of-turn interaction inmenu-based, interactive voice-response systems. Out-of-turn interaction is atechnique which empowers the user (unable to respond to the current prompt) totake the conversational initiative by supplying information that is currentlyunsolicited, but expected later in the dialog. The technique permits the userto circumvent any flows of navigation hardwired into the design and navigatethe menus in a manner which reflects their model of the task. We conducted alaboratory experiment to measure the effect of the use of out-of-turninteraction on user performance and preference in a menu-based, voice interfaceto voicemail. Specifically, we compared two interfaces with the exact samehierarchical menu design: one with the capability of accepting out-of-turnutterances and one without this feature. The results indicate that out-of-turninteraction significantly reduces task completion time, improves usability, andis preferred to the baseline. This research studies an unexplored dimension ofthe design space for automated telephone services, namely the nature ofuser-addressable input (utterance) supplied (in-turn vs. out-of-turn), incontrast to more traditional dimensions such as input modality (touch-tone vs.text vs. voice) and style of interaction (menu-based vs. natural language).",
+        "session": "SESSION: Collaboration at work"
+    },
+    {
+        "title": "Why we tag: motivations for annotation in mobile and online media",
+        "authors": "Morgan Ames, Mor Naaman",
+        "abstract": "Why do people tag? Users have mostly avoided annotating media such as photos -- both in desktop and mobile environments -- despite the many potential uses for annotations, including recall and retrieval. We investigate the incentives for annotation in Flickr, a popular web-based photo-sharing system, and ZoneTag, a cameraphone photo capture and annotation tool that uploads images to Flickr. In Flickr, annotation (as textual tags) serves both personal and social purposes, increasing incentives for tagging and resulting in a relatively high number of annotations. ZoneTag, in turn, makes it easier to tag cameraphone photos that are uploaded to Flickr by allowing annotation and suggesting relevant tags immediately after capture. A qualitative study of ZoneTag/Flickr users exposed various tagging patterns and emerging motivations for photo annotation. We offer a taxonomy of motivations for annotation in this system along two dimensions (sociality and function), and explore the various factors that people consider when tagging their photos. Our findings suggest implications for the design of digital photo organization and sharing applications, as well as other applications that incorporate user-based annotation.",
+        "session": "SESSION: Tags, tagging & notetaking"
+    },
+    {
+        "title": "Selection-based note-taking applications",
+        "authors": "Aaron Bauer, Kenneth R. Koedinger",
+        "abstract": "The increasing integration of education and technology has led to the development of a range of note-taking applications. Our project's goal is to provide empirical data to guide the design of such note-taking applications by evaluating the behavioral and learning outcomes of different note-taking functionality. The study reported here compares note-taking using a text editor and four interaction techniques. The two standard techniques are typing and copy-paste. The two novel techniques are restricted copy-paste and menu-selection, intended to increase attention and processing respectively. Hypothesized learning gains from the novel techniques were not observed. As implemented these techniques were less efficient and appeared to be more frustrating to use. However, data regarding differences in both note-taking efficiency and learning suggest several important implications for selection-based note-taking applications, such as pasting and highlighting. Our results also indicate that students have strong opinions regarding their note-taking practices, which may complicate potentially beneficial interventions.",
+        "session": "SESSION: Tags, tagging & notetaking"
+    },
+    {
+        "title": "Mobile interaction with visual and RFID tags: a field study on user perceptions",
+        "authors": "Kaj Mäkelä, Sara Belt, Dan Greenblatt, Jonna Häkkilä",
+        "abstract": "In this paper, we present a study of user perceptions on mobile interaction with visual and RFID tags. Although mobile interaction with tags has been proposed in several earlier studies, user perceptions and usability comparisons of different tag technologies have not been intensively investigated. In contrast to earlier studies, which report on user studies with evaluating new concepts or interaction techniques, we take another approach and examine the current understanding of the techniques and user perceptions on them. Our field study of 50 users charts currently existing user perceptions and reveals potential usability risks that are due to the limited or erroneous understanding of the interaction technique.",
+        "session": "SESSION: Tags, tagging & notetaking"
+    },
+    {
+        "title": "Getting our head in the clouds: toward evaluation studies of tagclouds",
+        "authors": "A. W. Rivadeneira, Daniel M. Gruen, Michael J. Muller, David R. Millen",
+        "abstract": "Tagclouds are visual presentations of a set of words, typically a set of \"tags\" selected by some rationale, in which attributes of the text such as size, weight, or color are used to represent features, such as frequency, of the associated terms. This note describes two studies to evaluate the effectiveness of differently constructed tagclouds for the various tasks they can be used to support, including searching, browsing, impression formation and recognition. Based on these studies, we propose a paradigm for evaluating tagclouds and ultimately guidelines for tagcloud construction.",
+        "session": "SESSION: Tags, tagging & notetaking"
+    },
+    {
+        "title": "Supporting multi-point interaction in visual workspaces",
+        "authors": "Garth Shoemaker, Carl Gutwin",
+        "abstract": "Multi-point interaction tasks involve the manipulation of several mutually-dependent control points in a visual workspace -- for example, adjusting a selection rectangle in a drawing application. Multi-point interactions place conflicting requirements on the interface: the system must display objects at sufficient scale for detailed manipulation, but it must also provide an efficient means of navigating from one control point to another. Current interfaces lack any explicit support for tasks that combine these two requirements, forcing users to carry out sequences of zoom and pan actions. In this paper, we describe three novel mechanisms for view control that explicitly support multi-point interactions with a single mouse, and preserve both visibility and scale for multiple regions of interest. We carried out a study to compare two of the designs against standard zoom and pan techniques, and found that task completion time was significantly reduced with the new approaches. The study shows the potential of interfaces that combine support for both scale and navigation.",
+        "session": "SESSION: Multimodal interactions"
+    },
+    {
+        "title": "Multimodal redundancy across handwriting and speech during computer mediated human-human interactions",
+        "authors": "Edward C. Kaiser, Paulo Barthelmess, Candice Erdmann, Phil Cohen",
+        "abstract": "Lecturers, presenters and meeting participants often say what they publicly handwrite. In this paper, we report on three empirical explorations of such multimodal redundancy -- during whiteboard presentations, during a spontaneous brainstorming meeting, and during the informal annotation and discussion of photographs. We show that redundantly presented words, compared to other words used during a presentation or meeting, tend to be topic specific and thus are likely to be out-of-vocabulary. We also show that they have significantly higher tf-idf (term frequency-inverse document frequency) weights than other words, which we argue supports the hypothesis that they are dialogue-critical words. We frame the import of these empirical findings by describing SHACER, our recently introduced Speech and HAndwriting reCognizER, which can combine information from instances of redundant handwriting and speech to dynamically learn new vocabulary.",
+        "session": "SESSION: Multimodal interactions"
+    },
+    {
+        "title": "An empirical study of the use of visually enhanced voip audio conferencing: the case of IEAC",
+        "authors": "Xianghua Ding, Thomas Erickson, Wendy A. Kellogg, Stephen Levy, James E. Christensen, Jeremy Sussman, Tracee Vetting Wolf, William E. Bennett",
+        "abstract": "IBM Enhanced Audio Conferencing (IEAC) is a VoIP-based audio conferencing system that, like several other systems, provides a visualization showing who is present and their states (e.g., speaking, muted). This paper presents the first study of the use of such a system. Drawing on log files collected over six weeks of use by over 1300 corporate employees, and interviews with 10 of them, we look at how and why various features of the system are used and what sorts of practices are supported. Our findings shed light on the factors that drive the use of visual enhancements to audio conferencing, and suggest further research topics.",
+        "session": "SESSION: Distributed interaction"
+    },
+    {
+        "title": "Voyagers and voyeurs: supporting asynchronous collaborative information visualization",
+        "authors": "Jeffrey Heer, Fernanda B. Viégas, Martin Wattenberg",
+        "abstract": "This paper describes mechanisms for asynchronous collaboration in the context of information visualization, recasting visualizations as not just analytic tools, but social spaces. We contribute the design and implementation of sense.us, a web site supporting asynchronous collaboration across a variety of visualization types. The site supports view sharing, discussion, graphical annotation, and social navigation and includes novel interaction elements. We report the results of user studies of the system, observing emergent patterns of social data analysis, including cycles of observation and hypothesis, and the complementary roles of social navigation and data-driven exploration.",
+        "session": "SESSION: Distributed interaction"
+    },
+    {
+        "title": "Turn it <u>this</u> way: grounding collaborative action with remote gestures",
+        "authors": "David Kirk, Tom Rodden, Danaë Stanton Fraser",
+        "abstract": "Remote gesture systems have been shown to provide a significant enhancement to performance in collaborative physical tasks, an effect ascribed to the ability of remote gestures to help ground deictic references. The argument that this effect works by replacing complex referential descriptions with simple pointing behaviours has been drawn into question by recent research. In this paper we significantly unpack the effects of remote gesturing on collaborative language, arguing for a more complex role for remote gestures in interaction. We demonstrate how remote gestures influence the structure of collaborative discourse, and how their use can also influence the temporal nature of the grounding process. Through generating a deeper understanding of these effects of remote gesturing on collaborative language we derive implications for the development and deployment of these technologies.",
+        "session": "SESSION: Distributed interaction"
+    },
+    {
+        "title": "The validity of a virtual human experience for interpersonal skills education",
+        "authors": "Kyle Johnsen, Andrew Raij, Amy Stevens, D. Scott Lind, Benjamin Lok",
+        "abstract": "Any new tool introduced for education needs to be validated. We developed a virtual human experience called the Virtual Objective Structured Clinical Examination (VOSCE). In the VOSCE, a medical student examines a life-size virtual human who is presenting symptoms of an illness. The student is then graded on interview skills. As part of a medical school class requirement, thirty three second year medical students participated in a user study designed to determine the validity of the VOSCE for testing interview skills. In the study, participant performance in the VOSCE is compared to participant performance in the OSCE, an interview with a trained actor. There was a significant correlation (r(33)=.49, p<.005) between overall score in the VOSCE and overall score in the OSCE. This means that the interaction skills used with a virtual human translate to the interaction skills used with a real human. Comparing the experience of virtual human interaction to real human interaction is the critical validation step towards using virtual humans for interpersonal skills education.",
+        "session": "SESSION: Learning & education"
+    },
+    {
+        "title": "Modeling and understanding students' off-task behavior in intelligent tutoring systems",
+        "authors": "Ryan S.J.d. Baker",
+        "abstract": "We present a machine-learned model that can automatically detect when a student using an intelligent tutoring system is off-task, i.e., engaged in behavior which does not involve the system or a learning task. This model was developed using only log files of system usage (i.e. no screen capture or audio/video data). We show that this model can both accurately identify each student's prevalence of off-task behavior and can distinguish off-task behavior from when the student is talking to the teacher or another student about the subject matter. We use this model in combination with motivational and attitudinal instruments, developing a profile of the attitudes and motivations associated with off-task behavior, and compare this profile to the attitudes and motivations associated with other behaviors in intelligent tutoring systems. We discuss how the model of off-task behavior can be used within interactive learning environments which respond to when students are off-task.",
+        "session": "SESSION: Learning & education"
+    },
+    {
+        "title": "Improvisation principles and techniques for design",
+        "authors": "Elizabeth Gerber",
+        "abstract": "Existing research addresses how designers create tools to support improvisation, yet little research explores how improvisation offers tools to support design work. This paper explores the potential relationship between improvisation and design, examining how design can benefit from improvisation. The paper argues that improvisation can build perspectives and skills that are critical for designers, such as creative collaboration, fostering innovation, supporting spontaneity, learning through error, and presenting ideas. The paper reviews the use of improvisation activities by designers in a multi-case study. The applications are analyzed to demonstrate individual and group level outcomes in design work.",
+        "session": "SESSION: Learning & education"
+    },
+    {
+        "title": "Supporting multidisciplinary collaboration: requirements from novel HCI education",
+        "authors": "Piotr D. Adamczyk, Michael B. Twidale",
+        "abstract": "Many collaborative design tools may suffer from being too generic to address the specific complexities inherent in multidisciplinary collaboration. We provide accounts of several multidisciplinary HCI courses at our institution, elaborating on the challenges student teams face when integrating design practice from a wide variety of disciplines. Of particular interest are the distinct approaches that these multidisciplinary teams adopt that differ from more common forms of collaborative design. We suggest reasons for the poor rate of adoption of existing collaborative support tools and outline specific suggestions for directions in both ethnographic studies of multidisciplinary collaboration and collaborative systems design.",
+        "session": "SESSION: Learning & education"
+    },
+    {
+        "title": "How HCI interprets the probes",
+        "authors": "Kirsten Boehner, Janet Vertesi, Phoebe Sengers, Paul Dourish",
+        "abstract": "We trace how cultural probes have been adopted and adapted by the HCI community. The flexibility of probes has been central to their uptake, resulting in a proliferation of divergent uses and derivatives. The varying patterns of adaptation of the probes reveal important underlying issues in HCI, suggesting underacknowledged disagreements about valid interpretation and the relationship between methods and their underlying methodology. With this analysis, we aim to clarify discussions around probes, and, more importantly, around how we define and evaluate methods in HCI, especially those grounded in unfamiliar conceptions of how research should be done.",
+        "session": "SESSION: Designing for specific cultures"
+    },
+    {
+        "title": "Social dynamics of early stage co-design in developing regions",
+        "authors": "Divya Ramachandran, Matthew Kam, Jane Chiu, John Canny, James F. Frankel",
+        "abstract": "Technology arguably has the potential to play a key role in improving the lives of people in developing regions. However, these communities are not well understood and designers must thoroughly investigate possibilities for technological innovations in these contexts. We describe findings from two field studies in India and one in Uganda where we explore technological solutions in the domains of communication, microfinance and education. Two common underlying themes emerge from these studies: (1) local stakeholders can contribute cultural information relevant to design such as needs and practices through interaction with technology artifacts and (2) unique social network structures embedded within communities are crucial to the acceptance and potential adoption of technology. We end with a synthesis of the three experiences that draws some practical lessons for ICT designers to elicit meaningful feedback and participation from local stakeholders in developing regions communities.",
+        "session": "SESSION: Designing for specific cultures"
+    },
+    {
+        "title": "Localized iterative design for language learning in underdeveloped regions: the PACE framework",
+        "authors": "Matthew Kam, Divya Ramachandran, Varun Devanathan, Anuj Tewari, John Canny",
+        "abstract": "Poor literacy remains a decisive barrier to the economic empowerment of many people in the developing world. Of particular importance is literacy in a widely spoken \"world language\" such as English, which is typically a second language for these speakers. For complex reasons, schools are often not effective as vehicles for second language learning. In this paper we explore game-like language learning on cell phones. We argue that phones are an excellent technology platform in the typical ecologies of developing countries. We present the PACE framework that is intended to support the rapid, scalable development of language learning software localized for a particular community of learners. These learners are usually skeptical of formal education and of cultural biases they encounter in learning \"remote\" languages in particular. Localization of content is crucial to make the language relevant to them and to encourage them to adopt it.",
+        "session": "SESSION: Designing for specific cultures"
+    },
+    {
+        "title": "iStuff mobile: rapidly prototyping new mobile phone interfaces for ubiquitous computing",
+        "authors": "Rafael Ballagas, Faraz Memon, Rene Reiners, Jan Borchers",
+        "abstract": "iStuff Mobile is the first rapid prototyping framework that helps explore new sensor-based interfaces with existing mobile phones. It focuses on sensor-enhanced physical interfaces for ubiquitous computing scenarios. The framework includes sensor network platforms, mobile phone software, and a proven rapid prototyping framework. Interaction designers can use iStuff Mobile to quickly create and test functional prototypes of novel interfaces without making internal hardware or software modifications to the handset. A visual programming paradigm provides a low threshold for prototyping activities: the system is not difficult to learn. At the same time, the range of examples built using the toolkit demonstrates a high ceiling for prototyping activities: the toolkit places few limits on prototype complexity. A user study shows that the visual programming metaphor enables prototypes to be built faster and encourages more iterations than a previous approach.",
+        "session": "SESSION: Mobile kits & stuff"
+    },
+    {
+        "title": "Appropriation of a MMS-based comic creator: from system functionalities to resources for action",
+        "authors": "Antti Salovaara",
+        "abstract": "Technologies can be used - or appropriated - in different ways by different users, but how do the use patterns evolve, and how can design facilitate such evolution? This paper approaches these questions in light of a case study in which a group of 8 high school students used Comeks, a mobile comic strip creator that enables users to exchange rich, expressive multimedia messages. A qualitative analysis of the use processes shows how users turned the functionalities embodied in Comeks into particular resources for communication during the 9-week trial period. The paper discusses the relationship of functionalities of the artifact and the development of resources by presenting how functionalities can be designed to support three ways to appropriate communication technologies: increasing technical mastery, re-channeling existing communication into the new medium and inventing new communicative acts between users.",
+        "session": "SESSION: Mobile kits & stuff"
+    },
+    {
+        "title": "Mobile kits and laptop trays: managing multiple devices in mobile information work",
+        "authors": "Antti Oulasvirta, Lauri Sumari",
+        "abstract": "A study at a large IT company shows that mobile information workers frequently migrate work across devices (here: smartphones, desktop PCs, laptops). While having multiple devices provides new opportunities to work in the face of changing resource deprivations, the management of devices is often problematic. The most salient problems are posed by 1) the physical effort demanded by various management tasks, 2) anticipating what data or functionality will be needed, and 3) aligning these efforts with work, mobility, and social situations. Workers' strategies of coping with these problems center on two interwoven activities: the physical handling of devices and cross-device synchronization. These aim at balancing risk and effort in immediate and subsequent use. Workers also exhibit subtle ways to handle devices in situ, appropriating their physical and operational properties. The design implications are discussed.",
+        "session": "SESSION: Mobile kits & stuff"
+    },
+    {
+        "title": "Command strokes with and without preview: using pen gestures on keyboard for command selection",
+        "authors": "Per Ola Kristensson, Shumin Zhai",
+        "abstract": "This paper presents a new command selection method that provides an alternative to pull-down menus in pen-based mobile interfaces. Its primary advantage is the ability forusers to directly select commands from a very large set without the need to traverse menu hierarchies. The proposed method maps the character strings representing the commands onto continuous pen-traces on a stylus keyboard. The user enters a command by stroking part of its character string. We call this method \"command strokes.\" We present the results of three experiments assessing the usefulness of the technique. The first experiment shows that command strokes are 1.6 times faster than the de-facto standard pull-down menus and that users find command strokes more fun to use. The second and third experiments investigate the effect of displaying a visual preview of the currently recognized command while the user is still articulating the command stroke. These experiments show that visual preview does not slow users down and leads to significantly lower error rates and shorter gestures when users enter new unpracticed commands.",
+        "session": "SESSION: Novel navigation"
+    },
+    {
+        "title": "Shallow-depth 3d interaction: design and evaluation of one-, two- and three-touch techniques",
+        "authors": "Mark Hancock, Sheelagh Carpendale, Andy Cockburn",
+        "abstract": "On traditional tables, people frequently use the third dimension to pile, sort and store objects. However, while effective and informative for organization, this use of the third dimension does not usually extend far above the table. To enrich interaction with digital tables, we present the concept of shallow-depth 3D -- 3D interaction with limited depth. Within this shallow-depth 3D environment several common interaction methods need to be reconsidered. Starting from any of one, two and three touch points, we present interaction techniques that provide control of all types of 3D rotation coupled with translation (6DOF) on a direct-touch tabletop display. The different techniques exemplify a wide range of interaction possibilities: from the one-touch technique, which is designed to be simple and natural, but inherits a degree of imprecision from its simplicity; through to three-touch interaction, which allows precise bimanual simultaneous control of multiple degrees of freedom, but at the cost of simplicity. To understand how these techniques support interaction in shallow-depth 3D, we present a user study that examines the efficiency of, and preferences for, the techniques developed. Results show that users are fastest and most accurate when using the three-touch technique and that their preferences were also strongly in favour of the expressive power available from three-touch.",
+        "session": "SESSION: Novel navigation"
+    },
+    {
+        "title": "Affordances for manipulation of physical versus digital media on interactive surfaces",
+        "authors": "Lucia Terrenghi, David Kirk, Abigail Sellen, Shahram Izadi",
+        "abstract": "This work presents the results of a comparative study in which we investigate the ways manipulation of physical versus digital media are fundamentally different from one another. Participants carried out both a puzzle task and a photo sorting task in two different modes: in a physical 3-dimensional space and on a multi-touch, interactive tabletop in which the digital items resembled their physical counterparts in terms of appearance and behavior. By observing the interaction behaviors of 12 participants, we explore the main differences and discuss what this means for designing interactive surfaces which use aspects of the physical world as a design resource.",
+        "session": "SESSION: Novel navigation"
+    },
+    {
+        "title": "Effects of presenting geographic context on tracking activity between cameras",
+        "authors": "Andreas Girgensohn, Frank Shipman, Thea Turner, Lynn Wilcox",
+        "abstract": "A common video surveillance task is to keep track of people moving around the space being monitored. It is often difficult to track activity between cameras because locations such as hallways in office buildings can look quite similar and do not indicate the spatial proximity of the cameras. We describe a spatial video player that orients nearby video feeds with the field of view of the main playing video to aid in tracking between cameras. This is compared with the traditional bank of cameras with and without interactive maps for identifying and selecting cameras. We additionally explore the value of static and rotating maps for tracking activity between cameras. The study results show that both the spatial video player and the map improve user performance when compared to the camera-bank interface. Also, subjects change cameras more often with the spatial player than either the camera bank or the map, when available.",
+        "session": "SESSION: People, looking at people"
+    },
+    {
+        "title": "Dynamic shared visual spaces: experimenting with automatic camera control in a remote repair task",
+        "authors": "Abhishek Ranjan, Jeremy P. Birnholtz, Ravin Balakrishnan",
+        "abstract": "We present an experimental study of automatic camera control in the performance of collaborative remote repair tasks using video-mediated communication. Twelve pairs of participants, one \"helper\" and one \"worker,\" completed a series of Lego puzzle tasks using both a static camera and an automatic camera system that was guided in part by tracking the worker's hand position. Results show substantial performance benefits for the automatic system, particularly for complex tasks. The implications of these results are discussed, along with some lessons for the use of motion tracking as a driver for camera control.",
+        "session": "SESSION: People, looking at people"
+    },
+    {
+        "title": "\"Look!\": using the gaze direction of embodied agents",
+        "authors": "Johann Schrammel, Arjan Geven, Reinhard Sefelin, Manfred Tscheligi",
+        "abstract": "This paper describes the results of three studies investigating an embodied agent that supports its interaction with the user by gazing at corresponding objects within its close environment. Three experiments were conducted in order to research whether users can detect an agent's line of sight, whether the agent's gaze direction can help to guide the users' attention towards designated locations and whether such a setup can be used to improve realistic interaction situations. The results show that a) users can detect the agent's gaze direction quickly (within 200 ms) but not very exactly, b) the use of the agent's gaze direction can speed up but also slow down the detection of objects in dependence on their location and c) that the agent's gaze towards corresponding objects during the interaction can have counterproductive effects in realistic settings.",
+        "session": "SESSION: People, looking at people"
+    },
+    {
+        "title": "Museum guide robot based on sociological interaction analysis",
+        "authors": "Yoshinori Kuno, Kazuhisa Sadazuka, Michie Kawashima, Keiichi Yamazaki, Akiko Yamazaki, Hideaki Kuzuoka",
+        "abstract": "We are currently working on a museum guide robot with an emphasis on \"friendly\" human-robot interaction displayed through nonverbal behaviors. In this paper, we focus on head gestures during explanations of exhibits. The outline of our research is as follows. We first examined human head gestures through an experimental, sociological approach. From this research, we have discovered how human guides coordinate their head movement along with their talk when explaining exhibits. Second, we developed a robot system based on these findings. Third, we evaluated human-robot interaction, again using an experimental, sociological approach, and then modified the robot based on the results. Our experimental results suggest that robot head turning may lead to heightened engagement of museum visitors with the robot. Based on our preliminary findings, we will describe a museum guide robot that first works autonomously and, if necessary, can turn into remote-control mode operated by a human to engage in more complex interaction with visitors.",
+        "session": "SESSION: People, looking at people"
+    },
+    {
+        "title": "Bubbling menus: a selective mechanism for accessing hierarchical drop-down menus",
+        "authors": "Theophanis Tsandilas, m. c. schraefel",
+        "abstract": "This paper introduces bubbling menus, a new design for cascading drop-down menus. Bubbling menus combine the bubble cursor [10] with directional mouse-gesture techniques to facilitate the access of certain items in a menu, such as frequently selected items. Through an extensive iterative design process, we explore bubbling menus in the context of adaptive and customizable user interfaces. Unlike other adaptation and customization techniques such as split menus, bubbling menus do not disrupt the original structure of menus and enable the activation of menus far from a menu bar. Results from two evaluation studies presented in the paper show that bubbling menus provide an effective alternative to accelerate menu selections tasks.",
+        "session": "SESSION: Input techniques"
+    },
+    {
+        "title": "Command line or pretty lines?: comparing textual and visual interfaces for intrusion detection",
+        "authors": "Ramona Su Thompson, Esa M. Rantanen, William Yurcik, Brian P. Bailey",
+        "abstract": "Intrusion detection (ID) is one of network security engineers' most important tasks. Textual (command-line) and visual interfaces are two common modalities used to support engineers in ID. We conducted a controlled experiment comparing a representative textual and visual interface for ID to develop a deeper understanding about the relative strengths and weaknesses of each. We found that the textual interface allows users to better control the analysis of details of the data through the use of rich, powerful, and flexible commands while the visual interface allows better discovery of new attacks by offering an overview of the current state of the network. With this understanding, we recommend designing a hybrid interface that combines the strengths of textual and visual interfaces for the next generation of tools used for intrusion detection.",
+        "session": "SESSION: Input techniques"
+    },
+    {
+        "title": "Pointing and beyond: an operationalization and preliminary evaluation of multi-scale searching",
+        "authors": "Emmanuel Pietriga, Caroline Appert, Michel Beaudouin-Lafon",
+        "abstract": "A number of experimental studies based on domain-specific tasks have evaluated the efficiency of navigation techniques for searching multi-scale worlds. The discrepancies among their results call for a more generic framework similar in spirit to Fitts' reciprocal pointing task, but adapted to a task that significantly differs from pure pointing. We introduce such a framework based on an abstract task and evaluate how four multi-scale navigation techniques perform in one particular multi-scale world configuration. Experimental findings indicate that, in this context, pan & zoom combined with an overview is the most efficient technique of all four, and that focus + context techniques perform better than classical pan & zoom. We relate these findings to more realistic situations, discuss their applicability, and how the framework can be used to cover a broad range of situations.",
+        "session": "SESSION: Input techniques"
+    },
+    {
+        "title": "Social practices in location-based collecting",
+        "authors": "Kenton O'Hara, Tim Kindberg, Maxine Glancy, Luciana Baptista, Byju Sukumaran, Gil Kahana, Julie Rowbotham",
+        "abstract": "The use of location-based technology to augment visitor experiences has received considerable attention over the years. In this paper, we take an alternative perspective on these kinds of location-based experiences by focussing on the collecting and keeping of location-based content as opposed to simply the in situ consumption of content. We describe a trial of a location-based experience at London zoo in which mobile camera phones were used to access digital content at particular animal enclosures around the zoo. Through the fieldwork we demonstrate ways in which collecting and keeping have important social values over and above simply consuming the content in situ. More specifically, the role of the collection of location-based content in identity work; in developing a sense of challenge and achievement; in defining a sense of group camaraderie; and in creating a playful sense of competition among group members. Further, we see how narratives told around the collected location-based content over time imbue it with additional value. These narratives become part of the resources through which relationships with family and friends get actively constructed. We discuss how these aspects have different design implications from the in-situ consumption model of location-based experiences and tensions this introduces.",
+        "session": "SESSION: Location aware systems"
+    },
+    {
+        "title": "Capturing, sharing, and using local place information",
+        "authors": "Pamela J. Ludford, Reid Priedhorsky, Ken Reily, Loren Terveen",
+        "abstract": "With new technology, people can share information about everyday places they go; the resulting data helps others find and evaluate places. Recent applications like Dodgeball and Sharescape repurpose everyday place information: users create local place data for personal use, and the systems display it for public use. We explore both the opportunities -- new local knowledge, and concerns -- privacy risks, raised by this implicit information sharing. We conduct two empirical studies: subjects create place data when using PlaceMail, a location-based reminder system, and elect whether to share it on Sharescape, a community map-building system. We contribute by: (1) showing location-based reminders yield new local knowledge about a variety of places, (2) identifying heuristics people use when deciding what place-related information to share (and their prevalence), (3) detailing how these decision heuristics can inform local knowledge sharing system design, and (4) identifying new uses of shared place information, notably opportunistic errand planning.",
+        "session": "SESSION: Location aware systems"
+    },
+    {
+        "title": "Show me the way to Monte Carlo: density-based trajectory navigation",
+        "authors": "Steven Strachan, John Williamson, Roderick Murray-Smith",
+        "abstract": "We demonstrate the use of uncertain prediction in asystem for pedestrian navigation via audio with a combination ofGlobal Positioning System data, a music player, inertial sensing,magnetic bearing data and Monte Carlo sampling for a densityfollowing task, where a listener's music is modulated according tothe changing predictions of user position with respect to a targetdensity, in this case a trajectory or path. We show that this system enables eyes-free navigation around set trajectories or paths unfamiliar to the user and demonstrate that the system may be used effectively for varying trajectory width and context.",
+        "session": "SESSION: Location aware systems"
+    },
+    {
+        "title": "Mapmover: a case study of design-oriented research into collective expression and constructed publics",
+        "authors": "Carl DiSalvo, Jeff Maki, Nathan Martin",
+        "abstract": "In this paper we present the MapMover project as a case study into the use and design of an interactive system for collective expression. Informed by analysis and reflection we advance the concept of constructed publics: publics that are established, shaped, and maintained through the actions and influence of others. We conclude by discussing the relevance of constructed publics as a theorectical frame for the analysis and evaluation of projects in the domains of urban computing and exploratory design in HCI.",
+        "session": "SESSION: Location aware systems"
+    },
+    {
+        "title": "Follow the reader: filtering comments on slashdot",
+        "authors": "Cliff A.C. Lampe, Erik Johnston, Paul Resnick",
+        "abstract": "Large-scale online communities need to manage the tension between critical mass and information overload. Slashdot is a news and discussion site that has used comment rating to allow massive participation while providing a mechanism for users to filter content. By default, comments with low ratings are hidden. Of users who changed the defaults, more than three times as many chose to use ratings for filtering or sorting as chose to suppress the use of comment ratings. Nearly half of registered users, however, never strayed from the default filtering settings, suggesting that the costs of exploring and selecting custom filter settings exceeds the expected benefit for many users. We recommend leveraging the efforts of the users that actively choose filter settings to reduce the cost of changing settings for all other users. One strategy is to create static schemas that capture the filtering preferences of different groups of readers. Another strategy is to dynamically set filtering thresholds for each conversation thread, based in part on the choices of previous readers. For predicting later readers' choices, the choices of previous readers are far more useful than content features such as the number of comments or the ratings of those comments.",
+        "session": "SESSION: Social network sharing"
+    },
+    {
+        "title": "Recent shortcuts: using recent interactions to support shared activities",
+        "authors": "John C. Tang, James Lin, Jeffrey Pierce, Steve Whittaker, Clemens Drews",
+        "abstract": "We present an empirical study of teams that revealed the amount of extraneous individual work needed to enable collaboration: finding references to other people, finding files to attach to email, managing incoming email attachments, managing the variety of files used in shared activities, and tracking what work is owed to others. Much of this work involves finding recently accessed objects that are needed again in the user's current task focus. These observations led to the design of Recent Shortcuts, a tool to help support coordination by making recently used objects easily accessible. Recent Shortcuts enables quick access to people (including groups of people), received attachments, files, and file folders that the user interacted with recently for re-use in the user's current context. Recent Shortcuts makes it easy to use these objects across applications with no additional user input and minimal changes to the user's applications or work practice. Early user experiences with a working prototype led to an extension that integrates recently accessed objects across multiple devices.",
+        "session": "SESSION: Social network sharing"
+    },
+    {
+        "title": "Comedia: mobile group media for active spectatorship",
+        "authors": "Giulio Jacucci, Antti Oulasvirta, Tommi Ilmonen, John Evans, Antti Salovaara",
+        "abstract": "Previous attempts to support spectators at large-scale events have concentrated separately on real-time event information, awareness cues, or media-sharing applications. CoMedia combines a group media space with event information and integrates reusable awareness elements throughout. In two field trials, one at a rally and the other at a music festival, we found that CoMedia facilitated onsite reporting to offsite members, coordination of group action, keeping up to date with others, spectating remotely, and joking. In these activities, media, awareness cues, and event information were often used in concert, albeit assuming differing roles. We show that the integrated approach better supports continuous interweaving of use with the changing interests and occurrences in large-scale events.",
+        "session": "SESSION: Social network sharing"
+    },
+    {
+        "title": "Demonstrating the viability of automatically generated user interfaces",
+        "authors": "Jeffrey Nichols, Duen Horng Chau, Brad A. Myers",
+        "abstract": "We conducted a user study that demonstrates that automatically generated interfaces can support better usability through increased flexibility in two dimensions. First, we show that automatic generation can improve usability by moving interfaces that are constrained by cost and poor interaction primitives to another device with better interactive capabilities: subjects were twice as fast and four times as successful at completing tasks with automatically generated interfaces on a PocketPC device as with the actual appliance interfaces. Second, we show that an automatic generator can improve usability by automatically ensuring that new interfaces are generated to be consistent with users' previous experience: subjects were also twice as fast using interfaces consistent with their experiences as compared to normally generated interfaces. These two results demonstrate that automatic interface generation is now viable and especially desirable where users will benefit from individualized interfaces or where human designers are constrained by cost and other factors.",
+        "session": "SESSION: Augmentation, automation & agents"
+    },
+    {
+        "title": "The role of choice and customization on users' interaction with embodied conversational agents: effects on perception and performance",
+        "authors": "Jun Xiao, John Stasko, Richard Catrambone",
+        "abstract": "We performed an empirical study exploring people's interactions with an embodied conversational agent (ECA) while performing two tasks. Conditions varied with respect to 1) whether participants were allowed to choose an agent and its characteristics and 2) the putative quality or appropriateness of the agent for the tasks. For both tasks, selection combined with the illusion of further customization significantly improved participants' overall subjective impressions of the ECAs while putative quality had little or no effect. Additionally, performance data revealed that the ECA's motivation and persuasion effects were significantly enhanced when participants chose agents to use. We found that user expectations about and perceptions of the interaction between themselves and an ECA depended very much on the individual's preconceived notions and preferences of various ECA characteristics and might deviate greatly from the models that ECA designers intend to portray.",
+        "session": "SESSION: Augmentation, automation & agents"
+    },
+    {
+        "title": "Seconds matter: improving distributed coordination bytracking and visualizing display trajectories",
+        "authors": "Mike Fraser, Michael R. McCarthy, Muneeb Shaukat, Phillip Smith",
+        "abstract": "",
+        "session": "SESSION: Distributed coordination"
+    },
+    {
+        "title": "FASTDash: a visual dashboard for fostering awareness in software teams",
+        "authors": "Jacob T. Biehl, Mary Czerwinski, Greg Smith, George G. Robertson",
+        "abstract": "",
+        "session": "SESSION: Distributed coordination"
+    },
+    {
+        "title": "A study of emergency response work: patterns of mobile phone interaction",
+        "authors": "Jonas Landgren, Urban Nulden",
+        "abstract": "",
+        "session": "SESSION: Distributed coordination"
+    },
+    {
+        "title": "ExperiScope: an analysis tool for interaction data",
+        "authors": "François Guimbretiére, Morgan Dixon, Ken Hinckley",
+        "abstract": "We present ExperiScope, an analytical tool to help designers and experimenters explore the results of quantitative evaluations of interaction techniques. ExperiScope combines a new visualization incorporating aspects of the KLM and the three-state model with an interface helping users to rapidly cluster similar patterns of interactions. The tool makes it easy to identify and compare key patterns of use encountered during data collection. This promotes a deeper understanding of the results of a given evaluation.We illustrate the advantages of this tool by revisiting the data collected for an experiment conducted by Hinckley et al. [19] which compared different mode switching techniques. Our results show that our tool complements the previously reported results by offering insights about error behavior and the impact of mode switching on user performance.By providing a more fine-grained analysis of the data gathered during empirical evaluations, we hope that our tool will improve researchers' understanding of existing and newly developed interaction techniques.",
+        "session": "SESSION: Usability"
+    },
+    {
+        "title": "Context & usability testing: user-modeled information presentation in easy and difficult driving conditions",
+        "authors": "Jiang Hu, Andi Winterboer, Clifford I. Nass, Johanna D. Moore, Rebecca Illowsky",
+        "abstract": "A 2x2 enhanced Wizard-of-Oz experiment (N = 32) was conducted to compare two different approaches to presenting information to drivers in easy and difficult driving conditions. Data of driving safety, evaluation of the spoken dialogue system, and perception of self were analyzed. Results show that the user-modeled summarize-and-refine (UMSR) approach led to more efficient information retrieval than did the summarize-and-refine (SR) approach. However, depending on driving condition, higher efficiency did not always translate into pleasant subjective experience. Implications for usability testing and interface design were presented, followed by discussions of future research directions.",
+        "session": "SESSION: Usability"
+    },
+    {
+        "title": "Tracking the interaction of users with AJAX applications for usability testing",
+        "authors": "Richard Atterer, Albrecht Schmidt",
+        "abstract": "In this paper, we introduce an implementation for detailed monitoring of user actions on web pages. It addresses the problem that the log data recorded by standard web servers is not sufficient for the tracking of users on AJAX websites, e.g. to conduct a usability test. Using standard web technologies, our HTTP proxy can record very detailed usage information, such as mouse movements, clicks, key presses and scrolling, together with the exact HTML DOM tree objects involved. As we show in several case studies, the tracking also works across multiple websites, none of which needs to be under our control. This approach is much less invasive than previous efforts: The test person does not need to install software on her computer, and in certain operation modes, no configuration changes at all are required on her computer. Our research indicates that if the technology described in this paper is employed, arbitrary visitors of a website are more likely to take part in a usability test offered by that site -- this facilitates recruiting test participants over the Internet.",
+        "session": "SESSION: Usability"
+    },
+    {
+        "title": "Grow and know: understanding record-keeping needs for tracking the development of young children",
+        "authors": "Julie A. Kientz, Rosa I. Arriaga, Marshini Chetty, Gillian R. Hayes, Jahmeilah Richardson, Shwetak N. Patel, Gregory D. Abowd",
+        "abstract": "",
+        "session": "SESSION: Kids & family"
+    },
+    {
+        "title": "Sharing motion information with close family and friends",
+        "authors": "Frank R. Bentley, Crysta J. Metcalf",
+        "abstract": "",
+        "session": "SESSION: Kids & family"
+    },
+    {
+        "title": "Comicboarding: using comics as proxies for participatory design with children",
+        "authors": "Neema Moraveji, Jason Li, Jiarong Ding, Patrick O'Kelley, Suze Woolf",
+        "abstract": "",
+        "session": "SESSION: Kids & family"
+    },
+    {
+        "title": "Pressure marks",
+        "authors": "Gonzalo A. Ramos, Ravin Balakrishnan",
+        "abstract": "Selections and actions in GUI's are often separated -- i.e. an action or command typically follows a selection. This sequence imposes a lower bound on the interaction time that is equal to or greater than the sum of its parts. In this paper, we introduce pressure marks -- pen strokes where the variations in pressure make it possible to indicate both a selection and an action simultaneously. We propose a series of design guidelines from which we develop a set of four basictypes of pressure marks. We first assess the viability of this set through an exploratory study that looks at the way users draw straight and lasso pressure marks of different sizes and orientations. We then present the results of a quantitative experiment that shows that users perform faster selection-action interactions with pressure marks than with a combination of lassos and pigtails. Based on these results, we present and discuss a number of interaction designs that incorporate pressure marks.",
+        "session": "SESSION: Alternative interaction"
+    },
+    {
+        "title": "Augmenting the mouse with pressure sensitive input",
+        "authors": "Jared Cechanowicz, Pourang Irani, Sriram Subramanian",
+        "abstract": "In this paper we investigate the use of a uni-pressure and dual-pressure augmented mouse. With a pressure augmented mouse users can simultaneously control cursor positions as well as multiple levels of discrete selection modes for common desktop application tasks. Two or more independent pressure sensors can be mounted onto several locations on the body of the mouse. To highlight the design potential of a pressure augmented mouse we conducted a multi-part study. In the first part we identified the number of maximum discrete levels controllable with a uni-pressure augmented mouse, the most appropriate locations for installing pressure sensors on the mouse, and the design of new interaction techniques to support selection with pressure-based input. In a follow-up design we introduced an additional sensor and two different types of selection techniques to control a larger number of discrete levels with two pressure sensors. Our results show that users can comfortably control up to 64 modes with a dual-pressure augmented mouse. We discuss the findings of our results in the context of several desktop interaction techniques and identify several design recommendations.",
+        "session": "SESSION: Alternative interaction"
+    },
+    {
+        "title": "Earpod: eyes-free menu selection using touch input and reactive audio feedback",
+        "authors": "Shengdong Zhao, Pierre Dragicevic, Mark Chignell, Ravin Balakrishnan, Patrick Baudisch",
+        "abstract": "We present the design and evaluation of earPod: an eyes-free menu technique using touch input and reactive auditory feedback. Studies comparing earPod with an iPod-like visual menu technique on reasonably-sized static menus indicate that they are comparable in accuracy. In terms of efficiency (speed), earPod is initially slower, but outperforms the visual technique within 30 minutes of practice. Our results indicate that earPod is potentially a reasonable eyes-free menu technique for general use, and is a particularly exciting technique for use in mobile device interfaces.",
+        "session": "SESSION: Alternative interaction"
+    },
+    {
+        "title": "What happened to remote usability testing?: an empirical study of three methods",
+        "authors": "Morten Sieker Andreasen, Henrik Villemann Nielsen, Simon Ormholt Schrøder, Jan Stage",
+        "abstract": "The idea of conducting usability tests remotely emerged ten years ago. Since then, it has been studied empirically, and some software organizations employ remote methods. Yet there are still few comparisons involving more than one remote method. This paper presents results from a systematic empirical comparison of three methods for remote usability testing and a conventional laboratory-based think-aloud method. The three remote methods are a remote synchronous condition, where testing is conducted in real time but the test monitor is separated spatially from the test subjects, and two remote asynchronous conditions, where the test monitor and the test subjects are separated both spatially and temporally. The results show that the remote synchronous method is virtually equivalent to the conventional method. Thereby, it has the potential to conveniently involve broader user groups in usability testing and support new development approaches. The asynchronous methods are considerably more time-consuming for the test subjects and identify fewer usability problems, yet they may still be worthwhile.",
+        "session": "SESSION: Usability evaluation"
+    },
+    {
+        "title": "Usability testing: what have we overlooked?",
+        "authors": "Gitte Lindgaard, Jarinee Chattratichart",
+        "abstract": "For more than a decade, the number of usability test participants has been a major theme of debate among usability practitioners and researchers keen to improve usability test performance. This paper provides evidence suggesting that the focus be shifted to task coverage instead. Our data analysis of nine commercial usability test teams participating in the CUE-4 study revealed no significant correlation between the percentage of problems found or of new problems and number of test users, but correlations of both variables and number of user tasks used by each usability team were significant. The role of participant recruitment on usability test performance and future research directions are discussed.",
+        "session": "SESSION: Usability evaluation"
+    },
+    {
+        "title": "Touchstone: exploratory design of experiments",
+        "authors": "Wendy E. Mackay, Caroline Appert, Michel Beaudouin-Lafon, Olivier Chapuis, Yangzhou Du, Jean-Daniel Fekete, Yves Guiard",
+        "abstract": "Touchstone is an open-source experiment design platform designed to help establish a solid research foundation for HCI in the area of novel interaction techniques. Touchstone includes a design platform for exploring alternative designs of controlled laboratory experiments, a run platform for running subjects and a limited analysis platform for advice and access to on-line statistics packages. Designed for HCI researchers and their students, Touchstone facilitates the process of creating new experiments, as well as replicating and extending experiments in the research literature. We tested Touchstone by designing two controlled experiments. One illustrates how to create a new experiment from scratch. The other replicates and extends a previous study of multiscale pointing interaction techniques: OrthoZoom was fastest, followed by bi-manual Pan & Zoom; SDAZ and traditional Pan & Zoom were consistently slower.",
+        "session": "SESSION: Usability evaluation"
+    },
+    {
+        "title": "Making mashups with marmite: towards end-user programming for the web",
+        "authors": "Jeffrey Wong, Jason I. Hong",
+        "abstract": "",
+        "session": "SESSION: Programming by & with end-users"
+    },
+    {
+        "title": "Vio: a mixed-initiative approach to learning and automating procedural update tasks",
+        "authors": "John Zimmerman, Anthony Tomasic, Isaac Simmons, Ian Hargraves, Ken Mohnkern, Jason Cornwell, Robert Martin McGuire",
+        "abstract": "",
+        "session": "SESSION: Programming by & with end-users"
+    },
+    {
+        "title": "Storytelling alice motivates middle school girls to learn computer programming",
+        "authors": "Caitlin Kelleher, Randy Pausch, Sara Kiesler",
+        "abstract": "",
+        "session": "SESSION: Programming by & with end-users"
+    },
+    {
+        "title": "Multiview: improving trust in group video conferencing through spatial faithfulness",
+        "authors": "David T. Nguyen, John Canny",
+        "abstract": "Video conferencing is still considered a poor alternative to face-to-face meetings. In the business setting, where these systems are most prevalent, the misuse of video conferencing systems can have detrimental results, especially in high-stakes communications. Prior work suggests that spatial distortions of nonverbal cues, particularly gaze and deixis, negatively impact many aspects of effective communication in dyadic communications. However, video conferencing systems are often used for group-to-group meetings where spatial distortions are exacerbated. Meanwhile, its effects on the group dynamic are not well understood. In this study, we examine the effects that spatial distortions of nonverbal cues have on inter-group trust formation. We conducted a large (169 participant) study of group conferencing under various conditions. We found that the use of systems that introduce spatial distortions negatively affect trust formation patterns. On the other hand, these effects are essentially eliminated by using a spatially faithful video conferencing system.",
+        "session": "SESSION: Trust & engagement"
+    },
+    {
+        "title": "Presence and engagement in an interactive drama",
+        "authors": "Steven Dow, Manish Mehta, Ellie Harmon, Blair MacIntyre, Michael Mateas",
+        "abstract": "In this paper we present the results of a qualitative, empirical study exploring the impact of immersive technologies on presence and engagement, using the interactive drama Façade as the object of study. In this drama, players are situated in a married couple's apartment, and interact primarily through conversation with the characters and manipulation of objects in the space. We present participants' experiences across three different versions of Façade -- augmented reality (AR) and two desktop computing based implementations, one where players communicate using speech and the other using typed keyboard input. Through interviews and observations of players, we find that immersive AR can create an increased sense of presence, confirming generally held expectations. However, we demonstrate that increased presence does not necessarily lead to more engagement. Rather, mediation may be necessary for some players to fully engage with certain interactive media experiences.",
+        "session": "SESSION: Trust & engagement"
+    },
+    {
+        "title": "Engaging constable: revealing art with new technology",
+        "authors": "Dirk vom Lehn, Jon Hindmarsh, Paul Luff, Christian Heath",
+        "abstract": "Museums increasingly deploy new technologies to enhance visitors' experience of their exhibitions. They primarily rely on touch-screen computer systems, PDAs and digital audio-guides. Tate Britain recently employed two innovative systems in one of their major exhibitions of John Constable's work; a gestural interface and a touch-screen panel, both connected to large projection screens. This paper reports on the analysis of video-recordings and field observations of visitors' action and interaction. It explores how people interact with and around the systems, how they configure the space around the installation and how they examine and discover their properties. It suggests that designers of interfaces and installations developed for museum exhibitions face particular challenges, such as the transparency of the relationship between people's actions and the system' response, the provision of opportunities for individual and collaborative experiences and the interweaving of technological and aesthetic experiences.",
+        "session": "SESSION: Trust & engagement"
+    },
+    {
+        "title": "Modeling human performance of pen stroke gestures",
+        "authors": "Xiang Cao, Shumin Zhai",
+        "abstract": "",
+        "session": "SESSION: Models of mobile interaction"
+    },
+    {
+        "title": "Keystroke-level model for advanced mobile phone interaction",
+        "authors": "Paul Holleis, Friederike Otto, Heinrich Hussmann, Albrecht Schmidt",
+        "abstract": "",
+        "session": "SESSION: Models of mobile interaction"
+    },
+    {
+        "title": "An extended keystroke level model (KLM) for predicting the visual demand of in-vehicle information systems",
+        "authors": "Michael Pettitt, Gary Burnett, Alan Stevens",
+        "abstract": "",
+        "session": "SESSION: Models of mobile interaction"
+    },
+    {
+        "title": "Towards developing assistive haptic feedback for visually impaired internet users",
+        "authors": "Ravi Kuber, Wai Yu, Graham McAllister",
+        "abstract": "Haptic technologies are thought to have the potential to help blind individuals overcome the challenges experienced when accessing the Web. This paper proposes a structured participatory-based approach for developing targeted haptic sensations for purposes of web page exploration, and reports preliminary results showing how HTML elements can be represented through the use of force-feedback. Findings are then compared with mappings from previous studies, demonstrating the need for providing tailored haptic sensations for blind Internet users. This research aims to culminate in a framework, encompassing a vocabulary of haptic sensations with accompanying recommendations for designers to reference when developing inclusive web solutions.",
+        "session": "SESSION: Color/blind"
+    },
+    {
+        "title": "An interface to support color blind computer users",
+        "authors": "Luke Jefferson, Richard Harvey",
+        "abstract": "A new method for adapting digital images so that they are suitable for color blind viewers is presented. In contrast to earlier automatic methods which formulate the problem of adapting images for color blind observers as one of optimization, we demonstrate how it is possible to allow a user to compute a very wide range of adaptations in reasonable time under the control of a single variable. We demonstrate how the algorithm can be delivered as an adaptive technology via a simple interface, and evaluate the efficacy of our method using psychovisual experiments with simulated color blind users and a standard color vision test.",
+        "session": "SESSION: Color/blind"
+    },
+    {
+        "title": "An adaptive & adaptable approach to enhance web graphics accessibility for visually impaired people",
+        "authors": "Chui Chui Tan, Wai Yu, Graham McAllister",
+        "abstract": "To date, efforts have been made to enable visually impaired people to gain access to graphics on the Internet. However, these studies only offer a solution for a specific type of graphic by using a fixed set of hardware. To address this, a design approach of an adaptive and adaptable architecture is introduced which adapts to different graphical content, input/output devices (including assistive technologies) and user's profile and preferences. This system brings the opportunity to visually impaired people to gain access to graphics via different modalities by providing an adequate accessibility interface and interaction based on their profiles and needs.",
+        "session": "SESSION: Color/blind"
+    },
+    {
+        "title": "Modeling the impact of shared visual information on collaborative reference",
+        "authors": "Darren Gergle, Carolyn P. Rose, Robert E. Kraut",
+        "abstract": "A number of recent studies have demonstrated that groups benefit considerably from access to shared visual information. This is due, in part, to the communicative efficiencies provided by the shared visual context. However, a large gap exists between our current theoretical understanding and our existing models. We address this gap by developing a computational model that integrates linguistic cues with visual cues in a way that effectively models reference during tightly-coupled, task-oriented interactions. The results demonstrate that an integrated model significantly outperforms existing language-only and visual-only models. The findings can be used to inform and augment the development of conversational agents, applications that dynamically track discourse and collaborative interactions, and dialogue managers for natural language interfaces.",
+        "session": "SESSION: Social influence"
+    },
+    {
+        "title": "Similarity is more important than expertise: accent effects in speech interfaces",
+        "authors": "Nils Dahlbäck, QianYing Wang, Clifford Nass, Jenny Alwin",
+        "abstract": "In a balanced between-participants experiment (N = 96) American and Swedish participants listened to tourist information on a website about an American or Swedish city presented in English with either an American or Swedish accent and evaluated the speakers' knowledge of the topic, the voice characteristics, and the information characteristics. Users preferred accents similar to their own. Similarity-attraction effects were so powerful that same-accents speakers were viewed as being more knowledgeable than different-accent speakers even when the information would be much better-known by the opposite-accent speaker. Implications for similarity-attraction overwhelming expertise are discussed.",
+        "session": "SESSION: Social influence"
+    },
+    {
+        "title": "Provoking sociability",
+        "authors": "Brooke Foucault, Helena M. Mentis, Phoebe Sengers, Devon Welles",
+        "abstract": "In this study, we explore the potential usefulness of disturbing, uncomfortable systems, demonstrating that provocative technology can have a positive effect on social relationships. We designed and evaluated an agent-based system that collects user information by asking seemingly benign questions, and then uses it to spread false, strange gossip throughout an office space. We show that provocative interaction on-line can improve off-line sociability.",
+        "session": "SESSION: Social influence"
+    },
+    {
+        "title": "Social responses to virtual humans: implications for future interface design",
+        "authors": "Catherine Amine Zanbaka, Amy Catherine Ulinski, Paula Goolkasian, Larry F. Hodges",
+        "abstract": "Do human-human social interactions carry over to human-virtual human social interactions? How does this affect future interface designers? We replicated classical tests of social influence known as the social facilitation and inhibition effects. Social facilitation/inhibition theory states that when in the presence of others, people perform simple tasks better and complex tasks worse. Participants were randomly assigned to perform both simple and complex tasks alone and in the presence of either a real human, a projected virtual human, or a virtual human in a head-mounted display. Our results showed participants were inhibited by the presence of others, whether real or virtual. That is, participants performed worse on the complex task, both in terms of percent correct and reaction times, when in the presence of others than when alone. Social facilitation did not occur with the real or virtual human. We discuss these results and their implications for future interface designers.",
+        "session": "SESSION: Social influence"
+    },
+    {
+        "title": "Hard lessons: effort-inducing interfaces benefit spatial learning",
+        "authors": "Andy Cockburn, Per Ola Kristensson, Jason Alexander, Shumin Zhai",
+        "abstract": "",
+        "session": "SESSION: Learning"
+    },
+    {
+        "title": "Multiple mice for retention tasks in disadvantaged schools",
+        "authors": "Udai Singh Pawar, Joyojeet Pal, Rahul Gupta, Kentaro Toyama",
+        "abstract": "",
+        "session": "SESSION: Learning"
+    },
+    {
+        "title": "Strategies for accelerating on-line learning of hotkeys",
+        "authors": "Tovi Grossman, Pierre Dragicevic, Ravin Balakrishnan",
+        "abstract": "",
+        "session": "SESSION: Learning"
+    }
+]

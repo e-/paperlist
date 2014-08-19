@@ -1,0 +1,308 @@
+[
+    {
+        "title": "On the ease and efficiency of human-computer interfaces",
+        "authors": "Shumin Zhai",
+        "abstract": "Ease and efficiency are two critical qualities of human-computer interfaces. In this address, I will first examine various contributing factors to these two qualities, including recognition and recall, open and closed loop control, controlled and automatic process [Schneider and Shiffrin, 1977; Shiffrin and Schneider, 1977; Schneider and Chein, 2003], mapping directness [Hutchins et al., 1985], unit of operation, and chunking.",
+        "session": "SESSION: Keynote abstract"
+    },
+    {
+        "title": "Longitudinal evaluation of discrete consecutive gaze gestures for text entry",
+        "authors": "Jacob O. Wobbrock, James Rubinstein, Michael W. Sawyer, Andrew T. Duchowski",
+        "abstract": "Eye-typing performance results are reported from controlled studies comparing an on-screen keyboard and Eye Write, a new on-screen gestural input alternative. Results from the first pilot study suggest the presence of a learning curve that novice users must overcome in order to gain proficiency in EyeWrite's use (requiring practice with its letter-like gestural alphabet). Results from the second longitudinal study indicate that EyeWrite's inherent multi-saccade handicap (4.52 saccades per character, frequency-weighted average) is sufficient for the on-screen keyboard to edge out Eye Write in speed performance. Eye-typing speeds with Eye Write approach 5 wpm on average (8 wpm attainable by proficient users), whereas keyboard users achieve about 7 wpm on average (in line with previous results). However, Eye Write users leave significantly fewer uncorrected errors in the final text, with no significant difference in the number of errors corrected during entry, indicating a speed-accuracy trade-off. Subjective results indicate that participants consider Eye Write significantly faster, easier to use, and prone to cause less ocular fatigue than the on-screen keyboard. In addition, Eye-Write consumes much less screen real-estate than an on-screen keyboard, giving it practical advantages for eye-based text entry.",
+        "session": "SESSION: Eye typing"
+    },
+    {
+        "title": "Now Dasher! Dash away!: longitudinal study of fast text entry by Eye Gaze",
+        "authors": "Outi Tuisku, Päivi Majaranta, Poika Isokoski, Kari-Jouko Räihä",
+        "abstract": "Dasher is one of the best known inventions in the area of text entry in recent years. It can be used with many input devices, but studies on user performance with it are still scarce. We ran a longitudinal study where 12 participants transcribed Finnish text with Dasher in ten 15-minute sessions using a Tobii 1750 eye tracker as a pointing device. The mean text entry rate was 2.5 wpm during the first session and 17.3 wpm during the tenth session. Our results show that very high text entry rates can be achieved with eye-operated Dasher, but only after several hours of training.",
+        "session": "SESSION: Eye typing"
+    },
+    {
+        "title": "Eye-S: a full-screen input modality for pure eye-based communication",
+        "authors": "Marco Porta, Matteo Turina",
+        "abstract": "To date, several eye input methods have been developed, which, however, are usually designed for specific purposes (e.g. typing) and require dedicated graphical interfaces. In this paper we present Eye-S, a system that allows general input to be provided to the computer through a pure eye-based approach. Thanks to the \"eye graffiti\" communication style adopted, the technique can be used both for writing and for generating other kinds of commands. In Eye-S, letters and general eye gestures are created through sequences of fixations on nine areas of the screen, which we call hotspots. Being usually not visible, such sensitive regions do not interfere with other applications, that can therefore exploit all the available display space.",
+        "session": "SESSION: Eye typing"
+    },
+    {
+        "title": "Measurement of eye velocity using active illumination",
+        "authors": "Jeffrey B. Mulligan",
+        "abstract": "With speeds measured in hundreds of degrees per second, measurement of saccadic velocities can be a challenging problem, usually solved by the application of high-frame-rate cameras or high-bandwidth analog systems. This paper describes a novel approach utilizing a standard NTSC video camera coupled with an array of near-infrared light-emitting diodes that are flashed at various times within a single frame. The principle has been demonstrated with a prototype apparatus consisting of 4 16-cell linear arrays (\"light sticks\"). The cells of each light stick are energized sequentially during each video field, while a camera captures their images reflected in the cornea. When the eye is still, the four line segments are aligned with the vertical and horizontal directions, but when the eye is in motion they appear tilted. Opposite light sticks are cycled in opposite directions, producing opposite tilts. Thus, the measurement of velocity is transformed to a measurement of the angle between two line segments. Preliminary results from a prototype system show a noise level of approximately 20 deg/sec.",
+        "session": "SESSION: Late breaking results: oral presentations"
+    },
+    {
+        "title": "A method to study visual attention aspects of collaboration: eye-tracking pair programmers simultaneously",
+        "authors": "Sami Pietinen, Roman Bednarik, Tatiana Glotova, Vesa Tenhunen, Markku Tukiainen",
+        "abstract": "The previous research of visual attention has mostly considered the situations in which a single person performs a task. The current eye-tracking devices and software support this research situation. Applications of eye-tracking in the research of collaborative tasks have been rare to date. We present a methodological framework of a research in which visual attention of pair programmers with a single display has been studied. We discuss the challenges of such research when conducted in real-world settings and the requirements on the eye-tracking setups. The hardware setups and software solutions to the problems of acquisition and synchronization of streams of eye-tracking data are presented. We outline the methodological questions of future visual attention research of collaborative tasks.",
+        "session": "SESSION: Late breaking results: oral presentations"
+    },
+    {
+        "title": "Testing for statistically significant differences between groups of scan patterns",
+        "authors": "Matt Feusner, Brian Lukoff",
+        "abstract": "Pairwise sequence alignment methods are now often used when analyzing eyetracking data [Hacisalihzade et al. 1992; Brandt and Stark 1997; Josephson and Holmes 2002, 2006; Pan et al. 2004; Heminghous and Duchowski 2006]. While optimal sequence alignment scores provide a valuation of similarity and difference, they do not readily provide a statistical test of similarity or difference. Furthermore, pairwise alignment scores cannot be used to compare groups of scan patterns directly. Using a statistic that compiles these pairwise alignment scores, a statistical evaluation of similarity can be made by repeatedly computing scores from different permutations of scan pattern groupings. This test produces a p-value as a level of statistical significance.",
+        "session": "SESSION: Late breaking results: oral presentations"
+    },
+    {
+        "title": "Improving hands-free menu selection using eyegaze glances and fixations",
+        "authors": "Geoffrey Tien, M. Stella Atkins",
+        "abstract": "A real-time eyegaze selection interface was implemented using a Tobii eyegaze tracking monitor. A hierarchical button menu was displayed on the screen and specified selections were made by eyegaze fixations and glances on the menu widgets. The initial version tested three different spatial layouts of the menu widgets and employed a dwell + glance method of selection. Results from the pilot interface led to usability improvements in the second version of the interface. Selections were activated using a glance + dwell method. The usability of the second study interface received a positive response from all 8 participants. Each selection gained more than a 100% speed increase using the revised interface. A more intuitive selection interface in the second study allowed us to test users selection accuracy at faster dwell selection thresholds. Users quickly learned to achieve accurate selections in 180 ms, but made errors when selections occurred in 150 ms.",
+        "session": "SESSION: Late breaking results: oral presentations"
+    },
+    {
+        "title": "Gazing with pEYEs: towards a universal input for various applications",
+        "authors": "Anke Huckauf, Mario H. Urbina",
+        "abstract": "Various interfaces for gaze control (which are recommended due to certain requirements of controlling a machine by gaze) have already been developed. One problem, especially for novice users, is that respective interfaces all look different and require different steps to use. As a means to unify interfaces for gaze control, pie menus are suggested. Such pEYEs allow for universal input in various applications usable by novices and by experts. We present two examples for pEYE interfaces; one eye-typing application and one desktop navigation. Observations in user studies indicate effective and efficient performance and a large acceptance.",
+        "session": "SESSION: Late breaking results: oral presentations"
+    },
+    {
+        "title": "Eye typing using word and letter prediction and a fixation algorithm",
+        "authors": "I. Scott MacKenzie, Xuang Zhang",
+        "abstract": "Two eye typing techniques and a fixation algorithm are described. Similar to word prediction, letter prediction chooses three highly probable next letters and highlights them on an onscreen keyboard. Letter prediction proved promising, as it was as good as word prediction, and in some cases better. The fixation algorithm chooses which button to select for eye-over highlighting. It often chooses the desired button even if another button is closer to the fixation location. Error rates were reduced when using the fixation algorithm combined with letter prediction; however, the algorithm was sensitive to the correctness of the first several letters in a word.",
+        "session": "SESSION: Late breaking results: oral presentations"
+    },
+    {
+        "title": "3D point-of-gaze estimation on a volumetric display",
+        "authors": "Craig Hennessey, Peter Lawrence",
+        "abstract": "Eye-gaze tracking devices are typically used to estimate the point-of-gaze (POG) of a subject on a 2D surface such as a computer screen. Using model based methods for POG estimation we have developed a system based on the vergence of the eyes which can be used to estimate the POG on a real-world volumetric display.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "Limbus/pupil switching for wearable eye tracking under variable lighting conditions",
+        "authors": "Wayne J. Ryan, Andrew T. Duchowski, Stan T. Birchfield",
+        "abstract": "We present a low-cost wearable eye tracker built from off-the-shelf components. Based on the open source openEyes project (the only other similar effort that we are aware of), our eye tracker operates in the visible spectrum and variable lighting conditions. The novelty of our approach rests in automatically switching between tracking the pupil/iris boundary in bright light to tracking the iris/sclera boundary (limbus) in dim light. Additional improvements include a semi-automatic procedure for calibrating the eye and scene cameras, as well as an automatic procedure for initializing the location of the pupil in the first image frame. The system is accurate to two degrees visual angle in both indoor and outdoor environments.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "Improving the accuracy of gaze input for interaction",
+        "authors": "Manu Kumar, Jeff Klingner, Rohan Puranik, Terry Winograd, Andreas Paepcke",
+        "abstract": "Using gaze information as a form of input poses challenges based on the nature of eye movements and how we humans use our eyes in conjunction with other motor actions. In this paper, we present three techniques for improving the use of gaze as a form of input. We first present a saccade detection and smoothing algorithm that works on real-time streaming gaze information. We then present a study which explores some of the timing issues of using gaze in conjunction with a trigger (key press or other motor action) and propose a solution for resolving these issues. Finally, we present the concept of Focus Points, which makes it easier for users to focus their gaze when using gaze-based interaction techniques. Though these techniques were developed for improving the performance of gaze-based pointing, their use is applicable in general to using gaze as a practical form of input.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "Measuring the task-evoked pupillary response with a remote eye tracker",
+        "authors": "Jeff Klingner, Rakshit Kumar, Pat Hanrahan",
+        "abstract": "The pupil-measuring capability of video eye trackers can detect the task-evoked pupillary response: subtle changes in pupil size which indicate cognitive load. We performed several experiments to measure cognitive load using a remote video eye tracker, which demonstrate two extensions to current research in this area. First, we show that cognitive pupillometry can be extended from head-mounted to remote eye tracking systems. Second, we demonstrate the feasibility of a more fine-grained approach to analyzing pupil size data gathered with an eye tracker, which provides more detail about the timing and magnitude of changes in cognitive load.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "Estimation of certainty for multiple choice tasks using features of eye-movements",
+        "authors": "Minoru Nakayama, Yosiyuki Takahasi",
+        "abstract": "To determine the performance of estimating the degree of \"strength of belief\" (SOB) of responses using eye-movements, the features of eye-movements were extracted while subjects answered questions and reviewed their own responses to multiple choice tasks. The estimation was conducted using Support Vector Machines (SVM) with features of eye-movements between two successive fixations. In the results, the overall estimation performances were significant when the prediction was calculated using certain combinations of features for answering and reviewing sessions respectively. In comparing feature combinations of eye-movements for significant estimations between answering and reviewing sessions, significant combinations components of features between the two sessions did not coincide.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "Assessing usability with eye-movement frequency analysis",
+        "authors": "Minoru Nakayama, Makoto Katsukura",
+        "abstract": "Eye-movements can be an index of usability, though there is no significant relationship between a subjective usability score and indices of eye-movements, however [Nakayama and Katsukura 2007]. A possible reasons for this is the shortness of the observational duration. As another approach, power spectrum density (PSD) and cross spectrum density (CSD) of eye-movements can be used as an index of mental workload [Nakayama and Shimizu 2004]. This paper addresses the possibility of assessing usability using frequency analysis of eye-movements.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "Integrated speech and gaze control for realistic desktop environments",
+        "authors": "Emiliano Castellina, Fulvio Corno, Paolo Pellegrino",
+        "abstract": "Nowadays various are the situations in which people need to interact with a Personal Computer without having the possibility to use traditional pointing devices, such as a keyboard or a mouse. In the latest years, various alternatives to the classical input devices like keyboard and mouse and novel interaction paradigms have been proposed. Particularly, multimodal interactions have been proposed to overcome the limit of each input channel take alone. In this paper we propose a multimodal system based on the integration of speech- and gaze-based inputs for interaction with a real desktop environment. A real-time grammar is generated to limit the vocal vocabulary basing on the fixated area. A disambiguation method is used for inherently ambiguous vocal commands, and the performed tests show its efficiency.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "Comparing behavioural and self-report measures of engagement with an embodied conversational agent: a first report on eye tracking in Second Life",
+        "authors": "Sara Dalzel-Job, Craig Nicol, Jon Oberlander",
+        "abstract": "Embodied Conversational Agents (ECAs) are widely used to assist users in carrying out tasks. There are various reasons for including them in interfaces; they may help guide a user's attention to important information; they may improve overall task performance; or they may simply make the interface more attractive, thereby increasing the user's motivation to engage with a task.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "A head-mounted sensor-based eye tracking device: eye touch system",
+        "authors": "Cihan Topal, Ömer Nezih Gerek, Atakan Doǧan",
+        "abstract": "In this study, a new eye tracking system, namely Eye Touch, is introduced. Eye Touch is based on an eyeglasses-like apparatus on which IrDA sensitive sensors and IrDA light sources are mounted. Using inexpensive sensors and light sources instead of a camera leads to lower system cost and need for the computation power. A prototype of the proposed system is developed and tested to show its capabilities. Based on the test results obtained, Eye Touch is proved to be a promising human-computer interface system.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "Evaluating requirements for gaze-based interaction in a see-through head mounted display",
+        "authors": "Sven-Thomas Graupner, Michael Heubner, Sebastian Pannasch, Boris M. Velichkovsky",
+        "abstract": "This study suggests an approach to the evaluation of gaze-based interaction with information displayed on a see-through HMD. For these purposes, a mock-up system consisting of a head-mounted eye tracker and a see-through HMD was developed. In a series of three experiments subjects performed a simple point selection task using gaze control. Various design issues were addressed throughout including the size of interactive elements, their position on the screen, temporal and spatial resolution parameters of the eye tracker as well as algorithms used to enhance data quality. Reaction time and hit rate were measured as objective indicators of performance.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "One-point calibration gaze tracking based on eyeball kinematics using stereo cameras",
+        "authors": "Takashi Nagamatsu, Junzo Kamahara, Takumi Iko, Naoki Tanaka",
+        "abstract": "This paper presents a one-point calibration gaze tracking method based on eyeball kinematics using stereo cameras. By using two cameras and two light sources, the optic axis of the eye can be estimated. One-point calibration is required to estimate the angle of the visual axis from the optic axis. The eyeball rotates with optic and visual axes based on the eyeball kinematics (Listing's law). Therefore, we introduced eyeball kinematics to the one-point calibration process in order to properly estimate the visual axis. The prototype system was developed and it was found that the accuracy was under 1° around the center and bottom of the display.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "Temporal eye-tracking data: evolution of debugging strategies with multiple representations",
+        "authors": "Roman Bednarik, Markku Tukiainen",
+        "abstract": "The challenges in empirical eye-tracking studies of usability or complex problem solving include 1) how to effectively analyze the eye-tracking data, and 2) how to interpret and relate the resulting measures to the user cognitive processing. We conducted a reanalysis of eye-tracking data from a recent study that involved programmers of two experience groups debugging a program with the help of multiple representations. The proportional fixation time on each area of interest (AOI), frequency of visual attention switches between the areas, and the type of switch were investigated during five consequential phases of ten minutes of debugging. We increased the granularity of the focus on the user processing several times, allowing us to construct a better picture of the process. In addition, plotting the areas of interest in time supported a visual analysis and comparison with the quantitative data. We found repetitive patterns of visual attention that were associated with less experience in programming and lower performance. We also discovered that at the beginning of the process programmers made use of both the code and visualization while frequently switching between them. At a later stage of debugging, more experienced programmers began to increasingly integrate also the output of the program and employed a high-frequency of visual attention switching to coordinate the three representations.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "EyeSecret: an inexpensive but high performance auto-calibration eye tracker",
+        "authors": "Zhang Yun, Zhao Xin-Bo, Zhao Rong-Chun, Zhou Yuan, Zou Xiao-Chun",
+        "abstract": "With the aim to provide an inexpensive but high performance real-time head mounted eye tracker, named EyeSecret, we present a novel system derived from openEyes which share the common idea to integrated Eye tracker to everyday life and reach its full potential. To obtain the robustness, intrusiveness and accuracy from relative low-cost and off-the-shelf components, we developed the system by parallel hardware and software design. We employed reverse engineering and the rapid prototyping design and manufacturing as a measurement of head gear designing; moreover, two sets of auto-calibration plans were introduced to automatically acquire the coordinates of calibration markers in real scene, and we also improved infrared (IR) source and implemented laser to get qualified image and facilitates the eye tracker. Our system can reliably estimate eye position with normal head motion indoors or outdoors and reach an accuracy of approximately 1° visual angle, ±30° horizontal FOV (Field of View) and ±25° vertical FOV.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "KiEV: a tool for visualization of reading and writing processes in translation of text",
+        "authors": "Oleg Špakov, Kari-Jouko Räihä",
+        "abstract": "The increase in usage of eye-tracking technology to study text translation processes has revealed the need for effective tools for visualization of the data collected. We propose a new method for gaze and keystroke data visualization. The visualization utilizes the preprocessed gaze data, where detected fixations are linked to the corresponding word in the text. The blocks of reading and typing processes are shown in parallel with details for each word presented in word bars. Reading or typing sequences provide insight into the temporal distribution of the subject's activity, and highlighting pops up the unusual or attention-requiring data and events.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "The incomplete fixation measure",
+        "authors": "Frederick Shic, Brian Scassellati, Katarzyna Chawarska",
+        "abstract": "In this paper we evaluate several of the most popular algorithms for segmenting fixations from saccades by testing these algorithms on the scanning patterns of toddlers. We show that by changing the parameters of these algorithms we change the reported fixation durations in a systematic fashion. However, we also show how choices in analysis can lead to very different interpretations of the same eye-tracking data. Methods for reconciling the disparate results of different algorithms as well as suggestions for the use of fixation identification algorithms in analysis, are presented.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "Voluntary pupil size change as control in eyes only interaction",
+        "authors": "Inger Ekman, Antti Poikola, Meeri Mäkäräinen, Tapio Takala, Perttu Hämäläinen",
+        "abstract": "We investigate consciously controlled pupil size as an input modality. Pupil size is affected by various processes, e.g., physical activation, strong emotional experiences and cognitive effort. Our hypothesis is that given continuous feedback, users can learn to control pupil size via physical and psychological self-regulation. We test it by measuring the magnitude of self evoked pupil size changes following seven different instructions, while providing real time graphical feedback on pupil size. Results show that some types of voluntary effort affect pupil size on a statistically significant level. A second controlled experiment confirms that subjects can produce pupil dilation and construction on demand during paced tasks. Applications and limitations to using voluntary pupil size manipulation as an input modality are discussed.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "Contact-analog information representation in an automotive head-up display",
+        "authors": "T. Poitschke, M. Ablassmeier, G. Rigoll, S. Bardins, S. Kohlbecher, E. Schneider",
+        "abstract": "This contribution presents an approach for representing contact-analog information in an automotive Head-Up Display (HUD). Therefore, we will firstly introduce our approach for the calibration of the optical system consisting of the virtual image plane of the HUD and the drivers eyes. Afterward, we will present the used eyetracking system for adaptation of the HUD content at the current viewpoint/position of the driver. We will also present first prototypical concepts for the visualization of contact-analog HUD content and inital test results from a brief usability study.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "Effects of time pressure and text complexity on translators' fixations",
+        "authors": "Selina Sharmin, Oleg Špakov, Kari-Jouko Räihä, Arnt Lykke Jakobsen",
+        "abstract": "We tracked the eye movements of 18 students as they translated three short texts with different complexity levels under three different time constraints. Participants with touch typing skills were found to attend more to on-screen text than participants without touch typing skills. Time pressure was found to mainly affect fixations on the source text, and text complexity was found to only affect the number of fixations on the source text. Overall, it was found that average fixation duration was longer in the target text area than in the source text area.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "Real-time simulation of visual defects with gaze-contingent display",
+        "authors": "Margarita Vinnikov, Robert S. Allison, Dominik Swierad",
+        "abstract": "Effective management and treatment of glaucoma and other visual diseases depend on early diagnosis. However, early symptoms of glaucoma often go unnoticed until a significant portion of the visual field is lost. The ability to simulate the visual consequences of the disease offers potential benefits for patients and clinical education as well as for public awareness of its signs and symptoms. Experiments using simulated visual field defects could identify changes in behaviour, for example during driving, that one uses to compensate at the early stages of the disease's development. Furthermore, by understanding how visual field defects affect performance of visual tasks, we can help develop new strategies to cope with other devastating diseases such as macular degeneration. A Gaze-Contingent Display (GCD) system was developed to simulate an arbitrary visual field in a virtual environment. The system can estimate real-time gaze direction and eye position in earth-fixed coordinates during relatively large head movement, and thus it can be used in immersive projection based VE systems like the CAVE™. Arbitrary visual fields are simulated via OpenGL and Shading Language capabilities and techniques that are supported by the GPU, thus enabling fast performance in real time. In order to simulate realistic visual defects, the system performs multiple image processing operations including change in acuity, brightness, color, glare and image distortion. The final component of the system simulates different virtual scenes that the participant can navigate through and explore. As a result, this system creates an experimental environment to study the effects of low vision on everyday tasks such as driving and navigation.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "Comparison of eye movements in searching for easy-to-find and hard-to-find information in a hierarchically organized information structure",
+        "authors": "Yoshiko Habuchi, Muneo Kitajima, Haruhiko Takeuchi",
+        "abstract": "Finding information by successively selecting hyperlinks on web pages is a typical task performed on websites. A number of web usability studies have provided important insights about how web visitors carry out a search, and have concluded that \"following information scent\" is the fundamental process involved in the behavior. The purpose of this paper is to explore the relationship between the strength of information scent and web visitors'eye movements. Four web page types with different usability problems were considered. In an eyetracking experiment, eleven participants were asked to find an article on a simulated encyclopedia website by first selecting a heading from among nine provided headings, then selecting the appropriate topic link under the selected heading. The number of eye fixations, the duration of the fixations, and the task completion times were analyzed. The eye-tracking study reported in this paper added further insight to the knowledge gained from traditional web usability studies, in which visitors'performance are measured by the total number of clicks and task completion times. Website visitors'performance will not exhibit any differences in the initial heading selection stage irrespective of whether or not the pages have usability problems. However, performance will deteriorate in terms of the total number of fixations in the subsequent link selection stage when the web page has any kind of usability problem.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "Calibration-free eye tracking by reconstruction of the pupil ellipse in 3D space",
+        "authors": "Stefan Kohlbecher, Stanislavs Bardinst, Klaus Bartl, Erich Schneider, Tony Poitschke, Markus Ablassmeier",
+        "abstract": "Most video-based eye trackers require a calibration procedure before measurement onset. In this work a stereo approach is presented that yields the position and orientation of the pupil in 3D space. This is achieved by analyzing the pupil images of two calibrated cameras and by a subsequent closed-form stereo reconstruction of the original pupil surface. Under the assumption that the gaze-vector is parallel to the pupil normal vector, the line of sight can be calculated without the need for the usual calibration that requires the user to fixate targets with known spatial locations.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "Spatialchromatic foveation for gaze contingent displays",
+        "authors": "Sheng Liu, Hong Hua",
+        "abstract": "Spatially variant resolution method has been widely explored for Gaze Contingent Displays (GCDs). Recently several studies suggested that spatial chromatic foveation can further improve the sampling efficiency and save computational resources and communication bandwidths in GCDs. In this paper, we explore the spatial variance of the contrast sensitivity function (CSF) of the human visual system (HVS) to examine the potential of spatialchromatic foveation in GCDs. The proposed algorithm reveals that, not only the spatial resolution, but also the chrominance complexity can be monotonically degraded from the center of the field of view (FOV) to the periphery of a GCD. A perceptually-based spatialchromatic foveation metric is derived. Applying the proposed hue-resolution foveation metric, we demonstrate that over 65% of bandwidth can be saved.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "Using semantic content as cues for better scanpath prediction",
+        "authors": "Moran Cerf, E. Paxon Frady, Christof Koch",
+        "abstract": "Under natural viewing conditions, human observers use shifts in gaze to allocate processing resources to subsets of the visual input. There are many computational models that try to predict these shifts in eye movement and attention. Although the important role of high level stimulus properties (e.g., semantic information) stands undisputed, most models are based solely on low-level image properties. We here demonstrate that a combined model of high-level object detection and low-level saliency significantly outperforms a low-level saliency model in predicting locations humans fixate on. The data is based on eye-movement recordings of humans observing photographs of natural scenes, which contained one of the following high-level stimuli: faces, text, scrambled text or cell phones. We show that observers - even when not instructed to look for anything particular, fixate on a face with a probability of over 80% within their first two fixations, on text and scrambled text with a probability of over 65.1% and 57.9% respectively, and on cell phones with probability of 8.3%. This suggests that content with meaningful semantic information is significantly more likely to be seen earlier. Adding regions of interest (ROI), which depict the locations of the high-level meaningful features, significantly improves the prediction of a saliency model for stimuli with high semantic importance, while it has little effect for an object with no semantic meaning.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "Eye2i: coordinated multiple views for gaze data",
+        "authors": "Harri Rantala",
+        "abstract": "Different visualizations, such as gaze plots and heat maps, are prevalent tools for analyzing gaze data. For complex and multi-variate data, the use of coordinated multiple views is an efficient approach to visualizing information. This paper presents a tool combining gaze data visualizations with coordinated multiple-view methods for exploring gaze data.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "GInX: gaze based interface extensions",
+        "authors": "Thiago S. Barcelos, Carlos H. Morimoto",
+        "abstract": "This paper introduces the Gaze based Interface Extensions (GInX) architecture designed for the development of eye-gaze enhanced attentive interfaces. The architecture is composed of 3 modules, the domain, user, and attentive modules. In the absence of information about the user and the domain, the attentive module controls the cursor using gaze and target position information alone. The cursor control can be refined in an attentive way [Vertegaal 2002] as more information about the application and the user are added. The system currently offers 3 different operation modes: Latency, MAGIC, and GInX default mode. In the Latency mode, the cursor position is controlled by gaze and selection is done using dwell time. MAGIC Pointing [Zhai et al. 1999] was suggested to combine the speed of eye tracking with the accuracy of manual pointing devices. GInX extends the concept of Magic Pointing by introducing information about the user and application context in order to eliminate the time required for cursor reacquisition and position adjustment inherent in the original MAGIC Pointing interface. A prototype of GInX was implemented and used to compared the performance of all these 3 modes with a mouse. Our experiments show that GInX outperforms MAGIC Pointing, although the mouse has the best performance overall.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "An online noise filter for eye-tracker data recorded in a virtual environment",
+        "authors": "Sylvain Chartier, Patrice Renaud",
+        "abstract": "A Recursive Online Weight Average filter (ROWA) is proposed to remove and replace noisy data obtained from eye tracker. Since the filter can be implemented online, it can detect and replace noisy data using solely past records. Simulations results indicate that the filter achieved the same performance compared to other standard offline filters while being simpler.",
+        "session": "POSTER SESSION: Late breaking results: poster presentations"
+    },
+    {
+        "title": "Cross-race recognition deficit and visual attention: do they all look (at faces) alike?",
+        "authors": "Sheree Josephson, Michael E. Holmes",
+        "abstract": "An eye-tracking study was conducted to examine cross-race recognition deficit (CRRD) or own-race bias in cross-racial eyewitness identification. It is known in the legal community that cross-racial eyewitnesses are often wrong, resulting in a number of erroneous convictions in the United States. Forty participants in a racially diverse area of the U.S. watched a video of a property crime being committed and then returned about 24 hours later to pick the suspect out of a photo array while their eyes were tracked. A majority of participants misidentified the suspect or believed he was not in the lineup. Correct identifications were higher than expected when the eyewitness and suspect were of the same race. Conversely, misidentifications were higher than expected in the cross-race condition. Three clusters emerged from comparison of the eye-path sequences. A \"quick and confident\" cluster contained largely white eyewitnesses and white suspects. A \"mixed results\" cluster was largely cross-race cases. A \"cautious confirmation\" cluster consisted of more black eyewitnesses and black suspects. ANOVAs to analyze distribution of attention revealed a main effect only for eyewitness race. An interaction effect of eyewitness race and suspect race -- indicating a connection between visual attention and CRRD -- was not found.",
+        "session": "SESSION: Looking at faces, chess boards, and maps"
+    },
+    {
+        "title": "The visual span of chess players",
+        "authors": "P. J. Blignaut, T. R. Beelders, C-Y. So",
+        "abstract": "As part of an effort to provide a framework for the advancement and development of chess skills in young children and beginners an experiment was undertaken to determine how the visual scanning of a chess board differs between weaker and better players. The ELO rating system was used as an independent variable in a series of chess problems that were presented to chess players on a Tobii eye-tracker system. It was found that stronger players perceive more squares with a single fixation and that they spend less time to inspect each square than weaker players. Also, the number of squares that are revisited is, at least for easier problems, significantly lower for players of higher strength. It appears that gaze patterns differ for more challenging problems.",
+        "session": "SESSION: Looking at faces, chess boards, and maps"
+    },
+    {
+        "title": "Deixis and gaze in collaborative work at a distance (over a shared map): a computational model to detect misunderstandings",
+        "authors": "Mauro Cherubini, Marc-Antoine Nüssli, Pierre Dillenbourg",
+        "abstract": "This paper presents an algorithm that detects misunderstandings in collaborative work at a distance. It analyses the movements of collaborators' eyes on the shared workspace, their utterances containing references about this workspace, and the availability of 'remote' deictic gestures. This method is based on two findings: 1. participants look at the points they are talking about in their message; 2. their gazes are more dense around these points compared to other random looks in the same timeframe. The algorithm associates the distance between the gazes of the emitter and gazes of the receiver of a message with the probability that the recipient did not understand the message.",
+        "session": "SESSION: Looking at faces, chess boards, and maps"
+    },
+    {
+        "title": "3D point-of-regard, position and head orientation from a portable monocular video-based eye tracker",
+        "authors": "Susan M. Munn, Jeff B. Pelz",
+        "abstract": "To study an observer's eye movements during realistic tasks, the observer should be free to move naturally throughout our three-dimensional world. Therefore, a technique to determine an observer's point-of-regard (POR) as well as his/her motion throughout a scene in three dimensions with minor user input is proposed. This requires robust feature tracking and calibration of the scene camera in order to determine the 3D location and orientation of the scene camera in the world. With this information, calibrated 2D PORs can be triangulated to 3D positions in the world; the scale of the world coordinate system can be obtained via input of the distance between two known points in the scene. Information about scene camera movement and tracked features can also be used to obtain observer position and head orientation for all video frames. The final observer motion -- including the observer's positions and head orientations -- and PORs are expressed in 3D world coordinates. The result is knowledge of not only eye movements but head movements as well allowing for the evaluation of how an observer combines head and eye movements to perform a visual task. Additionally, knowledge of 3D information opens the door for many more options for visualization of eye-tracking results.",
+        "session": "SESSION: Advances in eye tracking technology"
+    },
+    {
+        "title": "A robust 3D eye gaze tracking system using noise reduction",
+        "authors": "Jixu Chen, Yan Tong, Wayne Gray, Qiang Ji",
+        "abstract": "This paper describes a novel real-time 3D gaze estimation system. The system consists of two cameras and two IR light sources. There are three novelties in this method. First, in our system, two IR lights are mounted near the centers of the stereo cameras, respectively. Based on this specific configuration, the 3D position of the corneal center can be simply derived by the 3D reconstruction technique. Then, after extracting the 3D position of the \"virtual pupil\" correctly, the optical axis of the eye can be obtained directly by connecting the \"virtual pupil\" with the corneal center. Second, we systematically analyze the noise in our 3D gaze estimation algorithm and propose an effective constraint to reduce this noise. Third, to estimate the user-dependent parameters (i.e. the constraint parameters and the eye parameters), a simple calibration method is proposed by gazing at four positions on the screen. Experimental results show that our system can accurately estimate and track eye gaze under natural head movement.",
+        "session": "SESSION: Advances in eye tracking technology"
+    },
+    {
+        "title": "A new \"wireless\" search-coil system",
+        "authors": "Dale Roberts, Mark Shelhamer, Aaron Wong",
+        "abstract": "The scleral search-coil system is the accepted standard for precise and accurate recording of eye movements in the lab and clinic. One of the drawbacks of this system is the connecting wire that leads from the eye coil to the associated electronics; this wire causes irritation to the subject and has a tendency to break during experiments. We have developed a modified version of this technique, which uses a resonant scleral coil and no connecting wire. A transmitter sends a stream of pulses to the eye coil, and a receiver then detects the resonant oscillations re-radiated from the eye coil. The relative intensity of the signal as received by sets of orthogonal receiver coils determines the orientation of the eye coil. The new approach retains the advantages of accuracy, precision, and high sample rate, while making the system portable and more comfortable.",
+        "session": "SESSION: Advances in eye tracking technology"
+    },
+    {
+        "title": "Noise tolerant selection by gaze-controlled pan and zoom in 3D",
+        "authors": "Dan Witzner Hansen, Henrik H. T. Skovsgaard, John Paulin Hansen, Emilie Møllenbach",
+        "abstract": "This paper presents StarGazer - a new 3D interface for gaze-based interaction and target selection using continuous pan and zoom. Through StarGazer we address the issues of interacting with graph structured data and applications (i.e. gaze typing systems) using low resolution eye trackers or small-size displays. We show that it is possible to make robust selection even with a large number of selectable items on the screen and noisy gaze trackers. A test with 48 subjects demonstrated that users who have never tried gaze interaction before could rapidly adapt to the navigation principles of StarGazer. We tested three different display sizes (down to PDA-sized displays) and found that large screens are faster to navigate than small displays and that the error rate is higher for the smallest display. Half of the subjects were exposed to severe noise deliberately added on the cursor positions. We found that this had a negative impact on efficiency. However, the user remained in control and the noise did not seem to effect the error rate. Additionally, three subjects tested the effects of temporally adding noise to simulate latency in the gaze tracker. Even with a significant latency (about 200 ms) the subjects were able to type at acceptable rates. In a second test, seven subjects were allowed to adjust the zooming speed themselves. They achieved typing rates of more than eight words per minute without using language modeling. We conclude that the StarGazer application is an intuitive 3D interface for gaze navigation, allowing more selectable objects to be displayed on the screen than the accuracy of the gaze trackers would otherwise permit.",
+        "session": "SESSION: Gaze interfaces"
+    },
+    {
+        "title": "Looking my way through the menu: the impact of menu design and multimodal input on gaze-based menu selection",
+        "authors": "Yvonne Kammerer, Katharina Scheiter, Wolfgang Beinhauer",
+        "abstract": "In this paper a study is reported, which investigates the effectiveness of two approaches to improving gaze-based interaction for realistic and complex menu selection tasks. The first approach focuses on identifying menu designs for hierarchical menus that are particularly suitable for gaze-based interaction, whereas the second approach is based on the idea of combining gaze-based interaction with speech as a second input modality. In an experiment with 40 participants the impact of menu design, input device, and navigation complexity on accuracy and completion time in a menu selection task as well as on user satisfaction were investigated. The results concerning both objective task performance and subjective ratings confirmed our expectations in that a semi-circle menu was better suited for gaze-based menu selection than either a linear or a full-circle menu. Contrary to our expectations, an input device solely based on eye gazes turned out to be superior to the combined gaze- and speech-based device. Moreover, the drawbacks of a less suitable menu design (i.e., of a linear menu or a full-circle menu) as well as of the multimodal input device particularly obstructed performance in the case of more complex navigational tasks.",
+        "session": "SESSION: Gaze interfaces"
+    },
+    {
+        "title": "Snap clutch, a moded approach to solving the Midas touch problem",
+        "authors": "Howell Istance, Richard Bates, Aulikki Hyrskykari, Stephen Vickers",
+        "abstract": "This paper proposes a simple approach to an old problem, that of the 'Midas Touch'. This uses modes to enable different types of mouse behavior to be emulated with gaze and by using gestures to switch between these modes. A light weight gesture is also used to switch gaze control off when it is not needed, thereby removing a major cause of the problem. The ideas have been trialed in Second Life, which is characterized by a feature-rich of set of interaction techniques and a 3D graphical world. The use of gaze with this type of virtual community is of great relevance to severely disabled people as it can enable them to be in the community on a similar basis to able-bodied participants. The assumption here though is that this group will use gaze as a single modality and that dwell will be an important selection technique. The Midas Touch Problem needs to be considered in the context of fast dwell-based interaction. The solution proposed here, Snap Clutch, is incorporated into the mouse emulator software. The user trials reported here show this to be a very promising way in dealing with some of the interaction problems that users of these complex interfaces face when using gaze by dwell.",
+        "session": "SESSION: Gaze interfaces"
+    },
+    {
+        "title": "Eye movement prediction by Kalman filter with integrated linear horizontal oculomotor plant mechanical model",
+        "authors": "Oleg V. Komogortsev, Javed I. Khan",
+        "abstract": "The goal of this paper is to predict future horizontal eye movement trajectories within a specified time interval. To achieve this goal a linear horizontal oculomotor plant mechanical model is developed. The model consists of the eye globe and two extraocular muscles: lateral and medial recti. The model accounts for such anatomical properties of the eye as muscle location, elasticity, viscosity, eye-globe rotational inertia, muscle active state tension, length tension and force velocity relationships. The mathematical equations describing the oculomotor plant mechanical model are transformed into a Kalman filter form. Such transformation provides continuous eye movement prediction with a high degree of accuracy. The model was tested with 21 subjects and three multimedia files. Practical application of this model lies with direct eye gaze input and interactive displays systems as a method to compensate for detection, transmission and processing delays.",
+        "session": "SESSION: Prediction, bias, estimation"
+    },
+    {
+        "title": "Analysis of subject-dependent point-of-gaze estimation bias in the cross-ratios method",
+        "authors": "Elias D. Guestrin, Moshe Eizenman, Jeffrey J. Kang, Erez Eizenman",
+        "abstract": "The cross-ratios method for point-of-gaze estimation uses the invariance property of cross-ratios in projective transformations. The inherent causes of the subject-dependent point-of-gaze estimation bias exhibited by this method have not been well characterized in the literature. Using a model of the eye and the components of a system (camera, light sources) that estimates point-of-gaze, a theoretical framework for the cross-ratios method is developed. The analysis of the cross-ratios method within this framework shows that the subject-dependent estimation bias is caused mainly by (i) the angular deviation of the visual axis from the optic axis and (ii) the fact that the virtual image of the pupil center is not coplanar with the virtual images of the light sources that illuminate the eye (corneal reflections). The theoretical framework provides a closed-form analytical expression that predicts the estimation bias as a function of subject-specific eye parameters.",
+        "session": "SESSION: Prediction, bias, estimation"
+    },
+    {
+        "title": "Remote gaze estimation with a single camera based on facial-feature tracking without special calibration actions",
+        "authors": "Hirotake Yamazoe, Akira Utsumi, Tomoko Yonezawa, Shinji Abe",
+        "abstract": "We propose a real-time gaze estimation method based on facial-feature tracking using a single video camera that does not require any special user action for calibration. Many gaze estimation methods have been already proposed; however, most conventional gaze tracking algorithms can only be applied to experimental environments due to their complex calibration procedures and lacking of usability. In this paper, we propose a gaze estimation method that can apply to daily-life situations. Gaze directions are determined as 3D vectors connecting both the eyeball and the iris centers. Since the eyeball center and radius cannot be directly observed from images, the geometrical relationship between the eyeball centers and the facial features and eyeball radius (face/eye model) are calculated in advance. Then, the 2D positions of the eyeball centers can be determined by tracking the facial features. While conventional methods require instructing users to perform such special actions as looking at several reference points in the calibration process, the proposed method does not require such special calibration action of users and can be realized by combining 3D eye-model-based gaze estimation and circle-based algorithms for eye-model calibration. Experimental results show that the gaze estimation accuracy of the proposed method is 5° horizontally and 7° vertically. With our proposed method, various application such as gaze-communication robots, gaze-based interactive signboards, etc. that require gaze information in daily-life situations are possible.",
+        "session": "SESSION: Prediction, bias, estimation"
+    },
+    {
+        "title": "A software framework for simulating eye trackers",
+        "authors": "Martin Böhme, Michael Dorr, Mathis Graw, Thomas Martinetz, Erhardt Barth",
+        "abstract": "We describe an open-source software framework that simulates the measurements made using one or several cameras in a video-oculographic eye tracker. The framework can be used to compare objectively the performance of different eye tracking setups (number and placement of cameras and light sources) and gaze estimation algorithms. We demonstrate the utility of the framework by using it to compare two remote eye tracking methods, one using a single camera, the other using two cameras.",
+        "session": "SESSION: Calibration"
+    },
+    {
+        "title": "Taxonomic study of polynomial regressions applied to the calibration of video-oculographic systems",
+        "authors": "Juan J. Cerrolaza, Arantxa Villanueva, Rafael Cabeza",
+        "abstract": "Of gaze tracking techniques, video-oculography (VOG) is one of the most attractive because of its versatility and simplicity. VOG systems based on general purpose mapping methods use simple polynomial expressions to estimate a user's point of regard. Although the behaviour of such systems is generally acceptable, a detailed study of the calibration process is needed to facilitate progress in improving accuracy and tolerance to user head movement. To date, there has been no thorough comparative study of how mapping equations affect final system response. After developing a taxonomic classification of calibration functions, we examine over 400,000 models and evaluate the validity of several conventional assumptions. The rigorous experimental procedure employed enabled us to optimize the calibration process for a real VOG gaze tracking system and, thereby, halve the calibration time without detrimental effect on accuracy or tolerance to head movement.",
+        "session": "SESSION: Calibration"
+    },
+    {
+        "title": "Remote point-of-gaze estimation requiring a single-point calibration for applications with infants",
+        "authors": "Elias Daniel Guestrin, Moshe Eizenman",
+        "abstract": "This paper describes a method for remote, non-contact point-of-gaze estimation that tolerates free head movements and requires a simple calibration procedure in which the subject has to fixate only on a single point. This method uses the centers of the pupil and at least two corneal reflections that are estimated from eye images captured by at least two cameras. Experimental results obtained with three adult subjects exhibited RMS point-of-gaze estimation errors ranging from 7 to 12 mm (equivalent to about 0.6 -- 1° of visual angle) for head movements in a volume of about 1 dm3. Preliminary results with two infants demonstrated the ability of a system that requires a single-point calibration procedure to estimate infants' point-of-gaze. The ability to record infants' visual scanning behavior can be used for the study of visual development, the determination of attention allocation and the assessment of visual function in preverbal infants.",
+        "session": "SESSION: Calibration"
+    }
+]
