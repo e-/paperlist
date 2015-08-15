@@ -24,6 +24,7 @@ $(function(){
 
             if(count == 0){
               app.count = confList.map(function(c){return c.papers.length;}).reduce(function(a,b){return a+b;},0);
+              app.confCount = confList.length;
               $('#paperList').scope().$apply();
             }
           }
