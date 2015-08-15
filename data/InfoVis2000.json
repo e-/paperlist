@@ -1,0 +1,102 @@
+[
+  {
+    "abstract": "The paper describes major concepts of a scalable information visualization framework. We assume that the exploration of heterogeneous information spaces at arbitrary levels of detail requires a suitable preprocessing of information quantities, the combination of different graphical interfaces and the illustration of the frame of reference of given information sets. The innovative features of our system include: dynamic hierarchy computation and user controlled refinement of those hierarchies for preprocessing unstructured information spaces; a new Focus+Context technique for visualizing complex hierarchy graphs; a new paradigm for visualizing information structures within their frame of reference; and a new graphical interface that utilizes textual similarities to arrange objects of high dimensional information space in 3-dimensional visualization space", 
+    "authors": "Kreuseler, M.;Lopez, N.;Schumann, H.", 
+    "title": "A scalable framework for information visualization"
+  }, 
+  {
+    "abstract": "In previous work, researchers have attempted to construct taxonomies of information visualization techniques by examining the data domains that are compatible with these techniques. This is useful because implementers can quickly identify various techniques that can be applied to their domain of interest. However, these taxonomies do not help the implementers understand how to apply and implement these techniques. The author extends and proposes a new way to taxonomize information visualization techniques by using the Data State Model (E.H. Chi and J.T. Reidl, 1998). In fact, as the taxonomic analysis in the paper will show, many of the techniques share similar operating steps that can easily be reused. The paper shows that the Data State Model not only helps researchers understand the space of design, but also helps implementers understand how information visualization techniques can be applied more broadly", 
+    "authors": "Chi, Ed H.", 
+    "title": "A taxonomy of visualization techniques using the data state reference model"
+  }, 
+  {
+    "abstract": "We describe a prototype same-time/different-place collaborative geovisualization environment. We outline an approach to understanding use and usability and present results of interviews with domain experts about the ways in which collaborative visualization might enable groups to work at a distance. One goal for our research is to design an effective and flexible system that can support group work on environmental science research mediated through dynamic geovisualization displays. We are addressing this goal using a four-step human-centered system design process, modeled on that proposed by (Gabbard et al., 1999) for development and evaluation of virtual environments. The steps they delineate are: user task analysis; expert guideline-based evaluation; formative user-centered evaluation; and summative comparative evaluation", 
+    "authors": "Brewer, I.;MacEachren, A.M.;Abdo, H.;Gundrum, J.;Otto, G.", 
+    "title": "Collaborative geographic visualization: enabling shared understanding of environmental processes"
+  }, 
+  {
+    "abstract": "Drawing on ethnographic studies of (landscape) architects at work, this paper presents a human-centered approach to information visualization. A 3D collaborative electronic workspace allows people to configure, save and browse arrangements of heterogeneous work materials. Spatial arrangements and links are created and maintained as an integral part of ongoing work with `live' documents and objects. The result is an extension of the physical information space of the architects' studio that utilizes the potential of electronic data storage, visualization and network technologies to support work with information in context", 
+    "authors": "Buscher, M.;Shapiro, D.;Christensen, M.;Mogensen, P.;Orbaek, P.", 
+    "title": "Creativity, complexity, and precision: information visualization for (landscape) architecture"
+  }, 
+  {
+    "abstract": "Two tasks in graph visualization require partitioning: the assignment of visual attributes and divisive clustering. Often, we would like to assign a color or other visual attributes to a node or edge that indicates an associated value. In an application involving divisive clustering, we would like to partition the graph into subsets of graph elements based on metric values in such a way that all subsets are evenly populated. Assuming a uniform distribution of metric values during either partitioning or coloring can have undesired effects such as empty clusters or only one level of emphasis for the entire graph. Probability density functions derived from statistics about a metric can help systems succeed at these tasks", 
+    "authors": "Herman, I.;Marshall, M.S.;Melancon, G.", 
+    "title": "Density functions for visual attributes and effective partitioning in graph visualization"
+  }, 
+  {
+    "abstract": "Radial, space-filling visualizations can be useful for depicting information hierarchies, but they suffer from one major problem. As the hierarchy grows in size, many items become small, peripheral slices that are difficult to distinguish. We have developed three visualization/interaction techniques that provide flexible browsing of the display. The techniques allow viewers to examine the small items in detail while providing context within the entire information hierarchy. Additionally, smooth transitions between views help users maintain orientation within the complete information space", 
+    "authors": "Stasko, J.;Zhang, E.", 
+    "title": "Focus+context display and navigation techniques for enhancing radial, space-filling hierarchy visualizations"
+  }, 
+  {
+    "abstract": "By virtue of their spatio-cognitive abilities, humans are able to navigate through geographic space as well as meaningfully communicate geographic information represented in cartographic form. The current dominance of spatial metaphors in information visualization research is the result of the realization that those cognitive skills also have value in the exploration and analysis of non-geographic information. While mapping or landscape metaphors are routinely used in this field, there is a noticeable lack of consideration for existing cartographic expertise. This is especially apparent whenever problematic issues are encountered, such as graphic complexity or feature labeling. There are a number of areas in which a cartographic outlook could provide a valuable perspective. This paper discusses how geographic and cartographic notions may influence the design of visualizations for textual information spaces. Map projections, generalization, feature labeling and map design issues are discussed", 
+    "authors": "Skupin, A.", 
+    "title": "From metaphor to method: cartographic perspectives on information visualization"
+  }, 
+  {
+    "abstract": "Since novice users of visualization systems lack knowledge and expertise in data visualization, it is a tough task for them to generate efficient and effective visualizations that allow them to comprehend information that is embedded in the data. Therefore, systems supporting the users to design appropriate visualizations are of great importance. The GADGET (Goal-oriented Application Design Guidance for modular visualization EnvironmenTs) system, which has been developed by the authors (1997), interactively helps users to design scientific visualization applications by presenting appropriate MVE (Modular Visualization Environment) prototypes according to the specification of the visualization goals expressed mainly with the Wehrend matrix (S. Wehrend & C. Lewis, 1990). This paper extends this approach in order to develop a system named GADGET/IV, which is intended to provide the users with an environment for semi-automatic design of information visualization (IV) applications. To this end, a novel goal-oriented taxonomy of IV techniques is presented. Also, an initial design of the system architecture and user assistance flow is described. The usefulness of the GADGET/IV system is illustrated with example problems of Web site access frequency analysis", 
+    "authors": "Fujishiro, I.;Ichikawa, Y.;Furuhata, R.;Takeshima, Y.", 
+    "title": "GADGET/IV: a taxonomic approach to semi-automatic design of information visualization applications using modular visualization environment"
+  }, 
+  {
+    "abstract": "Data visualization environments help users understand and analyze their data by permitting interactive browsing of graphical representations of the data. To further facilitate understanding and analysis, many visualization environments have special features known as portals, which are sub-windows of a data canvas. Portals provide a way to display multiple graphical representations simultaneously, in a nested fashion. This makes portals an extremely powerful and flexible paradigm for data visualization. Unfortunately, with this flexibility comes complexity. There are over a hundred possible ways each portal can be configured to exhibit different behaviors. Many of these behaviors are confusing and certain behaviors can be inappropriate for a particular setting. It is desirable to eliminate confusing and inappropriate behaviors. The authors construct a taxonomy of portal behaviors and give recommendations to help designers of visualization systems decide which behaviors are intuitive and appropriate for a particular setting. They apply these recommendations to an example setting that is fully visually programmable and analyze the resulting reduced set of behaviors. Finally, the authors consider a real visualization environment and demonstrate some problems associated with behaviors that do not follow their recommendations", 
+    "authors": "Olston, C.;Woodruff, A.", 
+    "title": "Getting portals to behave"
+  }, 
+  {
+    "abstract": "With an increase in the number of different visualization techniques, it becomes necessary to develop a measure for evaluating the effectiveness of visualizations. Metrics to evaluate visual displays were developed based on measures of information content developed by Shannon and used in communication theory. These measures of information content can be used to quantify the relative effectiveness of displays", 
+    "authors": "Yang-Pelaez, J.;Flowers, W.C.", 
+    "title": "Information content measures of visual displays"
+  }, 
+  {
+    "abstract": "COMIND is a tool for conceptual design of industrial products. It helps designers define and evaluate the initial design space by using search algorithms to generate sets of feasible solutions. Two algorithm visualization techniques, Kaleidoscope and Lattice, and one visualization of n-dimensional data, MAP, are used to externalize the machine's problem solving strategies and the tradeoffs as a result of using these strategies. After a short training period, users are able to discover tactics to explore design space effectively, evaluate new design solutions, and learn important relationships among design criteria, search speed and solution quality. We thus propose that visualization can serve as a tool for interactive intelligence, ie., human-machine collaboration for solving complex problems", 
+    "authors": "Pu, P.;Lalanne, D.", 
+    "title": "Interactive problem solving via algorithm visualization"
+  }, 
+  {
+    "abstract": "Lighthouse is an on-line interface for a Web-based information retrieval system. It accepts queries from a user, collects the retrieved documents from the search engine, organizes and presents them to the user. The system integrates two known presentations of the retrieved results, the ranked list and clustering visualization, in a novel and effective way. It accepts the user's input and adjusts the document visualization accordingly. We give a brief overview of the system", 
+    "authors": "Leuski, A.;Allan, J.", 
+    "title": "Lighthouse: showing the way to relevant information"
+  }, 
+  {
+    "abstract": "Anyone who has ever experienced three-dimensional (3D) interfaces will agree that navigating in a 3D world is not a trivial task. The user interface of traditional 3D browsers provides simple navigation tools that allow the user to modify the camera parameters such as orientation, position and focal. Using these tools, it is frequent that, after some movements, the user is lost in the virtual 3D space and usually tries to restart from the beginning. We present how the 3D navigation problem is addressed in the context of the CyberNet project (Abel et al., 2000). Our underlying principle is to help the user navigate by adapting the navigation tool to the virtual world. We feel that the navigation schemes provided by the 3D browsers are too generic for some specific 3D tools and we have developed adaptive navigation features that are dependent on the 3D metaphor used for visualizing the information and on the user's task", 
+    "authors": "Russo dos Santos, C.;Gros, P.;Abel, P.;Loisel, D.;Trichaud, N.;Paris, J.P.", 
+    "title": "Metaphor-aware 3D navigation"
+  }, 
+  {
+    "abstract": "One area in need of new research in information visualization is the operation and analysis of large-scale electric power systems. In analyzing power systems, one is usually confronted with a large amount of multivariate data. With systems containing tens of thousands of electrical nodes (buses), a key challenge is to present this data in a form so the user can assess the state of the system in an intuitive and quick manner. This is particularly true when trying to analyze relationships between actual network power flows, the scheduled power flows, and the capacity of the transmission system. With electric industry restructuring and the move towards having a single entity, such as an independent system operator or pool, operate a much larger system, this need has become more acute. This paper presents several power system visualization techniques to help in this task. These techniques include animation of power system flow values, contouring of bus and transmission line flow values, data aggregation techniques and interactive 3D data visualization", 
+    "authors": "Overbye, T.J.;Weber, J.D.", 
+    "title": "New methods for the visualization of electric power system information"
+  }, 
+  {
+    "abstract": "In the last several years, large multi-dimensional databases have become common in a variety of applications such as data warehousing and scientific computing. Analysis and exploration tasks place significant demands on the interfaces to these databases. Because of the size of the data sets, dense graphical representations are more effective for exploration than spreadsheets and charts. Furthermore, because of the exploratory nature of the analysis, it must be possible for the analysts to change visualizations rapidly as they pursue a cycle involving first hypothesis and then experimentation. The authors present Polaris, an interface for exploring large multi-dimensional databases that extends the well-known Pivot Table interface. The novel features of Polaris include an interface for constructing visual specifications of table based graphical displays and the ability to generate a precise set of relational queries from the visual specifications. The visual specifications can be rapidly and incrementally developed, giving the analyst visual feedback as they construct complex queries and visualizations", 
+    "authors": "Stolte, C.;Hanrahan, P.", 
+    "title": "Polaris: a system for query, analysis and visualization of multi-dimensional relational databases"
+  }, 
+  {
+    "abstract": "The increasing diversity of computers, especially among small mobile devices such as mobile phones and PDAs, raise new questions about information visualization techniques developed for the desktop computer. Using a series of examples ranging from applications for ordinary desktop displays to web-browsers and other applications for PDAs, we describe how a focus+context technique, Flip Zooming, is changed due to the situation it is used in. Based on these examples, we discuss how the use of \u00d4\u00c7\u00a3focus\u00d4\u00c7\u00d8 and \u00d4\u00c7\u00a3context\u00d4\u00c7\u00d8 in focus+context techniques change in order to fit new areas of use for information visualization", 
+    "authors": "Bjork, S.;Redstrom, J.", 
+    "title": "Redefining the focus and context of focus+context visualization"
+  }, 
+  {
+    "abstract": "ThemeRiverTM is a prototype system that visualizes thematic variations over time within a large collection of documents. The \u201criver\u201d flows from left to right through time, changing width to depict changes in thematic strength of temporally associated documents. Colored \u201ccurrents\u201d flowing within the river narrow or widen to indicate decreases or increases in the strength of an individual topic or a group of topics in the associated documents. The river is shown within the context of a timeline and a corresponding textual presentation of external events", 
+    "authors": "Havre, S.;Hetzler, B.;Nowell, L.", 
+    "title": "ThemeRiver: visualizing theme changes over time"
+  }, 
+  {
+    "abstract": "This paper introduces a number of general methods for visualizing commonality in sets of text files. Each visualization simultaneously compares one file in the set to all other files in the set. These visualizations, which can be computed in O(n) time and space, are explained and then applied to the problem of detecting plagiarism in large computer science classes. A case study is presented and sample visualizations are provided. Finally, a new interactive tool that can be used to produce and manipulate these visualizations is presented.", 
+    "authors": "Ribler, R. L.;Abrams, M.", 
+    "title": "Using Visualization to Detect Plagiarism in Computer Science Classes"
+  }, 
+  {
+    "abstract": "We describe MGV, an integrated visualization and exploration system for massive multi-digraph navigation. MGV's only assumption is that the vertex set of the underlying digraph corresponds to the set of leaves of a predetermined tree T. MGV builds an out-of-core graph hierarchy and provides mechanisms to plug in arbitrary visual representations for each graph hierarchy slice. Navigation from one level to another of the hierarchy corresponds to the implementation of a drill-down interface. In order to provide the user with navigation control and interactive response, MGV incorporates a number of visualization techniques like interactive pixel-oriented 2D and 3D maps, statistical displays, multi-linked views, and a zoomable label based interface. This makes the association of geographic information and graph data very natural. MGV follows the client-server paradigm and it is implemented in C and Java-3D. We highlight the main algorithmic and visualization techniques behind the tools and point out along the way several possible application scenarios. Our techniques are being applied to multi-graphs defined on vertex sets with sizes ranging from 100 million to 250 million vertices", 
+    "authors": "Abello, J.;Korn, J.", 
+    "title": "Visualizing massive multi-digraphs"
+  }, 
+  {
+    "abstract": "A sequential pattern in data mining is a finite series of elements such as A\u00d4\u00e5\u00c6B\u00d4\u00e5\u00c6C\u00d4\u00e5\u00c6D where A, B, C, and D are elements of the same domain. The mining of sequential patterns is designed to find patterns of discrete events that frequently happen in the same arrangement along a timeline. Like association and clustering, the mining of sequential patterns is among the most popular knowledge discovery techniques that apply statistical measures to extract useful information from large datasets. As out computers become more powerful, we are able to mine bigger datasets and obtain hundreds of thousands of sequential patterns in full detail. With this vast amount of data, we argue that neither data mining nor visualization by itself can manage the information and reflect the knowledge effectively. Subsequently, we apply visualization to augment data mining in a study of sequential patterns in large text corpora. The result shows that we can learn more and more quickly in an integrated visual data-mining environment", 
+    "authors": "Pak Chung Wong;Cowley, W.;Foote, H.;Jurrus, E.;Thomas, J.", 
+    "title": "Visualizing sequential patterns for text mining"
+  }
+]

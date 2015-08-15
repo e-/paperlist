@@ -1,0 +1,112 @@
+[
+  {
+    "abstract": "Since the introduction of graphical user interfaces (GUI) and two-dimensional (2D) displays, the concept of space has entered the information technology (IT) domain. Interactions with computers were re-encoded in terms of fidelity to the interactions with real environment and consequently in terms of fitness to cognitive and spatial abilities. A further step in this direction was the creation of three-dimensional (3D) displays which have amplified the fidelity of digital representations. However, there are no systematic results evaluating the extent to which 3D displays better support cognitive spatial abilities. The aim of this research is to empirically investigate spatial memory performance across different instances of 2D and 3D displays. Two experiments were performed. The displays used in the experimental situation represented hierarchical information structures. The results of the test show that the 3D display does improve performances in the designed spatial memory task.", 
+    "authors": "Tavanti, M.;Lind, M.", 
+    "title": "2D vs 3D, implications on spatial memory"
+  }, 
+  {
+    "abstract": "This paper describes two experiments that compare four two-dimensional visualizations of hierarchies: organization chart, icicle plot, treemap, and tree ring. The visualizations are evaluated in the context of decision tree analyses prevalent in data mining applications. The results suggest that either the tree ring or icicle plot is equivalent to the organization chart.", 
+    "authors": "Barlow, T.;Neville, P.", 
+    "title": "A comparison of 2-D visualizations of hierarchies"
+  }, 
+  {
+    "abstract": "An empirical comparison of three commercial information visualization systems on three different databases is presented. The systems use different paradigms for visualizing data. Tasks were selected to be \"ecologically relevant\", i.e. meaningful and interesting in the respec- tive domains. Users of one system turned out to solve problems significantly faster than users of the other two, while users of another system would supply significantly more correct answers. Reasons for these results and general observations about the studied systems are discussed.", 
+    "authors": "Kobsa, A.", 
+    "title": "An empirical comparison of three commercial information visualization systems"
+  }, 
+  {
+    "abstract": "We describe a new animation technique for supporting interactive exploration of a graph. We use the wellknown radial tree layout method, in which the view is determined by the selection of a focus node. Our main contribution is a method for animating the transition to a new layout when a new focus node is selected. In order to keep the transition easy to follow, the animation linearly interpolates the polar coordinates of the nodes, while enforcing ordering and orientation constraints. We apply this technique to visualizations of social networks and of the Gnutella file-sharing network, and discuss the results from our informal usability tests.", 
+    "authors": "Ka-Ping Yee;Fisher, D.;Dhamija, R.;Hearst, M.", 
+    "title": "Animated exploration of dynamic graphs with radial layout"
+  }, 
+  {
+    "abstract": "A new method for the visualization of huge hierarchical data structures is presented. The method is based on the observation that we can easily see the branches, leaves, and their arrangement in a botanical tree, despite of the large number of elements. The strand model of Holton is used to convert an abstract tree into a geometric model. Nonleaf nodes are mapped to branches and child nodes to subbranches. A naive application of this model leads to unsatisfactory results, hence it is tailored to suit our purposes better. Continuing branches are emphasized, long branches are contracted, and sets of leaves are shown as fruit. The method is applied to the visualization of directory structures. The elements, directories and files, as well as their relations can easily be extracted, thereby showing that the use of methods from botanical modeling can be effective for information visualization.", 
+    "authors": "Kleiberg, E.;van de Wetering, H.;van Wijk, J.J.", 
+    "title": "Botanical visualization of huge hierarchies"
+  }, 
+  {
+    "abstract": "An implementation of an interactive parallel coordinate plot linked with the ArcView\u00ae geographic information system (GIS) is presented. The integrated geographic visualization system was created for the exploratory analysis of mortality data from specific cancers as they relate, specifically spatially, to other mortality causes and to demographic and socioeconomic risk factors. The linked and interactive parallel coordinate plot was tested with and compared to a similarly interactive and linked scatterplot in usability assessments designed to assess each representation\u2019s relative effectiveness for exploration of these data sets. Evidence from these studies suggests that multivariate, spatial, and/or time series exploration is enhanced through the use of the parallel coordinate plot linked to maps.", 
+    "authors": "Edsall, R.M.;MacEachren, A.M.;Pickle, L.", 
+    "title": "Case study: design and assessment of an enhanced geographic information system for exploration of multivariate health statistics"
+  }, 
+  {
+    "abstract": "We have developed an interactive, scalable visualization tool for analyzing the behavior of users of a web site. Our system not only shows site topology and traffic flow, but by segmenting site traffic data based on user attributes, including demographic data and purchase history, we can present a more complete picture of web site usage. This can lead to a more focussed analysis that allows direct comparison between user segments, and ultimately a deeper understanding of how users interact with a site. The tool is designed for real world use, and we present a usage study of the tool by analyzing the data of a failed \u201cdot-com\u201d.", 
+    "authors": "Brainerd, J.;Becker, B.", 
+    "title": "Case study: e-commerce clickstream visualization"
+  }, 
+  {
+    "abstract": "Decision trees are one of the most popular methods of data mining. Decision trees partition large amounts of data into smaller segments by applying a series of rules. Creating and evaluating decision trees benefits greatly from visualization of the trees and diagnostic measures of their effectiveness. This paper describes an application, EMTree Results Viewer, that supports decision tree analysis through the visualization of model results and diagnosis. The functionality of the application and the visualization techniques are revealed through an example of churn analysis in the telecommunications industry.", 
+    "authors": "Barlow, T.;Neville, P.", 
+    "title": "Case study: visualization for decision tree analysis in data mining"
+  }, 
+  {
+    "abstract": "Change blindness occurs when people do not notice changes in visible elements of a scene. If people use an information visualization system to compare document collection subsets partitioned by their time-stamps, change blindness makes it impossible for them to recognize even very major changes, let alone minor ones. We describe theories from cognitive science that account for the change blindness phenomenon, as well as solutions developed for two visual analysis tools, a dot plot ( SPIRE Galaxies) and landscape (ThemeView\u2122) visualizations.", 
+    "authors": "Nowell, L.;Hetzler, E.;Tanasse, T.", 
+    "title": "Change blindness in information visualization: a case study"
+  }, 
+  {
+    "abstract": "A clustering and ordination algorithm suitable for mining extremely large databases, including those produced by microarray expression studies, is described and analyzed for stability. Data from a yeast cell cycle experiment with 6000 genes and 18 experimental measurements per gene are used to test this algorithm under practical conditions. The process of assigning database objects to an X,Y coordinate, ordination, is shown to be stable with respect to random starting conditions, and with respect to minor perturbations in the starting similarity estimates. Careful analysis of the way clusters typically co-locate, versus the occasional large displacements under different starting conditions are shown to be useful in interpreting the data. This extra stability information is lost when only a single cluster is reported, which is currently the accepted practice. However, it is believed that the approaches presented here should become a standard part of best practices in analyzing computer clustering of large data collections.", 
+    "authors": "Davidson, G.S.;Wylie, B.N.;Boyack, K.W.", 
+    "title": "Cluster stability and the use of noise in interpretation of clustering"
+  }, 
+  {
+    "abstract": "This paper proposes a new visualization and interaction technique for medium-sized trees, called Collapsible Cylindrical Trees (CCT). Child nodes are mapped on rotating cylinders, which will be dynamically displayed or hidden to achieve a useful balance of detail and context. Besides a comprehensible threedimensional visualization of trees, the main feature of CCT is a very fast and intuitive interaction with the displayed nodes. Only a single click is needed to reach every node and perform an action on it, such as displaying a web page. The CCT browsing technique was developed for interaction with web hierarchies but is not limited to this domain. We also present sample implementations of CCT using VRML, which show the usefulness of this intuitive tree navigation technique.", 
+    "authors": "Dachselt, R.;Ebert, J.", 
+    "title": "Collapsible cylindrical trees: a fast hierarchical navigation technique"
+  }, 
+  {
+    "abstract": "We discuss four methodologies for the application of node grouping in graph visualization. In addition, we introduce techniques for force-directed and orthogonal drawing which use node grouping information and have been shown in experiments to perform better than previous techniques. Not only do these techniques have significantly improved performance with respect to standard aesthetic measures, but they also attain qualitative improvement.", 
+    "authors": "Six, J.M.;Tollis, I.G.", 
+    "title": "Effective graph visualization via node grouping"
+  }, 
+  {
+    "abstract": "This paper describes how focus+context techniques can be composed with other high-level visualization paradigms to mutual advantage. Examples are given showing composition both with a pan&zoom system, and with a treemap implementation. The examples illustrate how focus+context can be used as an exploration and navigation tool within those paradigms.", 
+    "authors": "Keahey, T.A.", 
+    "title": "Getting along: composition of visualization paradigms"
+  }, 
+  {
+    "abstract": "We introduce the notion of Graph Sketches. They can be thought of as visual indices that guide the navigation of a multi-graph too large to fit on the available display. We adhere to the Visual Information-Seeking Mantra: Overview first, zoom and filter, then details on demand. Graph Sketches are incorporated into MGV, an integrated visualization and exploration system for massive multi-digraph navigation. We highlight the main algorithmic and visualization tasks behind the computation of Graph Sketches and illustrate several application scenarios. Graph Sketches will be used to guide the navigation of multi-digraphs defined on vertex sets with sizes ranging from 100 to 250 million vertices.", 
+    "authors": "Abello, J.;Finocchi, I.;Korn, J.", 
+    "title": "Graph sketches"
+  }, 
+  {
+    "abstract": "Our multi-disciplinary group has developed a visual representation for cardiovascular physiological variables. This enhances a clinician\u0092s ability to detect and rapidly respond to critical events. The integrated and intuitive display communicates a patient\u0092s cardiovascular state so that it is easily and quickly understood without prior training. The display is designed to show patterns of functional relationships that aid in the detection, diagnosis, and treatment of a critical event.", 
+    "authors": "Agutter, J.;Syroid, N.;Drews, F.;Westenskow, Dwayne;Bermudez, J.;Strayer, D.", 
+    "title": "Graphic data display for cardiovascular system"
+  }, 
+  {
+    "abstract": "This paper introduces a graphical method for visually presenting and exploring the results of multiple queries simultaneously. This method allows a user to visually compare multiple query result sets, explore various combinations among the query result sets, and identify the \"best\" matches for combinations of multiple independent queries. This approach might also help users explore methods for progressively improving queries by visually comparing the improvement in result sets.", 
+    "authors": "Havre, S.;Hetzler, E.;Perrine, K.;Jurrus, E.;Miller, N.", 
+    "title": "Interactive visualization of multiple query results"
+  }, 
+  {
+    "abstract": "Treemaps, a space-filling method of visualizing large hierarchical data sets, are receiving increasing attention. Several algorithms have been proposed to create more useful displays by controlling the aspect ratios of the rectangles that make up a treemap. While these algorithms do improve visibility of small items in a single layout, they introduce instability over time in the display of dynamically changing data, and fail to preserve an ordering of the underlying data. This paper introduces the ordered treemap, which addresses these two shortcomings. The ordered treemap algorithm ensures that items near each other in the given order will be near each other in the treemap layout. Using experimental evidence from Monte Carlo trials, we show that compared to other layout algorithms ordered treemaps are more stable while maintaining relatively favorable aspect ratios of the constituent rectangles. A second test set uses stock market data.", 
+    "authors": "Shneiderman, B.;Wattenberg, M.", 
+    "title": "Ordered treemap layouts"
+  }, 
+  {
+    "abstract": "Simple presentation graphics are intuitive and easy-to-use, but show only highly aggregated data and present only a very limited number of data values (as in the case of bar charts). In addition, these graphics may have a high degree of overlap which may occlude a significant portion of the data values (as in the case of the x-y plots). In this paper, we therefore propose a generalization of traditional bar charts and x-y-plots which allows the visualization of large amounts of data. The basic idea is to use the pixels within the bars to present the detailed information of the data records. Our so-called pixel bar charts retain the intuitiveness of traditional bar charts while allowing very large data sets to be visualized in an effective way. We show that, for an effective pixel placement, we have to solve complex optimization problems, and present an algorithm which efficiently solves the problem. Our application using real-world e-commerce data shows the wide applicability and usefulness of our new idea.", 
+    "authors": "Keim, D.;Hao, M.C.;Ladisch, J.;Hsu, M.;Dayal, U.", 
+    "title": "Pixel bar charts: a new technique for visualizing large multi-attribute data sets without aggregation"
+  }, 
+  {
+    "abstract": "We present a new technique called Semantic Depth of Field (SDOF) as an alternative approach to focus-and-context displays of information. We utilize a well-known method from photography and cinematography (depth-of-field effect) for information visualization, which is to blur different parts of the depicted scene in dependence of their relevance. Independent of their spatial locations, objects of interest are depicted sharply in SDOF, whereas the context of the visualization is blurred. In this paper, we present a flexible model of SDOF which can be easily adopted to various types of applications. We discuss pros and cons of the new technique, give examples of application, and describe a fast prototype implementation of SDOF.", 
+    "authors": "Kosara, R.;Miksch, S.;Hauser, H.", 
+    "title": "Semantic depth of field"
+  }, 
+  {
+    "abstract": "Large test suites are frequently used to evaluate software systems and to locate errors. Unfortunately, this process can generate a huge amount of data that is difficult to interpret manually. We have created a system, TARANTULA, that visually encodes test data to help find program errors. The system uses a principled color mapping to represent source lines in passed and failed tests. It also provides a flexible user interface for examining different perspectives that show the behavior of the source code on test sets, ranging from individual tests, to important subsets such as the set of failed tests, to the entire test suite.", 
+    "authors": "Eagan, J.;Harrold, M.J.;Jones, J.A.;Stasko, J.", 
+    "title": "Technical note: visually encoding program test information to find faults in software"
+  }, 
+  {
+    "abstract": "A new method for the visualization of state transition graphs is presented. Visual information is reduced by clustering nodes, forming a tree structure of related clusters. This structure is visualized in three dimensions with concepts from cone trees and emphasis on symmetry. The resulting visualization makes it easier to relate features in the visualization of the state transition graph to semantic concepts in the corresponding process and vice versa.", 
+    "authors": "van Ham, F.;van de Wetering, H.;van Wijk, J.J.", 
+    "title": "Visualization of state transition graphs"
+  }, 
+  {
+    "abstract": "In this paper, we present a new approach for the visualization of time-series data based on spirals. Different to classical bar charts and line graphs, the spiral is suited to visualize large data sets and supports much better the identification of periodic structures in the data. Moreover, it supports both the visualization of nominal and quantitative data based on a similar visualization metaphor. The extension of the spiral visualization to 3D gives access to concepts for zooming and focusing and linking in the data set. As such, spirals complement other visualization techniques for time series and specifically enhance the identication of periodic patterns.", 
+    "authors": "Weber, M.;Alexa, M.;Muller, W.", 
+    "title": "Visualizing time-series on spirals"
+  }
+]

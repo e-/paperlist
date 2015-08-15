@@ -1,0 +1,62 @@
+[
+  {
+    "abstract": "Automated graphical generation systems should be able to design effective presentations for heterogeneous (quantitative and qualitative) information in static or interactive environments. When building such a system, it is important to thoroughly understand the presentation-related characteristics of domain-specific information. We define a data-analysis taxonomy that can be used to characterize heterogeneous information. In addition to capturing the presentation-related properties of data, our characterization takes into account the user's information-seeking goals and visual-interpretation preferences. We use automatically-generated examples from two different application domains to demonstrate the coverage of the proposed taxonomy and its utility for selecting effective graphical techniques", 
+    "authors": "Zhou, M.X.;Feiner, Steven K.", 
+    "title": "Data characterization for automatically visualizing heterogeneous information"
+  }, 
+  {
+    "abstract": "HNC Software, Inc. has developed a system called DEPICT for visualizing the information content of large textual corpora. The system is built around two separate neural network methodologies: context vectors and self-organizing maps. Context vectors (CVs) are high dimensional information representations that encode the semantic content of the textual entities they represent. Self-organizing maps (SOMs) are capable of transforming an input, high dimensional signal space into a much lower (usually two or three) dimensional output space useful for visualization. Neither process requires human intervention, nor an external knowledge base. Together, these neural network techniques can be utilized to automatically identify the relevant information themes present in a corpus, and present those themes to the user in a intuitive visual form", 
+    "authors": "Rushall, D.A.;Ilgen, M.R.", 
+    "title": "DEPICT: Documents Evaluated as Pictures. Visualizing information using context vectors and self-organizing maps"
+  }, 
+  {
+    "abstract": "As the use of 3D information presentation becomes more prevalent, the need for effective viewing tools grows accordingly. Much work has been done in developing tools for 2D spaces which allow for detail in context views. We examine the extension of such 2D methods to 3D and explore the limitations encountered in accessing internal regions of the data with these methods. We then describe a novel solution to this problem of internal access with the introduction of a distortion function which creates a clear line of sight to the focus revealing sections previously obscured. The distortion is symmetric about the line of sight and is smoothly integrated back into the original 3D layout.", 
+    "authors": "Carpendale, M.S.T.;Cowperthwaite, D.J.;Fracchia, F.D.", 
+    "title": "Distortion viewing techniques for 3-dimensional data"
+  }, 
+  {
+    "abstract": "This paper presents the query and visualization interfaces of the Master Environmental Library (MEL) system. MEL uses the World Wide Web (WWW) to make accessible distributed data whose metadata conform to the Federal Geographic Data Committee's (FGDC) content standards for digital geospatial metadata. The interfaces are implemented as JavaTM applets and are more intuitive, interactive and possess greater functionality than their Hypertext Markup Language (HTML) counterparts. As well as querying, the interface allows users to visualize and manage the list of query results so that users can more quickly discover the datasets of real interest. Several new tools used to visualize attributes of the metadata are presented.", 
+    "authors": "Alper, N.;Stein, C.", 
+    "title": "Geospatial metadata querying and visualization on the WWW using Java<sup>TM</sup> applets"
+  }, 
+  {
+    "abstract": "Interactive techniques are powerful tools for manipulating visualizations to analyze, communicate and acquire information. This is especially true for large data sets or complex 3D visualizations. Although many new types of interaction have been introduced recently, very little work has been done on understanding what their components are, how they are related and how they can be combined. This paper begins to address these issues with a framework for classifying interactive visualizations. Our goal is a framework that will enable us to develop toolkits for assembling visualization interfaces both interactively and automatically", 
+    "authors": "Chuah, M.C.;Roth, S.F.", 
+    "title": "On the semantics of interactive visualizations"
+  }, 
+  {
+    "abstract": "Discusses a software tool called VANISH (Visualizing And Navigating Information Structured Hierarchically), which supports the rapid prototyping of interactive 2D and 3D information visualizations. VANISH supports rapid prototyping through a special-purpose visual language called VaPL (VANISH Programming Language) tailored for visualizations, through a software architecture that insulates visualization-specific code from changes in both the domain being visualized and the presentation toolkit used, and through the reuse of visualization techniques between application domains. The generality of VANISH is established by showing how it is able to re-create a wide variety of \u00d4\u00c7\u00a3standard\u00d4\u00c7\u00d8 visualization techniques. VANISH's support for prototyping is shown through an extended example, where we build a C++ class browser, exploring many visualization alternatives in the process", 
+    "authors": "Kazman, R.;Carriere, J.", 
+    "title": "Rapid prototyping of information visualizations using VANISH"
+  }, 
+  {
+    "abstract": "Visualization is a critical technology for understanding complex, data-rich systems. Effective visualizations make important features of the data immediately recognizable and enable the user to discover interesting and useful results by highlighting patterns. A key element of such systems is the ability to interact with displays of data by selecting a subset for further investigation. This operation is needed for use in linked-views systems and in drill-down analysis. It is a common manipulation in many other systems. It is as ubiquitous as selecting icons in a desktop GUI. It is therefore surprising to note that little research has been done on how selection can be implemented. This paper addresses this omission, presenting a taxonomy for selection mechanisms and discussing the interactions between branches of the taxonomy. Our suggestion of 524,288 possible systems [216 operation systems\u00d72 (memory/memoryless)\u00d72 (data-dependent/independent)\u00d72 (brush/lasso)] is more in fun than serious, as within the taxonomy there are many different choices that can be made. This framework is the result of considering both the current state of the art and historical antecedents", 
+    "authors": "Wills, G.J.", 
+    "title": "Selection: 524,288 ways to say \"this is interesting\""
+  }, 
+  {
+    "abstract": "This paper presents efficient methods for implementing general non-linear magnification transformations. Techniques are provided for: combining linear and non-linear magnifications, constraining the domain of magnifications, combining multiple transformations, and smoothly interpolating between magnified and normal views. In addition, piecewise linear methods are introduced which allow greater efficiency and expressiveness than their continuous counterparts", 
+    "authors": "Keahey, T.A.;Robertson, E.L.", 
+    "title": "Techniques for non-linear magnification transformations"
+  }, 
+  {
+    "abstract": "Visage is a prototype user interface environment for exploring and analyzing information. It represents an approach to coordinating multiple visualizations, analysis and presentation tools in data-intensive domains. Visage is based on an information-centric approach to user interface design which strives to eliminate impediments to direct user access to information objects across applications and visualizations. Visage consists of a set of data manipulation operations, an intelligent system for generating a wide variety of data visualizations (SAGE) and a briefing tool that supports the conversion of visual displays used during exploration into interactive presentation slides. This paper presents the user interface components and styles of interaction that are central to Visage's information-centric approach", 
+    "authors": "Roth, S.F.;Lucas, P.;Senn, J.A.;Gomberg, C.C.;Burks, M.B.;Stroffolino, P.J.;Kolojechick, A.J.;Dunmire, C.", 
+    "title": "Visage: a user interface environment for exploring information"
+  }, 
+  {
+    "abstract": "This paper describes our work on visualizing the information of a tennis match. We use competition trees to organize the information of a tennis match and visualize the competition trees by the top-nesting layered maps with translucent colored layers. We create iconic representations to describe the detailed information of athletic events in an intuitive manner. Specialized views of the information are displayed by applying multiple Magic Lens filters on the top-nesting layered maps. The dynamic nature of the tennis match is depicted by the time-varying display. The approach we present in this paper can be used to visualize other sports information, information with competition property, or information with hierarchical structure", 
+    "authors": "Liqun Jin;Banks, D.C.", 
+    "title": "Visualizing a tennis match"
+  }, 
+  {
+    "abstract": "We present a case study of visualizing the global topology of the Internet MBone. The MBone is the Internet's multicast backbone. Multicast is the most efficient way of distributing data from one sender to multiple receivers with minimal packet duplication. Developed and initially deployed by researchers within the Internet community, the MBone has been extremely popular for efficient transmission across the Internet of real-time video and audio streams such as conferences, meetings, congressional sessions, and NASA shuttle launches. The MBone, like the Internet itself grew exponentially with no central authority. The resulting suboptimal topology is of growing concern to network providers and the multicast research community. We create a geographic representation of the tunnel structure as arcs on a globe by resolving the latitude and longitude of MBone routers. The interactive 3D maps permit an immediate understanding of the global structure unavailable from the data in its original form as lines of text with only hostnames and IP addresses. Data visualization techniques such as grouping and thresholding allow further analysis of specific aspects of the MBone topology. We distribute the interactive 3D maps through the World-Wide Web using the VRML file format thus allowing network maintainers throughout the world to analyze the structure move effectively than would be possible with still pictures or pre-made videos", 
+    "authors": "Munzner, T.;Hoffman, E.;Claffy, K.;Fenner, B.", 
+    "title": "Visualizing the global topology of the MBone"
+  }, 
+  {
+    "abstract": "Our approach to testing graphical user interfaces involves logging large amounts of data. These logs capture information at the key press and mouse click level about how an application is used. Since the raw data is voluminous and not at a useful level of detail, we use analysis and visualization to find information that is interesting and useful to a usability analyst but was previously buried in the data. We call some of our custom visualizations \u00d4\u00c7\u00a3contextual\u00d4\u00c7\u00d8 meaning they use key elements of the context the data was collected in as an organizing structure. We expect this type of visualization to be easier and faster to understand and more helpful than traditional charts. We hope that our finding a natural geometry for these visualizations will inspire others whose data apparently has no inherent geometry to find natural ways to visualize their data", 
+    "authors": "Gray, M.;Badre, A.;Guzdial, M.", 
+    "title": "Visualizing usability log data"
+  }
+]

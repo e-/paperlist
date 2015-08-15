@@ -8,9 +8,12 @@
 </head>
 <body>
   <div id="paperList" ng-controller="PaperListCtrl" class="container">
-    <div>
-      Total {{ app.count }} paper(s).
-    </div>
+    <p>
+      This page contains a list of CHI, Vis (InfoVis, SciVis, VAST), and ETRA papers. Total {{ app.count }} paper(s).
+    </p>
+    <p>
+      Maintained by <a href="http://www.jaeminjo.com" target="_blank">Jaemin Jo</a>.
+    </p>
     <div ng-repeat="conf in app.confList">
       <ul>
         <li ng-repeat="paper in conf.papers">

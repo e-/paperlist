@@ -1,0 +1,267 @@
+[
+  {
+    "abstract": "Experimental investigations into the application of intelligent robot control technology to the problem of removing waste stored in tanks is discussed. The authors describe the experimental environment used, with particular attention to the hardware and software control environment and the graphical interface. Intelligent system control is achieved through the integration of extensive geometric and kinematic world models with real-time sensor-based control. All operator interactions with the system are through fully animated graphical representations which validate all operator commands before execution to provide for safe operation. Sensing is used to add information to the robot system's world model and to allow sensor-based servo control during selected operations. The results of an initial critical features test are reported, and the potential to apply advanced intelligent control concepts to the removal of waste in storage tanks is discussed", 
+    "authors": "Christensen, B.K.;Desjarlais, L.M.", 
+    "title": "A graphical interface for robotic remediation of underground storage tanks"
+  }, 
+  {
+    "abstract": "It is shown that by a simple (one-way) mapping from quaternions to complex numbers, the problem of generating a four-dimensional Mandelbrot set by iteration of a quadratic function in quaternions can be reduced to iteration of the same function in the complex domain, and thus, the function values in 4-D can be obtained by a simple table lookup. The computations are cut down by an order. Simple ways of displaying the fractal without shading and ways of fast ray tracing such a fractal using the table so generated are discussed. Further speedup in ray tracing can be achieved by estimates of a distance of a point from the Mandelbrot set. Animation is a key factor in visualizing 4-D objects. Three types of animation are attempted: translation in 4-D, rotation in 4-D, and fly-through in 3-D", 
+    "authors": "Ke, Y.;Panduranga, E.S.", 
+    "title": "A journey into the fourth dimension"
+  }, 
+  {
+    "abstract": "A methodology for guiding the choice of visual representations of data is presented. The methodology provides objective and directed display design facilities. Such facilities can guide interactive visualization design, generate standard visualizations automatically, and assess the extent to which chosen representations can convey the required information to data analysis. The methodology is based on objectively distinguishing the types of information conveyed by various visual representations and matching these to the intrinsic characteristics of data and to aims for its interpretation. This approach is directed toward developing a stronger theoretical basis for visualization in scientific computation. The methodology is developed using a natural scene paradigm in which data variables are represented by identifiable properties of realistic scenes", 
+    "authors": "Robertson, P.K.", 
+    "title": "A methodology for scientific data visualisation: choosing representations based on a natural scene paradigm"
+  }, 
+  {
+    "abstract": "Methods of rendering reflections in curved surfaces are examined. A numerical algorithm to derive spherical reflections is presented. This algorithm has many attractive qualities, such as low computation costs, object space coherence, device and resolution independence, and generation of maximum information about reflections in curved surfaces. The authors demonstrate that rendering reflections is a difficult problem, as it defies analytic solutions. The authors indicate several alternatives for generalizing this method to a broader domain", 
+    "authors": "Dobkin, D.;Panduranga, E.S.;Zhu, M.", 
+    "title": "A numerical method for rendering spherical reflections"
+  }, 
+  {
+    "abstract": "Progress in scientific visualization could be accelerated if workers could more readily find visualization techniques relevant to a given problem. The authors describe an approach to this problem, based on a classification of visualization techniques, that is independent of particular application domains. A user breaks up a problem into subproblems, describes these subproblems in terms of the objects to be represented and the operations to be supported by a representation, locates applicable visualization techniques in a catalog, and combines these representations into a composite representation for the original problem. The catalog and its underlying classification provide a way for workers in different application disciplines to share methods", 
+    "authors": "Wehrend, S.;Lewis, C.", 
+    "title": "A problem-oriented classification of visualization techniques"
+  }, 
+  {
+    "abstract": "The author presents a simple, procedural interface for volume rendering. The interface is built on three types of objects: volumes, which contain the data to be visualized, environments, which set up viewing and lighting, and image objects, which convert results to a user-definable format. A volume is rendered against a particular environment with the results sent to an image object for conversion. By defining volume qualities such as color, opacity, and gradient in terms of user-definable transfer functions, the rendering process is made independent of the data set's underlying representation", 
+    "authors": "Montine, J.L.", 
+    "title": "A procedural interface for volume rendering"
+  }, 
+  {
+    "abstract": "The authors describe the real-time acoustic display capabilities developed for the virtual environment workstation (VIEW) project. The acoustic display is capable of generating localized acoustic cues in real time over headphones. An auditor symbology, a related collection of representational auditory objects or icons, can be designed using the auditory cue editor, which links both discrete and continuously varying acoustic parameters with information or events in the display. During a given display scenario, the symbology can be dynamically coordinated in real time with three-dimensional visual objects, speech, and gestural displays. The types of displays feasible with the system range from simple warnings and alarms to the acoustic representation of multidimensional data or events", 
+    "authors": "Wenzel, E.M.;Stone, P.K.;Fisher, S.S.;Foster, S.H.", 
+    "title": "A system for three-dimensional acoustic `visualization&#39; in a virtual environment workstation"
+  }, 
+  {
+    "abstract": "A forecasting system for the Great Lakes in which the data generated by a three-dimensional numerical model is visualized by a 3-D/stereoscopic display module is discussed. The module consists of a control panel and a display window with the capability of interactively rendering the results. The event scheduling for scenario testing to steer the 3-D numerical model is achieved by a similar panel. These panels set up the simulation and control the data flow between the graphics workstation and supercomputer. Rendering methods, stereo imagery, and animation are incorporated to display the results. Interaction between the user, the workstation, and the supercomputer allows steering of the simulation and tracing of the simulation output. Distributed software for postprocessing and volume rendering are used to enhance the representation", 
+    "authors": "Yen, C.-C.J.;Bedford, K.W.;Kempf, J.L.;Marshall, R.E.", 
+    "title": "A three-dimensional/stereoscopic display and model control system for Great Lakes forecasts"
+  }, 
+  {
+    "abstract": "A general method for rendering isosurfaces of multivariate rational and polynomial tensor products is described. The method is robust up to degree 15, handling singularities without introducing spurious rendering artifacts. The approach does not solve the problem of singularities in general, but it removes the problem from the rendering domain to the interpolation/approximation domain. It is based on finding real roots of a polynomial in Bernstein form. This makes it particularly suitable for parallel and pipelined processing. It is envisioned that the tensor products will be used as approximants or interpolants for empirical data or scalar fields. An interpolation scheme is given as an example", 
+    "authors": "Rockwood, A.", 
+    "title": "Accurate display of tensor product isosurfaces"
+  }, 
+  {
+    "abstract": "MediaView is a computer program that provides a generic infrastructure for authoring and interacting with multimedia documents. Among its applications is the ability to furnish a user with a comprehensive environment for analysis and visualization. With this program the user can produce a document that contains mathematics, datasets and associated visualizations. From the dataset or embedded mathematics animated sequences can be produced in situ. Equations that appear in a document have a backing format that is compatible with the Mathematica language. Thus, by clicking on an equation, its semantics are conveyed to Mathematica, where the user can perform a variety of symbolic and numerical operations. Since the document is all digital, it can be shared on a local network or mailed electronically to a distant site. Animations and any other substructures of the document persist through the mailing process and can be awakened at the destination by the recipient", 
+    "authors": "Phillips, R.L.", 
+    "title": "An interpersonal multimedia visualization system"
+  }, 
+  {
+    "abstract": "The animation of two-dimensional objects in a 2-D planar environment is discussed. The use of chain codes as a boundary representation for 2-D objects undergoing animation is shown to be practical for several typical transformations. Various methods for implementing the transformations are described. Quantized methods transform groups of chain code elements into other groups, while incremental methods construct the transformed chain code element by element. The low cost of quantized methods, which rely on table lookup and minimal arithmetic, are weighed against the increased accuracy offered by incremental methods, which maintain error indicators to ensure minimal differences between ideal and generated chain codes. Methods for scaling, rotation, and elastic deformation of objects based solely on chain code elements are discussed", 
+    "authors": "Maeder, A.J.", 
+    "title": "Animation techniques for chain-coded objects"
+  }, 
+  {
+    "abstract": "We present a new ray-tracing algorithm for volume rendering which is designed to work efficiently when the data of interest is distributed sparsely through the volume. A simple preprocessing step identifies the voxels representing features of interest. Frequently this set of voxels, arbitrarily distributed in three dimensional space, is a small fraction of the original voxel grid. A mediancut space partitioning scheme, combined with bounding volumes to prune void spaces in the resulting search structure, is used to store the voxels of interest in a kd tree. The tree is then efficiently ray-traced to render the voxel data. The k-d tree is view independent and can be used for animation sequences involving changes in positions of the viewer or positions of lights. We have applied this search structure to render voxel data from MRI, CAT Scan and electron density distributions.", 
+    "authors": "Subramanian, K.R.;Fussell, D.S.", 
+    "title": "Applying space subdivision techniques to volume rendering"
+  }, 
+  {
+    "abstract": "The authors present techniques for automating the illustration of geometric models based on traditional hand illustration methods. A system based on the techniques of traditional illustrators for automatically generating illustrations of complex three-dimensional models is described. The system relies on a richer set of display primitives, which are also outlined. Algorithmic details for emphasizing significant model components are discussed, and some preliminary results are presented", 
+    "authors": "Dooley, D.;Cohen, M.F.", 
+    "title": "Automatic illustration of 3D geometric models: surfaces"
+  }, 
+  {
+    "abstract": "The problem of presenting and gaining deeper understanding of a multidimensional system, a mathematical model Predicting 20-90 s oscillations in breathing, is presented. The authors utilized custom software for interactive analysis of a three-dimensional model, plus Wavefront software to render translucent images of the 3D surfaces. The results show that under conditions of no peripheral chemosensor sensitivity, periodic breathing is predicted to occur with (1) an increase in circulatory transit time between the lungs and brain, (2) the presence of marked steady state hypoventilation, and/or (3) an increase in brain blood flow rate. It is concluded that the peripheral chemosensors (carotid bodies) are not essential for the development of periodic breathing", 
+    "authors": "Fordyce, W.E.;Ventrella, J.J.", 
+    "title": "Case study in scientific visualization: factors inducing periodic breathing in humans with blunted hypoxic sensitivity"
+  }, 
+  {
+    "abstract": "An exploratory effort to classify visual representations into homogeneous clusters is discussed. The authors collected hierarchical sorting data from twelve subjects. Five principal groups of visual representations emerged from a cluster analysis of sorting data: graphs and tables, maps, diagrams, networks, and icons. Two dimensions appear to distinguish these clusters: the amount of spatial information and cognitive processing effort. The authors discuss visual information processing issues relevant to the research, methodology and data analyses used to develop the classification system, results of the empirical study, and possible directions for future research", 
+    "authors": "Lohse, J.;Rueter, H.;Biolsi, K.;Walker, N.", 
+    "title": "Classifying visual knowledge representations: a foundation for visualization research"
+  }, 
+  {
+    "abstract": "The authors describe the architecture of an end-user visualization system that supports interactive analysis of three-dimensional scalar and vector data in a heterogeneous hardware environment. The system supports a variety of visualization methods with applicability in disciplines such as computational fluid dynamics, earth, and space sciences, and finite-element analysis. The authors discuss how design goals and hardware constraints lead to a simple, cohesive paradigm for implementing a powerful, flexible, and portable visualization system. To assure efficient operation across a broad range of hardware platforms, the tools were implemented so that their interactivity is largely independent of data complexity. To gain portability, the system was built on a platform-independent graphics layer and user interface management system. The authors outline general concerns with current visualization methods and show how the approach simplifies the visualization process", 
+    "authors": "Brittain, D.L.;Aller, J.;Wilson, M.;Wang, S.-L.C.", 
+    "title": "Design of an end-user data visualization system"
+  }, 
+  {
+    "abstract": "The use of qualitative shape synthesis for the display of 3-D binary objects is presented. The proposed approach is applicable to multi-object scenes and to outdoor scenery as well. It makes use of a new method, the diffusion process, that simulates diffusion of particles within the interior of a 3-D discrete object. Starting with initial concentrations of particles at the boundary-voxels, the diffusion procedure simulates the propagation of these particles inwards. Boundary voxels of the object are colored according to the concentration of particles obtained by suspending the diffusion process. This method assists shape characterization by providing a qualitative measure of boundary curvature and was used in achieving display of a variety of voxel-based objects. Examples of the use of this approach on synthetic, terrain, and range data, are provided", 
+    "authors": "Yacoob, Y.", 
+    "title": "Displaying voxel-based objects according to their qualitative shape synthesis"
+  }, 
+  {
+    "abstract": "The authors describe several dynamic graphics tools for visualizing network data involving statistics associated with the nodes or links in a network. The authors suggest a number of ideas for the static display of network data, while motivating the need for interaction through dynamic graphics. A brief discussion of dynamic graphics in general is presented. The authors specialize this to the case of network data. An example is presented", 
+    "authors": "Becker, R.A.;Eick, S.G.;Miller, E.O.;Wilks, A.R.", 
+    "title": "Dynamic graphics for network visualization"
+  }, 
+  {
+    "abstract": "The ability of researchers in the scientific and engineering community to generate or acquire data far outstrips their ability to analyze it. This problem is even more pronounced when the data is of high dimensionality. Visualization has been identified as a critical technique for exploring data sets, but the visualization tools developed to date have mostly concentrated on the display of low (one to four) dimensional data. Ideally a tool for examining N-dimensional data should allow the presentation of the data in a way that can be intuitively interpreted and allow the display of arbitrary views and subsets of the data. The work presented in this paper describes the creation of such a tool using a technique which we term dimensional stacking.", 
+    "authors": "LeBlanc, J.;Ward, M.O.;Wittels, N.", 
+    "title": "Exploring N-dimensional databases"
+  }, 
+  {
+    "abstract": "The authors propose a methodology that will extract a topologically closed geometric model from a two-dimensional image. This is accomplished by starting with a simple model that is already topologically closed and deforming the model, based on a set of constraints, so that the model grows (shrinks) to fit the feature within the image while maintaining its closed and locally simple nature. The initial model is a non-self-intersecting polygon that is either embedded in the feature or surrounds the feature. There is a cost function associated with every vertex that quantifies its deformation, the properties of simple polygons, and the relationship between noise and feature. The constraints embody local properties of simple polygons and the nature of the relationship between noise and the features in the image", 
+    "authors": "Miller, J.V.;Breen, D.E.;Wozny, M.J.", 
+    "title": "Extracting geometric models through constraint minimization"
+  }, 
+  {
+    "abstract": "The authors discuss FAST (flow analysis software toolkit), an implementation of a software system for fluid mechanics analysis. Visualization of computational aerodynamics requires flexible, extensible, and adaptable software tools for performing analysis tasks. An overview of FAST is given, and its architecture is discussed. Interactive visualization control is addressed. The advantages and disadvantages of FAST are discussed", 
+    "authors": "Bancroft, G.V.;Merritt, F.J.;Plessel, T.C.;Kelaita, P.G.;McCabe, R.K.;Globus, A.", 
+    "title": "FAST: a multi-processed environment for visualization of computational fluid dynamics"
+  }, 
+  {
+    "abstract": "A hierarchical triangulation built from a digital elevation model in grid form is described. The authors present an algorithm that produces a hierarchy of triangulations in which each level of the hierarchy corresponds to a guaranteed level of accuracy. The number of very thin triangles (slivers) is significantly reduced. Such triangles produced undesirable effects in animation. In addition the number of levels of the triangulated irregular network (TIN) tree is reduced. This speeds up searching within the data structure. Tests on data with digital elevation input have confirmed the theoretical expectations. On eight such sets the average sliveriness with the method was between 1/5 and 1/10 of old triangulations and number of levels was about one third. There was an increase in the number of descendants at each level, but the total number of triangles was also lower", 
+    "authors": "Scarlatos, L.;Pavlidis, T.", 
+    "title": "Hierarchical triangulation using terrain features"
+  }, 
+  {
+    "abstract": "FIELDVIEW, a visual analysis tool designed to facilitate the interactive investigation of fluid mechanics data sets by providing an easy-to-use interface to the flow field data, is presented. Operating on NASA Plot three-dimensional format data, FIELDVIEW computes scalar and vector flow quantities and displays them using a variety of representations, including animation. An interactive viewing interface allows free motion around the data under study to allow the researcher to locate and study the interesting flow features of three-dimensional fluid dynamic data", 
+    "authors": "Legensky, S.M.", 
+    "title": "Interactive investigation of fluid mechanics data sets"
+  }, 
+  {
+    "abstract": "The first half of a two-step quaternion Julia set visualization system is described. This step uses a quarternion square root function to adapt the classic inverse iteration algorithm to the quaternions. The augmented version produces a 3-D Julia set defined by a point cloud that can be interactively manipulated on a graphics workstation. Several cues are assigned to the point cloud to increase depth perception. Finally, a short theorem is proven that extends the domain of the inverse iteration method to a rotational family of quadratic quaternion Julia sets", 
+    "authors": "Hart, J.C.;Kauffman, L.H.;Sandim, D.J.", 
+    "title": "Interactive visualization of quaternion Julia sets"
+  }, 
+  {
+    "abstract": "Visualizing the third dimension while designing three-dimensional (3-D) objects is an awkward process in mechanical computer-aided-design (CAD) systems, given the current state of the art. The authors describe a computer system that automatically constructs the shape of a 3-D object from a single 2-D sketch. The method makes it convenient to create and manipulate 3-D objects, and is thus seen as an intelligent user interface for CAD and 3-D graphics applications. The proposed technique is built on well-known results in image analysis. These results are applied in conjunction with some perceptual rules to determine 3-D structure from a rough line drawing. The principles are illustrated by a computer implementation that works in a nontrivial object domain", 
+    "authors": "Lamb, D.;Bandopadhay, A.", 
+    "title": "Interpreting a 3D object from a rough 2D line drawing"
+  }, 
+  {
+    "abstract": "The authors discuss various visualization techniques that have the goal of identifying unwanted curvature regions interactively on screen. The authors give a critical survey of surface interrogation methods. Several isoline and contouring techniques are presented, and the reflection line method, which simulates the so-called light cage by computer graphics, is presented. The isophote method analyzes surfaces by determining lines of equal light intensity. Silhouettes are special isophotes. A different approach to these problems is the mapping-technique. The mapping methods recognize unwanted curvature regions by detecting singularities of a special mapping of the curve or surface investigated. Curvature plots are a practical means of analyzing free-form surfaces. All these methods are effective, but generally need a lot of computational effort. The free-form surface visualization by ray tracing is discussed", 
+    "authors": "Hagen, H.;Schreiber, T.;Gschwind, E.", 
+    "title": "Methods for surface interrogation"
+  }, 
+  {
+    "abstract": "The idea of independently moving, interacting graphical objects is introduced as a method for the visualization of continuous fields. Bird-oid objects or boids are discussed. These boids derive from: (1) icons which are geometric objects whose shape and appearance are related to the field variables, (2) three-dimensional cursors by which a user interactively picks a point in space, (3) particle traces, which are numerically integrated trajectories in space, (4) moving frames of vectors along space curves, and (5) actors, which are programming objects that can create and destroy instances of themselves, act according to internal logic, and communicate with each other and with a user. A software prototype in the C++ language has been developed which demonstrates some of the capabilities of these objects for the visualization of scalar, vector, and tensor fields defined over finite elements or finite volumes", 
+    "authors": "Kerlick, G.D.", 
+    "title": "Moving iconic objects in scientific visualization"
+  }, 
+  {
+    "abstract": "A methodology for visualizing analytic and synthetic geometry in RN is presented. It is based on a system of parallel coordinates which induces a nonprojective mapping between N-dimensional and two-dimensional sets. Hypersurfaces are represented by their planar images which have some geometrical properties analogous to the properties of the hypersurface that they represent. A point - line duality when N=2 generalizes to lines and hyperplanes enabling the representation of polyhedra in R N. The representation of a class of convex and non-convex hypersurfaces is discussed, together with an algorithm for constructing and displaying any interior point. The display shows some local properties of the hypersurface and provides information on the point's proximity to the boundary. Applications to Air Traffic Control, Robotics, Computer Vision, Computational Geometry, Statistics, Instrumentation and other areas are discussed.", 
+    "authors": "Inselberg, A.;Dimsdale, B.", 
+    "title": "Parallel coordinates: a tool for visualizing multi-dimensional geometry"
+  }, 
+  {
+    "abstract": "The authors describe an innovative personal visualization system and its application to several research and engineering problems. The system bridges both hardware and software components to permit a user to graphically describe a visualization problem to the computer; thereby reducing program development time to a few hours. Low-cost visualization is achieved using PC-based software that can either be executed on a PC or drive graphic workstations for high-resolution displays. In either case, supercomputer computation rates are available for the visualization process. On PCs this is done with one or more PiP plug in cards, each of which is capable of 100 million floating point operations per second. On workstations this is done with the QUEN array processor. Applications mentioned include: ocean wave imaging; characterizing superconductors; and solar sail visualization", 
+    "authors": "Dolecek, Q.E.;Moorjani, K.;Kim, B.F.;Tilley, D.G.;Denney, T.S.Jr.", 
+    "title": "Personal visualization system: applications in research and engineering"
+  }, 
+  {
+    "abstract": "An algorithm for rendering scalar field data that reduces rendering times by as much as two orders of magnitude over traditional full resolution images is presented. Less than full-resolution sampling of the scalar field is performed using a fast ray tracing method. The sampling grid points are output as a set of screen-based Gouraud shaded polygons which are rendered in hardware by a graphics workstation. A gradient-based variable resolution algorithm that further improves rendering speed is presented. Several examples are presented", 
+    "authors": "Meyers, R.J.;Stephenson, M.B.", 
+    "title": "Ray traced scalar fields with shaded polygonal output"
+  }, 
+  {
+    "abstract": "Visual data analysis (VDA) is a visualization approach that combines vector and raster graphics to provide insights into various aspects of multidimensional datasets. VDA methods have found application in aerospace engineering research, VDA is being used to develop nondestructive evaluation testing techniques for graphite epoxy composites by providing insights into stress waves propagating through them. Visual data analysis was used to analyze stress wave propagation, determine the origin of an unexplained wave distortion, and create a theoretical model to eliminate the distortion utilizing mathematical modeling", 
+    "authors": "Prawel, D.A.", 
+    "title": "Real-world applications of visualization solutions"
+  }, 
+  {
+    "abstract": "The sphere quadtree (SQT), which is based on the recursive subdivision of spherical triangles obtained by projecting the faces of an icosahedron onto a sphere, is discussed. Most databases for spherically distributed data are not structured in a manner consistent with their geometry. As a result, such databases possess undesirable artifacts, including the introduction of tears in the data when they are mapped onto a flat file system. Furthermore, it is difficult to make queries about the topological relationship among the data components without performing real arithmetic. The SQT eliminates some of these problems. The SQT allows the representation of data at multiple levels and arbitrary resolution. Efficient search strategies can be implemented for the selection of data to be rendered or analyzed by a specific technique. Geometric and topological consistency with the data are maintained", 
+    "authors": "Gyorgy, F.", 
+    "title": "Rendering and managing spherical data with sphere quadtrees"
+  }, 
+  {
+    "abstract": "A package that can bridge the connection between scattered data sets and the highly structured sets required by graphics algorithms is described. Although export of evaluation data is a necessary capability, it is very important that this package has a fully featured three-dimensional graphics subsystem to interactively guide the researcher toward the final visualization results. At that point the option exists of using more sophisticated and more powerful graphics tools to achieve the desired presentation. The application presented has been designed to effectively meet these needs and to promote the awareness of the value of interpolation tools in visualization. Full details of this design are presented", 
+    "authors": "Voegele, K.", 
+    "title": "Scattered data interpolation tools in a microcomputer visualization environment"
+  }, 
+  {
+    "abstract": "The author presents a simple and flexible method of sharp coding for higher dimensional data sets that allows the database operator or the scientist quick access to promising patterns within and among records or samples. The example used is a 13-parameter set of solar wind, magnetosphere, and ground observation data collected hourly for 21 days in 1976. The software system is a prototype developed to demonstrate the glyph approach to depicting higher-dimensional data sets. The experiment was to depict all parameters simultaneously, to see if any global or local patterns emerged. This experiment proves that much more complex data can be presented for visual pattern extraction than standard methods allow", 
+    "authors": "Beddow, J.", 
+    "title": "Shape coding of multidimensional data on a microcomputer display"
+  }, 
+  {
+    "abstract": "Alternative models that use B-spline curves and surfaces for generating color sequences for univariate, bivariate, and trivariate mapping are introduced. The main aim is to break away from simple geometric representation in order to provide more flexibility and control over color selection. This facilitates the task of constructing a customized color scheme for a particular map. The author gives a brief description of existing color schemes and their characteristics, and provides some background for B-spline curves and surfaces", 
+    "authors": "Binh Pham", 
+    "title": "Spline-based color sequences for univariate, bivariate and trivariate mapping"
+  }, 
+  {
+    "abstract": "Algorithms for rendering complex and shaded animation sequences are described. The target display device for these image rendering algorithms is a multichannel display based on the superposing technique realized in hardware. An animation sequence is displayed by superposing a dynamic foreground on a static background. The static background can be a very complex scene, and the dynamic foreground can be an image with a simple to medium complexity. These two algorithms were developed based on raytracing", 
+    "authors": "Hsu, P.;Staudhammer, J.", 
+    "title": "Superposing images with shadow casting"
+  }, 
+  {
+    "abstract": "The use of critical point analysis to generate representations of the vector field topology of numerical flow data sets is discussed. Critical points are located and characterized in a two-dimensional domain, which may be either a two-dimensional flow field or the tangential velocity field near a three-dimensional body. Tangent curves are then integrated out along the principal directions of certain classes of critical points. The points and curves are linked to form a skeleton representing the two-dimensional vector field topology. When generated from the tangential velocity field near a body in a three-dimensional flow, the skeleton includes the critical points and curves which provide a basis for analyzing the three-dimensional structure of the flow separation", 
+    "authors": "Helman, J.L.;Hesselink, Lambertus", 
+    "title": "Surface representations of two- and three-dimensional fluid flow topology"
+  }, 
+  {
+    "abstract": "Some ideas and techniques for visualizing volumetric data are introduced. The methods presented are different from both the volume rendering techniques and surface contour methods. Volumetric data is data with a domain of three independent variables. The independent variables do not have to indicate a position in space and can be abstract in the sense that they can represent any quantity. The authors cover only the case where the dependent data is a single scalar. The authors describe a collection of techniques and ideas for graphing cuberille grid data. All of these techniques are quite simple and rather easy to implement. During the development of these techniques, the authors were particularly concerned with allowing the user to interact with the system in order to interrogate and analyze the relationships indicated by the volumetric data", 
+    "authors": "Nielson, G.M.;Hamann, B.", 
+    "title": "Techniques for the interactive visualization of volumetric data"
+  }, 
+  {
+    "abstract": "Computer graphics has long been concerned with representing and displaying surfaces in three-dimensional space. The author addresses the questions of representation and display in a higher dimensional setting, specifically, that of 3-manifolds immersed in four-dimensional space. The author describes techniques for visualizing the cross-section surfaces of a 3-manifold formed by a cutting hyperplane. The manifold is first triangulated, so that the cross-section may be computed on a per tetrahedron basis. The triangulated manifold is stored in a data structure which efficiently supports calculation of curvature. These techniques have been implemented on Personal IRIS", 
+    "authors": "Laszlo, M.J.", 
+    "title": "Techniques for visualizing 3-dimensional manifolds"
+  }, 
+  {
+    "abstract": "The authors describe some mathematical approaches and computer graphics techniques for illustrating concepts related to Fermat's last theorem. They present a selection of visualization methods, and describe observations made in the process of creating a three-minute computer animated videotape dealing with some elementary aspects of Fermat's last theorem, a problem in number theory. The approach to the representation of the different concepts presented in the video was influenced by many factors: the available hardware, real and perceived constraints of the available software, constraints imposed by the video medium, and a number of peculiarities and features of the mathematical domain itself. The authors describe the experiences with the software systems that played a part in these efforts, some specific successful visualization techniques, and some unexpected mathematical insights", 
+    "authors": "Hanson, A.J.;Heng, P.A.;Kaplan, B.C.", 
+    "title": "Techniques for visualizing Fermat&#39;s last theorem: a case study"
+  }, 
+  {
+    "abstract": "The author describes a visualization model for three-dimensional scalar data fields based on linear transport theory. The concept of virtual particles for the extraction of information from data fields in introduced. The role of different types of interaction of the data field with those particles such as absorption, scattering, source and color shift are discussed and demonstrated. Special attention is given to possible tools for the enhancement of interesting data features. Random texturing can provide visual insights as to the magnitude and distribution of deviations of related data fields, e.g., originating from analytic models, and measurements, or in the noise content of a given data field. Hidden symmetries of a data set can often be identified visually by allowing it to interact with a preselected beam of physical particles with the attendant appearance of characteristic structural effects such as channeling", 
+    "authors": "Krueger, W.", 
+    "title": "The application of transport theory to visualization of 3D scalar data fields"
+  }, 
+  {
+    "abstract": "The VIS-5D system provides highly interactive visual access to five-dimensional data sets containing up to 50 million data points. VIS-5D runs on the Stardent ST-1000 and ST-2000 workstations and generates animated three-dimensional graphics from gridded data sets in real time. It provides a widget-based user interface and fast visual response which allows scientists to interactively explore their data sets. VIS-5D generates literal and intuitive depictions of data, has user controls that are data oriented rather than graphics oriented, and provides a WYSIWYG (what-you-see-is-what-you-get) response. The result is a system that enables scientists to produce and direct their own animations", 
+    "authors": "Hibbard, B.;Santek, D.", 
+    "title": "The VIS-5D system for easy interactive visualization"
+  }, 
+  {
+    "abstract": "The author applied image processing and volume rendering algorithms together with considerations on the physiology of the human visual system to improve the quality of perception of the information contained in positron emission tomography (PET) brain images, and to highlight the existing anatomical information. The psychophysical considerations for selecting color and brightness level are used to visualize functional and anatomical structures in three dimensions. One is able to perceive in the images the levels of rates of glucose metabolism of regions in the brain and their relative locations. In addition, some of the anatomic structures, such as the interhemispheric fissure, the caudate nucleus, and the thalamus, are apparent", 
+    "authors": "Gershon, N.D.", 
+    "title": "Visualization and three-dimensional image processing of positron emission tomography (PET) brain images"
+  }, 
+  {
+    "abstract": "This case study describes how visualization tools were used in a nonlinear finite-element method (FEM) analysis of rivet deformation. After summarizing the problem at hand, it is concluded that three factors that aided the visualization process in this case can be extracted as general principles: first, focus the viewer on the area of interest; second, do not confuse the viewer with strange color scales; and finally, do not try to convey too much information in one image. Images should convey a maximum amount of information with a minimum of confusion. In this particular case the most useful techniques proved to be animations of color-shaded contours, where the viewer could zoom in on any area of particular interest. Animation was used for each of the seven different data types produced by the analysis package", 
+    "authors": "Edgar, G.W.", 
+    "title": "Visualization for nonlinear engineering FEM analysis in manufacturing"
+  }, 
+  {
+    "abstract": "Summary form only given. The basic parameters of current TV, the origins of HDTV, and the various types of TV systems being proposed in Japan, America and Europe are reviewed. Available HDTV hardware, new applications that this hardware enables, and the economics involved are discussed. How HDTV fits into the film and television industries from the perspectives of production, distribution, and creativity, HDTV's demands upon telecommunications, and why data compression plays a critical role have been examined. The evolution of the present workstation from many analytical perspectives, leading up to the most recent product introductions of all the major vendors, developments in accelerator boards and interactive graphics peripherals, and the evolution of the man/machine interface are discussed", 
+    "authors": "Herr, L.", 
+    "title": "Visualization for the information age"
+  }, 
+  {
+    "abstract": "An algorithm that creates planar and arbitrarily curved sections of free-form volumes is presented. The definition of free-form volumes generalizes techniques from free-form curves and surfaces to trivariate representation. The definition is given for volumes in the Bernstein-Bezier representation. The author illustrates an intersection algorithm that can be used to perform intersection operations on free-form volumes. Some calculated examples are given. The algorithm can be used as a subroutine for algorithms which are able to perform more general intersections of free-form volumes, e.g. Boolean operations on two free-form volumes", 
+    "authors": "Lasser, D.", 
+    "title": "Visualization of free form volumes"
+  }, 
+  {
+    "abstract": "The authors discuss effective techniques for representing scalar and vector valued functions that interpolate to irregularly located data. Special attention is given to the situations where the sampling domain is a two-dimensional plane, 3-D volume, or a closed 3-D surface. The authors first discuss the multiquadric and thin-plate spline methods for interpolating scalar data sampled at arbitrary locations in a plane. Straightforward generalizations are then made to data sampled in 3-D volumetric regions as well as in higher dimensional spaces. The globally defined interpolants can be evaluated on a fine regular grid and they can then be visualized using conventional techniques. Triangular and tetrahedral based visualization techniques are also presented", 
+    "authors": "Foley, T.A.;Lane, D.A.", 
+    "title": "Visualization of irregular multivariate data"
+  }, 
+  {
+    "abstract": "The authors describe some simple visualization techniques that may be used to explore dynamic three-dimensional scalar fields in an interactive way. Scalar data are assumed to have been already computed, and graphic manipulations are done afterwards on a graphics workstation. Structured grids (finite-difference grids) are used, leading to an easy and fast exploration of the interior of a volume. Smooth animation and simultaneous visualization of two or three scalar fields is described. These methods were tested on various types of data from different fields of petroleum engineering, i.e. oil reservoir simulation, geophysics, geology, and combustion engine simulations", 
+    "authors": "Pajon, J.L.;Tran, V.B.", 
+    "title": "Visualization of scalar data defined on a structured grid-applications to petroleum research"
+  }, 
+  {
+    "abstract": "A new hierarchical method of plotting is presented which allows one to interactively view millions of data points with up to 10 independent variables.", 
+    "authors": "Mihalisin, T.;Gawlinski, E.;Timlin, J.;Schwegler, J.", 
+    "title": "Visualizing a scalar field on an N-dimensional lattice"
+  }, 
+  {
+    "abstract": "The authors describe a conceptual model, the memory hierarchy framework, and a visual language for using the model. The model is more faithful to the structure of computers than the Von Neumann and Turing models. It addresses the issues of data movement and exposes and unifies storage mechanisms such as cache, translation lookaside buffers, main memory, and disks. The visual language presents the details of a computer's memory hierarchy in a concise drawing composed of rectangles and connecting segments. Using this framework, the authors improved the performance of a matrix multiplication algorithm by more than an order of magnitude. The framework gives insight into computer architecture and performance bottlenecks by making effective use of human visual abilities", 
+    "authors": "Alpern, B.;Carter, L.;Selker, T.", 
+    "title": "Visualizing computer memory architectures"
+  }, 
+  {
+    "abstract": "An approach that uses advanced computer graphics workstations and volume rendering algorithms for accurate reconstruction of volumetric microscopy data is described. It has been found that excellent reconstructions can be made from serial sections acquired using a charge-coupled device and a conventional light microscope. Both confocal and nonconfocal reconstructions are examined. The effects of differing light sources are considered 3D image processing results are presented", 
+    "authors": "Senft, S.L.;Argiro, V.J.;VanZandt, W.L.", 
+    "title": "Volume microscopy of biological specimens based on non-confocal imaging techniques"
+  }, 
+  {
+    "abstract": "The authors discuss the special properties of volumetric cell data (e.g., noise, discontinuity, raggedness) and the particular difficulties encountered when trying to visualize them in three dimensions. The authors describe some of the solutions adopted, specifically in surface discrimination and shading. Nerve cells (neuroblastoma) grown in tissue culture were selected as the biological preparation because these cells possess very rich actin structures. The cells were stained with a fluorescent probe specific for actin (rhodamine-phalloidin) and were viewed and optically sectioned using the Bio-Rad MRC 600 confocal fluorescence microscope. The slice dataset was then reconstructed and processed in the BioCube environment, a comprehensive system developed for volume visualization of cellular structures. The actin cytoskeleton of single cells was visualized and manipulated using this system", 
+    "authors": "Kaufman, A.;Yagel, R.;Bakalash, R.;Spector, I.", 
+    "title": "Volume visualization in cell biology"
+  }, 
+  {
+    "abstract": "The authors present a flexible and efficient method to simulate the Doppler shift. In this new method the spectral curves of surface properties and light composition are represented by spline functions of wavelength. These functions can cover the entire electromagnetic (EM) waves bandwidth, and incorporate the thermal radiation of objects into the surface property description. In particular, a temperature-dependent emission spectral distribution can be assigned to each object for imaging the nonvisible thermal spectra which may become visible due to blue shift. The Doppler shift and shading operations are performed through the manipulation of spline coefficients. The evaluation of the spline functions, which is computationally expensive, is only carried out once-at the end of each shading loop for generating the display RGB values", 
+    "authors": "Hsiung, P.-K.;Thibadeau, R.H.;Cox, C.B.;Dunn, R.H.P.;Wu, M.;Olbrich, P.A.", 
+    "title": "Wide-band relativistic Doppler effect visualization"
+  }
+]
