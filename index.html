@@ -11,25 +11,39 @@
     <div class="container">
       <h1>Paperlist</h1>
       <p>
-        This page contains a list of CHI, Vis (InfoVis, SciVis, VAST), and ETRA papers. 
+        This page contains a list of CHI, Vis (InfoVis, SciVis, VAST), and ETRA papers. Maintained by <a href="http://hcil.snu.ac.kr/people/jaemin-jo" target="_blank">Jaemin Jo</a>.
       </p>
       <p>
-        Showing <strong>{{ app.count | number}}</strong> papers from <strong>{{ app.confCount }}</strong> conferences.
-        Maintained by <a href="http://www.jaeminjo.com" target="_blank">Jaemin Jo</a>.
+        Showing <strong>{{ groups | selectedPaperCount | number }}</strong> papers from <strong>{{ groups | selectedConferenceCount | number }}</strong> conferences.
       </p>
-    </div>
+      <div class="row">
+        <div class="col-md-1" ng-repeat="group in groups">
+          <div class="checkbox">
+            <label>
+              <input type="checkbox" ng-checked="group[1].length == (group[1] | selected).length" ng-click="selectAll(group[1])"> <h6>{{ group[0] }}</h6>
+            </label>
+          </div>
+
+          <div class="checkbox" ng-repeat="conference in group[1]">
+            <label>
+              <input type="checkbox" ng-model="conference.selected"> {{ conference.year }}
+            </label>
+          </div>
+        </div>
+      </div>
+   </div>
   </div>
   <div id="paperList" class="container">
-    <div ng-repeat="conf in app.confList">
-      <ul>
-        <li ng-repeat="paper in conf.papers">
-          <h4>{{ paper.title }} <small><span class="label label-primary">{{ conf.name}}</span> {{ paper.session }}</small></h4>
+    <div ng-repeat="group in groups">
+      <ul ng-repeat="conference in group[1] | selected">
+        <li ng-repeat="paper in conference.papers">
+          <h4>{{ paper.title }} <small><span class="label label-primary">{{ conference.name}} {{ conference.year }}</span> {{ paper.session }}</small></h4>
           <p>{{ paper.abstract }}</p>
         </li>
       </ul>
     </div>
   </div>
-  <script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.22/angular.min.js"></script>
   <script src="index.js"></script>
 </body>
