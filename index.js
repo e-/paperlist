@@ -48,8 +48,8 @@ angular
     }
 
     var defaults = {
-      name: ['CHI', 'InfoVis', 'VAST'],
-      year: new Date().getYear() + 1900 - 20
+      name: ['CHI'],
+      year: new Date().getYear() + 1900 - 5
     };
 
     $scope.conferences = [];
@@ -75,7 +75,7 @@ angular
 
               $scope.conferences.push(conference);
               count--; // requires thread-safe
-              if(count == 0)
+              if(count === 0)
                 $scope.loaded();
             });
         });
