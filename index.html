@@ -36,9 +36,9 @@
   <div id="paperList" class="container">
     <div ng-repeat="group in groups">
       <ul ng-repeat="conference in group[1] | selected">
-        <li ng-repeat="paper in conference.papers">
-          <h4>{{ paper.title }} <small><span class="label label-primary">{{ conference.name}} {{ conference.year }}</span> {{ paper.session }}</small></h4>
-          <p>{{ paper.abstract }}</p>
+        <li ng-repeat="paper in conference.papers track by paper.title">
+          <h4>{{ ::paper.title }} <small><span class="label label-primary">{{ ::conference.name}} {{ ::conference.year }}</span> {{ ::paper.session }}</small></h4>
+          <p>{{ ::paper.abstract }}</p>
         </li>
       </ul>
     </div>
