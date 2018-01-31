@@ -19,6 +19,7 @@
   {"name": "CHI 14", "path": "data/chi14.json"},
   {"name": "CHI 15", "path": "data/chi15.json"},
   {"name": "CHI 16", "path": "data/chi16.json"},
+  {"name": "CHI 17", "path": "data/chi17.json"},
 
   {"name": "ETRA 06", "path": "data/etra06.json"},
   {"name": "ETRA 08", "path": "data/etra08.json"},
