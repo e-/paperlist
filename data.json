@@ -47,6 +47,9 @@
   {"name": "InfoVis 12", "path": "data/InfoVis2012.json"},
   {"name": "InfoVis 13", "path": "data/InfoVis2013.json"},
   {"name": "InfoVis 14", "path": "data/InfoVis2014.json"},
+  {"name": "InfoVis 15", "path": "data/InfoVis2015.json"},
+  {"name": "InfoVis 16", "path": "data/InfoVis2016.json"},
+  {"name": "InfoVis 17", "path": "data/InfoVis2017.json"},
 
   {"name": "SciVis 90", "path": "data/SciVis1990.json"},
   {"name": "SciVis 91", "path": "data/SciVis1991.json"},
@@ -73,6 +76,9 @@
   {"name": "SciVis 12", "path": "data/SciVis2012.json"},
   {"name": "SciVis 13", "path": "data/SciVis2013.json"},
   {"name": "SciVis 14", "path": "data/SciVis2014.json"},
+  {"name": "SciVis 15", "path": "data/SciVis2015.json"},
+  {"name": "SciVis 16", "path": "data/SciVis2016.json"},
+  {"name": "SciVis 17", "path": "data/SciVis2017.json"},
 
   {"name": "VAST 06", "path": "data/VAST2006.json"},
   {"name": "VAST 07", "path": "data/VAST2007.json"},
@@ -82,5 +88,8 @@
   {"name": "VAST 11", "path": "data/VAST2011.json"},
   {"name": "VAST 12", "path": "data/VAST2012.json"},
   {"name": "VAST 13", "path": "data/VAST2013.json"},
-  {"name": "VAST 14", "path": "data/VAST2014.json"}
+  {"name": "VAST 14", "path": "data/VAST2014.json"},
+  {"name": "VAST 15", "path": "data/VAST2015.json"},
+  {"name": "VAST 16", "path": "data/VAST2016.json"},
+  {"name": "VAST 17", "path": "data/VAST2017.json"}
 ]
